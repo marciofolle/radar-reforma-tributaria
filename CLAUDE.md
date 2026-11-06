@@ -43,7 +43,8 @@ Se uma página não abrir, use WebSearch com `allowed_domains` do domínio.
 - Buscas abertas: reforma tributária transporte de cargas; frete CBS transportadoras; CT-e nota técnica IBS CBS; MDF-e reforma tributária; transportador autônomo crédito presumido; FETCESP / Fetranspar / SETCESC / FETRANCESC / ABTI / ABOL reforma tributária; sindicato empresas transporte de cargas reforma tributária.
 
 ## 3. Critérios
-- Só entra item publicado depois do `atualizado_em` anterior. Data e URL têm de vir de resultado de ferramenta; sem data confirmada (WebFetch se preciso), não inclua. Nunca invente URL ou data.
+- Janela de busca: considere tudo o que foi publicado nos **últimos 3 dias** e ainda não está no `noticias.json` (compare URL e assunto). NÃO use o `atualizado_em` como corte: matérias publicadas antes da última rodada costumam ser indexadas pela busca só horas depois e precisam entrar mesmo assim. Data e URL têm de vir de resultado de ferramenta; sem data confirmada (WebFetch se preciso), não inclua. Nunca invente URL ou data.
+- Profundidade mínima por rodada: abrir as 8 fontes oficiais e fazer pelo menos 15 buscas (todas as listas da seção 2). Uma rodada que termina em poucos minutos com "0 novos" está incompleta. Registre no commit quantas buscas foram feitas, ex.: "Atualiza radar: 2026-11-06 17:00 (3 novos, 18 buscas)".
 - Sem duplicatas (URL e assunto). Mesmo fato: fonte oficial + no máximo 1 imprensa + no máximo 1 entidade.
 - Relevância: IBS, CBS, Imposto Seletivo, alíquotas, regulamentos, DF-e/NTs, obrigações acessórias, Simples Nacional, split payment, créditos, Judiciário, setores e, com prioridade, transporte. Ignore promoção, eventos sem conteúdo e republicações.
 - Zero itens novos é aceitável.
@@ -63,7 +64,7 @@ Se uma página não abrir, use WebSearch com `allowed_domains` do domínio.
 4. Commit e push:
    ```
    git add noticias.json index.html
-   git -c user.name="Radar Funcional (Claude)" -c user.email="noreply@anthropic.com" commit -m "Atualiza radar: <AAAA-MM-DD HH:MM> (<n> novos)"
+   git -c user.name="Radar Funcional (Claude)" -c user.email="noreply@anthropic.com" commit -m "Atualiza radar: <AAAA-MM-DD HH:MM> (<n> novos, <b> buscas)"
    git fetch origin main:refs/remotes/origin/main && git rebase origin/main
    git push origin HEAD:main
    git ls-remote origin refs/heads/main   # deve mostrar o hash do seu commit
