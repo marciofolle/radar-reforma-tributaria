@@ -368,6 +368,21 @@
       temas.map(t => '<button class="chip" data-tema="'+esc(t)+'" aria-pressed="'+(state.tema===t)+'">'+esc(t)+'</button>').join("");
   }
 
+  // Google Programmable Search (JSON API). Preencha para ativar a busca ao vivo.
+  const GSEARCH = {key:"", cx:""};
+  let liveSeq = 0;
+  async function liveSearch(term){
+    const box = $("#live"); if(!box || !GSEARCH.key || !GSEARCH.cx) return;
+    const my = ++liveSeq;
+    box.innerHTML = '<p>Buscando na web…</p>';
+    try{
+      const u = "https://www.googleapis.com/customsearch/v1?key="+encodeURIComponent(GSEARCH.key)+"&cx="+encodeURIComponent(GSEARCH.cx)+"&hl=pt-BR&lr=lang_pt&num=8&q="+encodeURIComponent(term+" reforma tributária");
+      const r = await fetch(u); if(!r.ok) throw new Error(r.status);
+      const j = await r.json(); if(my!==liveSeq) return;
+      const its = j.items||[];
+      box.innerHTML = its.length ? '<div class="day">Resultados da web para “'+esc(term)+'”</div>'+its.map(i=>'<article class="item" style="text-align:left"><h3><a href="'+esc(safeUrl(i.link))+'" target="_blank" rel="noopener">'+esc(i.title)+'</a></h3><p>'+esc(i.snippet||"")+'</p><div class="pubtime">'+esc(i.displayLink||"")+'</div></article>').join("") : '<p>Nenhum resultado na web.</p>';
+    }catch(e){ if(my===liveSeq) box.innerHTML = '<p>Não foi possível buscar na web agora.</p>'; }
+  }
   function webSearchHtml(){
     if(!state.q) return "";
     const q = encodeURIComponent(state.q+" reforma tributária");
@@ -383,7 +398,7 @@
     $("#c-entidade").textContent = base.filter(i=>i.tipo==="entidade").length;
     const list = base.filter(it => state.tipo==="todas" || it.tipo===state.tipo);
     $("#count").textContent = list.length + (list.length===1?" item":" itens");
-    if(!list.length){ $("#feed").innerHTML = '<div class="empty">Nada encontrado com esses filtros.'+webSearchHtml()+'</div>'; $("#more").hidden = true; return; }
+    if(!list.length){ $("#feed").innerHTML = '<div class="empty">Nada encontrado com esses filtros.'+webSearchHtml()+'<div id="live"></div></div>'; $("#more").hidden = true; if(state.q) liveSearch(state.q); return; }
     const lastUpd = (DATA.atualizado_em||"").slice(0,10);
     let html = "", cur = null;
     list.slice(0,state.limit).forEach(it => {
