@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.radardareformatributariafuncional.com/sitemap.xml
+Sitemap: https://www.radardareformatributaria.info/sitemap.xml

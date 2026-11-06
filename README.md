@@ -1,6 +1,6 @@
 # Radar da Reforma Tributária · Funcional
 
-Site estático publicado via GitHub Pages em https://www.radardareformatributariafuncional.com
+Site estático publicado via GitHub Pages em https://www.radardareformatributaria.info
 
 - `index.html` — página (dados embutidos como fallback)
 - `noticias.json` — notícias, prazos e indicadores (atualizado a cada hora pela rotina automática)
