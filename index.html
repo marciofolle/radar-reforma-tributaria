@@ -107,6 +107,7 @@
   .item:hover{box-shadow:0 2px 4px rgba(20,40,70,.08),0 10px 26px rgba(20,40,70,.1)}
   .item.oficial{box-shadow:inset 4px 0 0 var(--teal),var(--shadow)}
   .item.oficial:hover{box-shadow:inset 4px 0 0 var(--teal),0 2px 4px rgba(20,40,70,.08),0 10px 26px rgba(20,40,70,.1)}
+  .pubtime{margin-top:8px;font-size:12px;color:#7F93B1}
   .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px}
   .badge{display:inline-flex;align-items:center;gap:5px;font-family:Montserrat,sans-serif;font-size:11px;font-weight:600;padding:3px 9px;border-radius:999px}
   .badge.of{background:var(--teal-soft);color:var(--teal-ink)}
@@ -376,6 +377,7 @@
         '<h3><a href="'+esc(safeUrl(it.url))+'" target="_blank" rel="noopener">'+esc(it.titulo)+'</a></h3>'+
         (it.resumo?'<p>'+esc(it.resumo)+'</p>':'')+
         '<div class="tags">'+(it.temas||[]).map(t=>'<button class="tag-btn" data-tema="'+esc(t)+'">#'+esc(t)+'</button>').join("")+'</div>'+
+        '<div class="pubtime">Publicada em '+esc(it.data.split("-").reverse().join("/"))+(it.adicionado_em?' · no radar em '+esc(it.adicionado_em.slice(8,10)+"/"+it.adicionado_em.slice(5,7)+" às "+it.adicionado_em.slice(11,16)):'')+'</div>'+
       '</article>';
     });
     $("#feed").innerHTML = html;
