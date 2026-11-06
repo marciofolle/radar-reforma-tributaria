@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-06T16:55:00-03:00",
+  "atualizado_em": "2026-11-06T18:45:33-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -403,6 +403,20 @@
         "Legislação"
       ],
       "url": "https://www.migalhas.com.br/depeso/467608/cbs-em-2027-cobranca-em-janeiro-ou-nao-risco-calculavel"
+    },
+    {
+      "id": "infomoney-2026-11-03-relator-cbs-surpresa",
+      "data": "2026-11-03",
+      "adicionado_em": "2026-11-06T18:45:33-03:00",
+      "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
+      "resumo": "Eduardo Braga, relator no Senado, afirmou que o cálculo do TCU (11,3468%) surpreendeu os parlamentares, acima dos 8,8% projetados pela Fazenda em 2024 e dos 9,21% estimados em julho. Sem resolução até 15/12, vale o valor do TCU.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
     },
     {
       "id": "barbieri-2026-11-02-ribs",
