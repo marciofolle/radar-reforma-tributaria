@@ -27,8 +27,8 @@ Se uma página não abrir, use WebSearch com `allowed_domains` do domínio.
 - ["mundologistica.com.br","contabeis.com.br","noticias.iob.com.br"]
 - Grande imprensa (query "reforma tributária IBS CBS"):
   - ["valor.globo.com","g1.globo.com","oglobo.globo.com","gente.globo.com"]
-  - ["uol.com.br","noticias.uol.com.br","economia.uol.com.br","folha.uol.com.br"]
-  - ["cnnbrasil.com.br","estadao.com.br","infomoney.com.br","exame.com","istoedinheiro.com.br"]
+  - ["folha.uol.com.br","noticias.uol.com.br","economia.uol.com.br"]  (a WebSearch recusa "uol.com.br" e "estadao.com.br" em allowed_domains; se der erro 400, remova o domínio recusado e repita, ou busque sem filtro de domínio)
+  - ["cnnbrasil.com.br","infomoney.com.br","exame.com","istoedinheiro.com.br"]
   - ["agenciabrasil.ebc.com.br","poder360.com.br","correiobraziliense.com.br","conjur.com.br","bloomberglinea.com.br","brasil247.com","metropoles.com"]
   - Rastreie também veículos semelhantes que aparecerem nas buscas abertas (portais econômicos, jurídicos, tributários e regionais). Vale o mesmo critério da seção 3 (data e URL vindas da ferramenta; tipo "imprensa"; título reescrito).
 - + 4 a 6 buscas abertas com a data de hoje (reforma tributária hoje, CBS alíquota Senado, IBS Comitê Gestor resolução, Imposto Seletivo MP, nota técnica NF-e IBS CBS, split payment, Simples Nacional IBS CBS, reforma tributária STF).
