@@ -250,7 +250,7 @@
           <input type="text" id="sg-note" maxlength="200" placeholder="Por que vale monitorar? (opcional)" aria-label="Observação">
           <button class="btn" type="submit">Enviar sugestão</button>
         </form>
-        <p class="sg-hint">Abre uma sugestão no GitHub do projeto; é preciso ter uma conta gratuita.</p>
+        <p class="sg-hint">Abre o seu programa de e-mail com a sugestão pronta para enviar à Funcional.</p>
       </div>
     </aside>
   </div>
@@ -402,8 +402,9 @@
       e.preventDefault();
       const u = $("#sg-url").value.trim(), n = $("#sg-note").value.trim();
       if(!/^https?:\/\//i.test(u)) return;
-      const q = "title="+encodeURIComponent("Sugestão de fonte: "+u)+"&body="+encodeURIComponent("Site: "+u+"\n\nMotivo: "+(n||"-"))+"&labels=sugestao-de-fonte";
-      window.open("https://github.com/marciofolle/radar-reforma-tributaria/issues/new?"+q, "_blank", "noopener");
+      const subj = "Sugestão de fonte para o Radar: "+u;
+      const body = "Site: "+u+"\n\nMotivo: "+(n||"-");
+      window.location.href = "mailto:marcio.folle@funcional.com?subject="+encodeURIComponent(subj)+"&body="+encodeURIComponent(body);
     });
   }
   function bind(){
