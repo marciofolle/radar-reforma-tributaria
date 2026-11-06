@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-06T10:55:00-03:00",
+  "atualizado_em": "2026-11-06T11:12:07-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -589,19 +589,6 @@
         "Créditos"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/cfc-publica-orientacao-tecnica-sobre-tratamento-contabil-do-ibs-e-da-cbs-na-reforma-tributaria/"
-    },
-    {
-      "id": "jota-2026-07-06-trf2",
-      "data": "2026-07-06",
-      "titulo": "Ação no TRF2 pede CBS menor para serviços intensivos em mão de obra",
-      "resumo": "JOTA trata como a primeira grande disputa constitucional da reforma: o pedido busca reequilibrar empresas cuja folha não gera crédito.",
-      "fonte": "JOTA",
-      "tipo": "imprensa",
-      "temas": [
-        "Judiciário",
-        "CBS"
-      ],
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/a-primeira-grande-disputa-constitucional-da-reforma-tributaria"
     }
   ]
 }
