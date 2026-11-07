@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-07T06:44:34-03:00",
+  "atualizado_em": "2026-11-07T11:45:15-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -47,6 +47,12 @@
       "url": "https://inventti.com.br/?p=25281"
     },
     {
+      "data": "2026-11-16",
+      "titulo": "NF-e: NT 2026.008 v1.01 em produção",
+      "detalhe": "IBS, CBS e IS fora do vProd; novos campos e regras de validação",
+      "url": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/"
+    },
+    {
       "data": "2026-11-30",
       "titulo": "Cooperativas — opção pelo regime específico (em discussão)",
       "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11",
@@ -90,6 +96,50 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-06-efd-contribuicoes-nt13",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T11:45:15-03:00",
+      "titulo": "EFD-Contribuições seguirá ativa em 2027; Nota Técnica 13/2026 detalha transição para a CBS",
+      "resumo": "A Receita divulgou a NT 13/2026, que mantém a EFD-Contribuições em 2027 e orienta saldos credores acumulados no fim de 2026, créditos presumidos de CBS sobre ativo imobilizado e estoque de abertura em 1º/1/2027, sem criar novos registros.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "CBS",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80665/efd-contribuicoes-nt-13-2026-orienta-transicao-para-a-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-06-nfe-nt2026008-vprod",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T11:45:15-03:00",
+      "titulo": "NF-e: IBS, CBS e IS saem do campo vProd pela NT 2026.008 v1.01",
+      "resumo": "A NT 2026.008 v1.01 (30/10) retira IBS, CBS e Imposto Seletivo do valor bruto do produto (vProd) na NF-e. Novos campos e regras entram em produção em 16/11/2026; o vICMSPrevisto passa a ser exigido em 1º/3/2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/"
+    },
+    {
+      "id": "contabeis-2026-11-06-durigan-sem-aumento-carga",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T11:45:15-03:00",
+      "titulo": "Durigan nega aumento da carga com novos impostos da reforma",
+      "resumo": "O ministro Dario Durigan afirmou que Imposto Seletivo e CBS substituem tributos existentes (\"dois novos, cinco extintos\"). O IS começa em 2/2/2027 pela MP 1.399/2026, com alíquotas iniciais equivalentes às do IPI.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80655/reforma-tributaria-ministro-nega-aumento-de-impostos/"
+    },
     {
       "id": "cnn-2026-11-06-governo-admite-adiar",
       "data": "2026-11-06",
