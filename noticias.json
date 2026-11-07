@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-07T04:45:00-03:00",
+  "atualizado_em": "2026-11-07T17:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -31,7 +31,7 @@
     {
       "data": "2026-11-10",
       "titulo": "TCU entrega ao Senado o estudo da alíquota da CBS",
-      "detalhe": "Ofício segue à Presidência do Senado e à CAE; audiência pública na CAE com TCU, Receita e Fazenda aprovada para 10/11",
+      "detalhe": "Ofício segue à Presidência do Senado e à CAE; audiências públicas na CAE (TCU, Receita, Fazenda, CGIBS) a partir de 11/11, com relatoria de Eduardo Braga",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
     },
     {
@@ -330,6 +330,22 @@
         "Legislação"
       ],
       "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
+    },
+    {
+      "id": "camara-2026-11-05-mp-1399-imposto-seletivo",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-07T17:00:00-03:00",
+      "titulo": "Medida provisória regulamenta o Imposto Seletivo para 2027",
+      "resumo": "A MP 1.399/2026 fixa as alíquotas do Imposto Seletivo, que passa a valer em 2 de fevereiro de 2027 e substitui parte do IPI. Segundo o governo, a carga atual é mantida em 2027, com aumentos a partir de 2028.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
     },
     {
       "id": "migalhas-2026-11-04-oab-adiamento-2028",
