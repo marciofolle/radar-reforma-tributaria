@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-06T20:45:08-03:00",
+  "atualizado_em": "2026-11-06T21:44:56-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -272,6 +272,20 @@
         "CBS"
       ],
       "url": "https://centraldovarejo.com.br/fiesp-recorre-ao-trf1-e-zona-franca-de-manaus-volta-ao-centro-da-reforma-tributaria/"
+    },
+    {
+      "id": "reformatributaria-2026-11-05-pec-22-ipi-imposto-seletivo",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-06T21:44:56-03:00",
+      "titulo": "Governo envia PEC 22/2026 para manter o IPI até o início do Imposto Seletivo",
+      "resumo": "A PEC 22/2026, enviada em 4/11, mantém o IPI sobre cigarros e bebidas alcoólicas até o Imposto Seletivo valer, em 2/2/2027 pela MP 1.399/2026. Sem aprovação neste ano, haveria lacuna de tributação extrafiscal e risco de estoques antecipados.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
     },
     {
       "id": "senado-2026-11-04-cae-debate",
