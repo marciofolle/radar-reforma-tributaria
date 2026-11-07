@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-07T12:00:00-03:00",
+  "atualizado_em": "2026-11-07T18:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -61,7 +61,7 @@
     {
       "data": "2026-12-14",
       "titulo": "CT-e: regras de validação da NT 2026.005 em produção",
-      "detalhe": "Rejeições novas para emitentes do Simples",
+      "detalhe": "Rejeições novas para emitentes do Simples; Setcesp: NT 2026.004 v1.01 do CT-e prorrogada de 16/11 para 14/12",
       "url": "https://inventti.com.br/?p=25281"
     },
     {
@@ -220,6 +220,21 @@
       "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/"
     },
     {
+      "id": "fazenda-2026-11-05-mp-imposto-seletivo",
+      "data": "2026-11-05",
+      "titulo": "Governo Federal define alíquotas do Imposto Seletivo para 2027 por meio de medida provisória",
+      "resumo": "Lula assinou a MP 1.399/2026 com as alíquotas do IS. A cobrança começa em 2/2/2027 em regime transitório até 31/12/2027; bens minerais ficam com alíquota zero, concursos de prognósticos pagam 0,5%, e eventual variação de receita é compensada na CBS.",
+      "fonte": "Ministério da Fazenda",
+      "orgao": "Ministério da Fazenda",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
+    },
+    {
       "id": "brasil247-2026-11-05-cni-revisao-aliquota-cbs",
       "data": "2026-11-05",
       "adicionado_em": "2026-11-06T14:50:35-03:00",
@@ -317,6 +332,36 @@
       "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
     },
     {
+      "id": "migalhas-2026-11-04-oab-adiamento-2028",
+      "data": "2026-11-04",
+      "titulo": "OAB e as 27 seccionais pedem adiar para 2028 as etapas de 2027 da reforma",
+      "resumo": "Em manifesto, o Conselho Federal e as seccionais da OAB pedem que a troca de PIS/Cofins pela CBS e a criação do Imposto Seletivo passem para 1º/1/2028, alegando incertezas regulatórias, operacionais e econômicas.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www.migalhas.com.br/quentes/467893/oab-pede-adiamento-da-reforma-tributaria-para-2028",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
+    },
+    {
+      "id": "setcesp-2026-11-04-cte-adiado",
+      "data": "2026-11-04",
+      "titulo": "CT-e adaptado à Reforma Tributária é adiado",
+      "resumo": "A Nota Técnica 2026.004 v1.01 do CT-e, que entraria em vigor em 16/11/2026, foi prorrogada para 14/12/2026, segundo o Setcesp.",
+      "fonte": "Setcesp",
+      "orgao": "Setcesp",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "Documentos fiscais"
+      ],
+      "url": "http://setcesp.org.br/noticias/ct-e-adaptado-a-reforma-tributaria-e-adiado/",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
+    },
+    {
       "id": "senado-2026-11-04-cae-debate",
       "data": "2026-11-04",
       "titulo": "Comissão vai debater alíquota da CBS",
@@ -381,6 +426,20 @@
         "Legislação"
       ],
       "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
+    },
+    {
+      "id": "jornaldocomercio-2026-11-03-braga-cbs",
+      "data": "2026-11-03",
+      "titulo": "Relator no Senado considera elevada a CBS de 11,3% e fala em tributo de até 9%",
+      "resumo": "Eduardo Braga, relator da CBS na CAE, diz não estar convencido do cálculo do TCU: esperava 8% a 9%, enquanto projeções de empresas apontavam 9,5%. A alíquota deve ser fixada por resolução do Senado até 15/12.",
+      "fonte": "Jornal do Comércio",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.jornaldocomercio.com/economia/2026/11/1269092-relator-no-senado-diz-considerar-aliquota-da-cbs-elevada-e-fala-em-tributo-de-ate-9.html",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
     },
     {
       "id": "senado-2026-11-03-calculo-cbs",
