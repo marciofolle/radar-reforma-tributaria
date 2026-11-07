@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-07T16:45:58-03:00",
+  "atualizado_em": "2026-11-07T20:45:10-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -426,6 +426,20 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
+    },
+    {
+      "id": "migalhas-2026-11-05-mp-do-pecado",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-07T20:45:10-03:00",
+      "titulo": "MP do Pecado: dúvidas jurídicas sobre a MP 1.399/2026 e o Imposto Seletivo",
+      "resumo": "Artigo questiona a urgência da MP 1.399/2026, a presunção de concordância na apuração assistida e a conversão em lei até 31/12; aponta risco de vazio tributário em janeiro de 2027, com o IPI zerado e o IS só devido a partir de 2 de fevereiro.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/467901/a-mp-do-pecado--questoes-legais-e-polemicas"
     },
     {
       "id": "migalhas-2026-11-04-oab-adiamento-2028",
