@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-06T21:44:56-03:00",
+  "atualizado_em": "2026-11-07T12:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -191,6 +191,35 @@
       "url": "https://www.mixvale.com.br/2026/11/06/aluguel-de-imoveis-com-ibs-e-cbs-aliquotas-de-teste-em-2026-e/"
     },
     {
+      "id": "poder360-2026-11-06-appy-testes-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Appy defende estender até o fim de 2027 o período de testes da CBS",
+      "resumo": "O ex-secretário da Reforma Tributária Bernard Appy defende prolongar o teste só da CBS até o fim de 2027, mantendo 2029 para o início da transição do IBS, e cita pendências como a segunda versão do regulamento.",
+      "fonte": "Poder360",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.poder360.com.br/reforma-tributaria-2027/bernard-appy-defende-prolongar-periodo-de-testes-da-cbs/"
+    },
+    {
+      "id": "conjur-2026-11-06-funrural-ibs-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Artigo: IBS e CBS ficariam fora da base do Funrural e do Senar",
+      "resumo": "Opinião publicada na Conjur sustenta que, a partir de 2027, IBS e CBS não integram a base de cálculo do Funrural e do Senar, com apoio na Constituição e na LC 214/2025; trata-se de tese, não de decisão.",
+      "fonte": "Conjur",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Setores"
+      ],
+      "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/"
+    },
+    {
       "id": "brasil247-2026-11-05-cni-revisao-aliquota-cbs",
       "data": "2026-11-05",
       "adicionado_em": "2026-11-06T14:50:35-03:00",
@@ -337,6 +366,21 @@
         "Alíquotas"
       ],
       "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/comissao-do-senado-fara-audiencia-publica-sobre-aliquota-da-cbs"
+    },
+    {
+      "id": "conjur-2026-11-04-pec-any-ortiz-2028",
+      "data": "2026-11-04",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Deputada protocola PEC para adiar cobranças da reforma para 2028",
+      "resumo": "Any Ortiz (PP-RS) apresentou PEC que estende a adaptação até 2027 e adia para 2028 a cobrança definitiva de CBS e Imposto Seletivo; precisa de 171 assinaturas para tramitar.",
+      "fonte": "Conjur",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
     },
     {
       "id": "senado-2026-11-03-calculo-cbs",
