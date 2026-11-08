@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-08T18:00:00-03:00",
+  "atualizado_em": "2026-11-08T21:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -33,6 +33,12 @@
       "titulo": "TCU entrega ao Senado o estudo da alíquota da CBS",
       "detalhe": "Ofício segue à Presidência do Senado e à CAE; audiências públicas na CAE (TCU, Receita, Fazenda, CGIBS) a partir de 11/11, com relatoria de Eduardo Braga",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
+    },
+    {
+      "data": "2026-11-10",
+      "titulo": "MP 1.399/2026 — fim do prazo de emendas",
+      "detalhe": "Emendas à MP do Imposto Seletivo até 10/11; deliberação até 12/02/2027",
+      "url": "https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/176208"
     },
     {
       "data": "2026-11-15",
