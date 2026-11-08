@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-08T07:44:56-03:00",
+  "atualizado_em": "2026-11-08T13:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -53,6 +53,12 @@
       "url": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/"
     },
     {
+      "data": "2026-11-16",
+      "titulo": "NF-e: NT 2025.002 v1.52 em produção",
+      "detalhe": "Rejeições de IBS/CBS da versão 1.52 passam a valer em produção, segundo o Portal da NF-e",
+      "url": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/"
+    },
+    {
       "data": "2026-11-30",
       "titulo": "Cooperativas — opção pelo regime específico (em discussão)",
       "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11",
@@ -102,6 +108,48 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
+      "data": "2026-11-07",
+      "adicionado_em": "2026-11-08T13:00:00-03:00",
+      "titulo": "NF-e: como saber se uma rejeição de IBS/CBS já vale em produção",
+      "resumo": "Rejeição vista em homologação pode não estar ativa em produção; a equipe fiscal deve cruzar o código com a NT 2025.002 v1.52, prevista para produção em 16/11/2026 segundo o Portal da NF-e.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/"
+    },
+    {
+      "id": "reformatributaria-2026-11-06-sem-adiamento-cbs-janeiro",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T13:00:00-03:00",
+      "titulo": "Fazenda e Receita descartam adiar a CBS e mantêm cobrança em janeiro de 2027",
+      "resumo": "Segundo o portal, Fazenda e Receita não pretendem alongar a transição; Durigan admite apenas flexibilizar prazos de multas e obrigações acessórias, enquanto OAB e CNI pedem adiamento.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/iva/sem-adiamento-receita-e-fazenda-querem-manter-cbs-a-partir-de-janeiro/"
+    },
+    {
+      "id": "reformatributaria-2026-11-06-pec-adiar-beneficios-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T13:00:00-03:00",
+      "titulo": "Regimes favorecidos explicam CBS de 11,3%; PEC de adiamento reabriria debate",
+      "resumo": "Isenções com alíquota zero custam R$ 126,3 bi (25,9%) da CBS e reduções setoriais R$ 61,9 bi (12,7%); Ipea estima 7,6% sem exceções. PEC de adiamento ainda não foi protocolada.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/pec-adiar-reforma-brecha-reduzir-beneficios-setoriais-aliquota-cbs/"
+    },
     {
       "id": "contabeis-2026-11-06-cte-schemas-simples",
       "data": "2026-11-06",
