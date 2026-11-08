@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-08T04:44:32-03:00",
+  "atualizado_em": "2026-11-08T08:45:09-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -93,6 +93,12 @@
       "titulo": "Início da cobrança do Imposto Seletivo",
       "detalhe": "Alíquotas transitórias da MP 1.399/2026",
       "url": "https://www.mixvale.com.br/2026/11/05/impostodo-pecado-2027-cerveja-42-vinho-8-e-cigarros-667-mais-r-350/"
+    },
+    {
+      "data": "2027-06-30",
+      "titulo": "EFD-Contribuições: estoque de abertura (F150) de créditos da CBS",
+      "detalhe": "Transmissão do levantamento de 31/12/2026; créditos liberados em 12 parcelas mensais",
+      "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
     }
   ],
   "itens": [
@@ -312,6 +318,21 @@
         "Setores"
       ],
       "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/"
+    },
+    {
+      "id": "contabeis-2026-11-06-efd-contribuicoes-creditos-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T08:45:09-03:00",
+      "titulo": "EFD-Contribuições terá mudanças para créditos da CBS em 2027",
+      "resumo": "A EFD-Contribuições passa a registrar créditos presumidos da CBS sobre depreciação, amortização e estoque de abertura, com novas validações de saldos de PIS/Pasep e Cofins. O estoque de abertura (F150), de 31/12/2026, deve ser transmitido até 30/06/2027.",
+      "fonte": "Contabeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
     },
     {
       "id": "fenacon-2026-11-05-cnc-cbs-servicos-543",
