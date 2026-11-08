@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-08T02:44:57-03:00",
+  "atualizado_em": "2026-11-08T12:30:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -96,6 +96,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-06-cte-schemas-simples",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T12:30:00-03:00",
+      "titulo": "CT-e: schemas incluem campo de IBS/CBS para o Simples",
+      "resumo": "O portal do CT-e disponibilizou o pacote de schemas da NT 2026.005 com o campo tpRegimeIBSCBS no emitente. Publicar o schema não significa obrigatoriedade imediata nem novas rejeições em produção; vale checar o cronograma com o fornecedor do emissor.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Simples Nacional",
+        "Transporte"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80648/ct-e-schemas-incluem-campo-de-ibs-cbs-para-o-simples/"
+    },
+    {
+      "id": "contabeis-2026-11-06-nfgas-recebida",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T12:30:00-03:00",
+      "titulo": "NFGas recebida: o que conferir antes de pagar a conta",
+      "resumo": "A NFGas (modelo 76) já é emitida em produção, com a primeira nota autorizada em 2/11. A NT 2026.004 v1.01 incorpora IBS e CBS ao documento, com implantação prevista para 16/11; convém conferir autorização, destinatário e valores antes do pagamento.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://contabeis.com.br/noticias/80674/nfgas-recebida-o-que-conferir-antes-de-pagar-a-conta"
+    },
     {
       "id": "contabeis-2026-11-06-cgibs-equipe-aplicacoes",
       "data": "2026-11-06",
