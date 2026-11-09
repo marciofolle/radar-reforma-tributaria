@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-08T22:45:03-03:00",
+  "atualizado_em": "2026-11-08T23:45:13-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -387,6 +387,21 @@
         "Créditos"
       ],
       "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
+    },
+    {
+      "id": "contabeis-2026-11-06-iva-30-margem",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T23:45:13-03:00",
+      "titulo": "IVA próximo de 30% pode reduzir a margem das empresas; simulação por operação é recomendada",
+      "resumo": "Artigo mostra que, com CBS de 11,3% e IBS estimado em 18,7%, R$ 3.000 a mais de tributo sobre R$ 100 mil de receita derrubam a margem de 15% para 12%, e recomenda simular o impacto operação a operação.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Alíquotas",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.contabeis.com.br/artigos/80615/iva-de-30-como-avaliar-o-impacto-na-margem-da-empresa/"
     },
     {
       "id": "fenacon-2026-11-05-cnc-cbs-servicos-543",
