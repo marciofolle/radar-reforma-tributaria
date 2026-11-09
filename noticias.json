@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T18:44:51-03:00",
+  "atualizado_em": "2026-11-09T19:44:40-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-09-medicos-clinicas",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-09T19:44:40-03:00",
+      "titulo": "Clínicas e consultórios devem revisar custos, preços e sistemas para IBS e CBS",
+      "resumo": "Matéria destaca que serviços de saúde terão redução de 60% nas alíquotas de IBS e CBS e recomenda que médicos e clínicas revisem custos, precificação, fluxo de caixa e emissão de notas com antecedência.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80683/reforma-tributaria-o-que-medicos-e-clinicas-precisam-saber"
+    },
     {
       "id": "receita-2026-11-09-apis-apuracao-cbs",
       "data": "2026-11-09",
