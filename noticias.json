@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T16:45:03-03:00",
+  "atualizado_em": "2026-11-09T17:44:54-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "receita-2026-11-09-apis-apuracao-cbs",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-09T17:44:54-03:00",
+      "titulo": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+      "resumo": "Receita liberou a versão 2.0 das APIs de consulta da apuração da CBS, em produção restrita e produção beta. Contribuintes ou procuradores digitais precisam gerar nova credencial de acesso; chaves antigas devem ser canceladas.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
+    },
     {
       "id": "contabeis-2026-11-09-sem-adiamento-cbs",
       "data": "2026-11-09",
