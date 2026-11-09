@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T12:45:09-03:00",
+  "atualizado_em": "2026-11-09T13:45:05-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -141,6 +141,20 @@
         "Transporte"
       ],
       "url": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/"
+    },
+    {
+      "id": "exame-2026-11-08-adiamento-cbs-2028",
+      "data": "2026-11-08",
+      "adicionado_em": "2026-11-09T13:45:05-03:00",
+      "titulo": "Adiar a CBS para 2028? Quem defende e o que diz o governo",
+      "resumo": "Bernard Appy, entidades empresariais e a OAB pedem usar 2027 como ano de testes e iniciar a CBS em 2028. O governo mantém janeiro de 2027, admite alongar prazos de multas e obrigações, e adiar exigiria emenda constitucional.",
+      "fonte": "Exame",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://exame.com/economia/reforma-tributaria-pode-ser-adiada-veja-quem-defende-a-mudanca-e-o-que-diz-o-governo/"
     },
     {
       "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
