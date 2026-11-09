@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T08:45:32-03:00",
+  "atualizado_em": "2026-11-09T09:46:02-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -115,6 +115,20 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-09-sem-adiamento-cbs",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-09T09:46:02-03:00",
+      "titulo": "Governo mantém CBS integral em janeiro de 2027, mas admite flexibilizar multas",
+      "resumo": "Receita e Fazenda descartam ampliar a transição da CBS apesar dos pedidos de OAB e CNI. O ministro Durigan admite flexibilizar prazos de multas e obrigações acessórias; a alíquota de 11,3% do TCU foi divulgada cerca de dois meses antes do início.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
+    },
+    {
       "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
       "data": "2026-11-07",
       "adicionado_em": "2026-11-08T13:00:00-03:00",
@@ -127,6 +141,21 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/"
+    },
+    {
+      "id": "contabeis-2026-11-06-is-carros",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-09T09:46:02-03:00",
+      "titulo": "Imposto Seletivo sobre carros: como a MP 1.399 calcula a alíquota",
+      "resumo": "A MP parte de 6,3% para veículos da NCM 87.03, ajusta por propulsão (elétricos −2 p.p., gasolina +6,5 p.p., diesel +12 p.p.) e aplica fator 1,21, com alíquota zero para certos casos. Efeitos a partir de 02/02/2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas",
+        "Setores"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80659/imposto-seletivo-sobre-carros-veja-o-que-pesa-no-calculo/"
     },
     {
       "id": "reformatributaria-2026-11-06-sem-adiamento-cbs-janeiro",
