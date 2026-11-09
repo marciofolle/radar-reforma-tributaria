@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T00:44:58-03:00",
+  "atualizado_em": "2026-11-09T08:45:32-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -402,6 +402,34 @@
         "IBS"
       ],
       "url": "https://www.contabeis.com.br/artigos/80615/iva-de-30-como-avaliar-o-impacto-na-margem-da-empresa/"
+    },
+    {
+      "id": "contabeis-2026-11-05-cni-questiona-cbs",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-09T08:45:32-03:00",
+      "titulo": "CNI contesta CBS de 11,3% e pede revisão do cálculo ao Senado",
+      "resumo": "A CNI questiona a média de arrecadação de 2012 a 2021 usada pelo TCU e pede que o Senado revise os critérios e estenda o período de testes da CBS por todo 2027; sem resolução até 15/12, vale o cálculo do TCU.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/"
+    },
+    {
+      "id": "reformatributaria-2026-11-05-minuta-pec-adiamento",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-09T08:45:32-03:00",
+      "titulo": "Minuta de PEC que adia a reforma ainda não foi protocolada e tem baixa chance de aprovação",
+      "resumo": "Texto que adiaria a CBS para 2028 circula sem protocolo na Câmara e precisaria de 171 assinaturas e 308 votos em dois turnos; governo e líderes não apoiam, e a CBS segue prevista para 1º/01/2027.",
+      "fonte": "Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/minuta-de-pec-que-adia-reforma-nao-esta-protocolada-e-tem-baixa-chance-de-aprovacao/"
     },
     {
       "id": "fenacon-2026-11-05-cnc-cbs-servicos-543",
