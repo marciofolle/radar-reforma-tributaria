@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T09:46:02-03:00",
+  "atualizado_em": "2026-11-09T12:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -127,6 +127,20 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
+    },
+    {
+      "id": "contabeis-2026-11-09-ato-tecnico-10",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-09T12:00:00-03:00",
+      "titulo": "Ato Técnico nº 10 aprova versões de nove modelos de documentos fiscais para IBS e CBS",
+      "resumo": "O Ato Técnico Conjunto nº 10, publicado no DOU em 29/10, aprova as especificações de IBS/CBS de NF-e, NFC-e, CT-e, CT-e OS, NFCom, BP-e, NF3e, NFAg e NFGas, incluindo as NTs 2026.004 v1.01 e 2026.005 do CT-e; aprovar a versão não fixa data de obrigatoriedade.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Transporte"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/"
     },
     {
       "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
