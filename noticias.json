@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T19:46:00-03:00",
+  "atualizado_em": "2026-11-10T20:51:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "agenciabrasil-2026-11-10-deputados-rever-isencoes-iva-26-5",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T20:51:00-03:00",
+      "titulo": "Após reunião com Durigan, deputados descartam adiar a reforma e admitem rever isenções se o IVA passar de 26,5%",
+      "resumo": "Em encontro com o ministro da Fazenda em 10/11, Joaquim Passarinho, Augusto Coutinho e Cláudio Cajado disseram que não há negociação para adiar a CBS, prevista para 1º/1/2027, e que benefícios setoriais podem ser revistos se a alíquota de referência superar a trava de 26,5%.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265"
+    },
     {
       "id": "senado-2026-11-10-senado-recebe-acordao-tcu-cbs",
       "data": "2026-11-10",
