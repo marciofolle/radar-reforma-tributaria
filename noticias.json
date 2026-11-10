@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T03:45:24-03:00",
+  "atualizado_em": "2026-11-10T07:45:43-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -232,6 +232,48 @@
       "url": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/"
     },
     {
+      "id": "reformatributaria-2026-11-09-senadores-cautela-cbs",
+      "data": "2026-11-09",
+      "titulo": "Senadores avaliam com cautela o cálculo de 11,3% para a CBS",
+      "resumo": "Integrantes da CAE ainda não se posicionaram sobre a alíquota de 11,3% e aguardam a metodologia do TCU, prevista para 10/11. O Senado deve fixar o percentual até 15/12 (podendo ir a 22/12); sem votação, vale temporariamente o cálculo do TCU.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/senadores-avaliam-com-cautela-calculo-de-113-para-a-cbs/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-09-svrs-homologacao-2027",
+      "data": "2026-11-09",
+      "titulo": "Homologação da SVRS passa a simular regras de IBS e CBS previstas para 2027",
+      "resumo": "A SVRS informou que o ambiente de homologação da NT 2026.004 simulará as regras de alíquotas de 2027 em seis documentos: CT-e, BP-e, NF3e, NFCom, NFAg e NFGas. As validações aceitarão tanto valores de 2026 quanto as simulações de 2027.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Transporte"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/ambiente-de-homologacao-da-svrs-permitira-simular-regras-de-ibs-e-cbs-previstas-para-2027/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-09-rs-apuracao-assistida-simples",
+      "data": "2026-11-09",
+      "titulo": "Receita Estadual do RS lança apuração assistida do Simples Nacional",
+      "resumo": "O Decreto 59.045/2026 permite que a apuração assistida substitua a DeSTDA para fatos geradores a partir de 1º/11/2026. A medida vale apenas para o ICMS no Rio Grande do Sul e pré-calcula obrigações hoje declaradas pelo contribuinte.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-estadual-do-rs-lanca-apuracao-assistida-do-simples-nacional/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
       "id": "exame-2026-11-08-adiamento-cbs-2028",
       "data": "2026-11-08",
       "adicionado_em": "2026-11-09T13:45:05-03:00",
@@ -244,6 +286,22 @@
         "Legislação"
       ],
       "url": "https://exame.com/economia/reforma-tributaria-pode-ser-adiada-veja-quem-defende-a-mudanca-e-o-que-diz-o-governo/"
+    },
+    {
+      "id": "fenacon-2026-11-08-exportacao-servicos",
+      "data": "2026-11-08",
+      "titulo": "IBS e CBS: A controvérsia sobre a exportação de serviços",
+      "resumo": "Artigo analisa se serviços executados no Brasil para tomadores estrangeiros são exportação, pela expressão \"nos demais casos\" do art. 80, §1º-A da LC 214/25. O autor defende a leitura ampla, sem IBS/CBS, mas alerta que o Fisco pode adotar a restritiva.",
+      "fonte": "Fenacon",
+      "orgao": "Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
     },
     {
       "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
