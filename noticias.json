@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T15:50:00-03:00",
+  "atualizado_em": "2026-11-10T16:46:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -186,6 +186,21 @@
         "Documentos fiscais"
       ],
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
+    },
+    {
+      "id": "contabeis-2026-11-10-aluguel-regras-pf-pj",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T16:46:00-03:00",
+      "titulo": "Aluguel na reforma: pessoa física entra no regime regular acima de três imóveis e R$ 240 mil de receita",
+      "resumo": "Locador pessoa física passa a contribuir para IBS e CBS se tiver mais de três imóveis e receita acima de R$ 240 mil (corrigidos pelo IPCA). Na locação, alíquotas caem 70%, há redutor social de R$ 600 por imóvel residencial e contratos antigos podem optar por 3,65% sobre a receita.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica"
     },
     {
       "id": "reformatributaria-2026-11-09-is-classificacao-veiculos",
