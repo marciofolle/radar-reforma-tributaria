@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T14:58:00-03:00",
+  "atualizado_em": "2026-11-10T15:50:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "conjur-2026-11-10-tjsp-suspende-decisoes-ibs-cbs-base-icms",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T15:50:00-03:00",
+      "titulo": "Presidente do TJ-SP suspende decisões que tiravam IBS e CBS da base do ICMS em 2027",
+      "resumo": "O desembargador Francisco Loureiro atendeu ao Estado de São Paulo e suspendeu decisões que afastavam IBS e CBS da base de cálculo do ICMS a partir de 2027. A Fazenda paulista estimou perda de R$ 10,2 bilhões, dos quais R$ 2,55 bilhões em repasses aos municípios.",
+      "fonte": "Conjur",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-10/tj-sp-suspende-decisoes-que-afastavam-ibs-e-cbs-da-base-do-icms/"
+    },
     {
       "id": "reformatributaria-2026-11-10-split-payment-remuneracao-bancos",
       "data": "2026-11-10",
