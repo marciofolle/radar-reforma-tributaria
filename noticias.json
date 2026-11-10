@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T11:45:43-03:00",
+  "atualizado_em": "2026-11-10T14:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,34 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-10-split-payment-remuneracao-bancos",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T14:58:00-03:00",
+      "titulo": "Bancos pedem remuneração maior que R$ 0,39 por operação no início do split payment",
+      "resumo": "A presidente da Fin, Cristiane Coelho, defende que a tarifa paga às instituições pelo split payment comece acima dos R$ 0,39 propostos pelo governo e caia com a adesão; o setor estima R$ 3,5 bilhões de desenvolvimento e cerca de R$ 7 bilhões de manutenção em cinco anos.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/tecnologia/remuneracao-dos-bancos-deveria-superar-r-039-no-inicio-do-split-payment-diz-setor/"
+    },
+    {
+      "id": "contabeis-2026-11-10-creditos-cbs-uso-empresa-consumo-pessoal",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T14:58:00-03:00",
+      "titulo": "Créditos da CBS dependem da destinação da compra, não da conta contábil de uso e consumo",
+      "resumo": "Com base no art. 57 da LC 214/2025 e no Decreto 12.955/2026, o crédito de CBS exige documento idôneo, pagamento do débito na aquisição e uso na atividade; bens desviados para consumo pessoal de sócios exigem estorno, previsto no art. 64 do regulamento.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80726/creditos-da-cbs-o-que-distingue-uso-da-empresa-de-consumo-pessoal/"
+    },
     {
       "id": "fenacon-2026-11-10-presidente-jovem-pan-cbs-2027",
       "data": "2026-11-10",
