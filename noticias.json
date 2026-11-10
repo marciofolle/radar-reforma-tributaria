@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-09T21:45:44-03:00",
+  "atualizado_em": "2026-11-09T23:46:15-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,51 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-09-nfse-locacao",
+      "data": "2026-11-09",
+      "titulo": "Locação de bens móveis e imóveis exige adequação à NFS-e em dezembro",
+      "resumo": "A partir de 1º/12, locação de bens móveis e imóveis deve registrar IBS e CBS na NFS-e (Ato Conjunto RFB/CGIBS nº 4/2026). A NT 009 cria os grupos gLocacao e gUnidImob e novos códigos de operação; falta de dados até 31/12 não gera rejeição automática.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Setores",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80709/nfs-e-locacoes-terao-novas-regras-a-partir-de-dezembro/",
+      "adicionado_em": "2026-11-09T23:46:15-03:00"
+    },
+    {
+      "id": "contabeis-2026-11-09-nfe-sem-icms",
+      "data": "2026-11-09",
+      "titulo": "NF-e para não contribuinte do ICMS: regras de enquadramento no IBS e na CBS",
+      "resumo": "Empresas não contribuintes do ICMS sujeitas a IBS e CBS seguem regras próprias na NF-e desde 1º/12. A NT 2026.007 v1.11 permite emissão sem inscrição estadual e inclui validações cadastrais, com produção prevista para 16/11.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80708/nf-e-sem-icms-veja-as-regras-para-ibs-e-cbs/",
+      "adicionado_em": "2026-11-09T23:46:15-03:00"
+    },
+    {
+      "id": "mundologistica-2026-11-09-zona-franca-manaus",
+      "data": "2026-11-09",
+      "titulo": "Zona Franca de Manaus volta ao radar da indústria e da logística com a Reforma Tributária",
+      "resumo": "Benefícios da Zona Franca de Manaus seguem protegidos até 2073 pela EC 132/2023 e pela LC 214/2025, o que pode estimular corredores de transporte entre Sul, Sudeste e Norte. Webinar da nstech sobre logística e compliance será em 12/11, às 10h.",
+      "fonte": "Mundo Logística",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Setores",
+        "Legislação"
+      ],
+      "url": "https://mundologistica.com.br/noticias/zona-franca-de-manaus-volta-ao-radar-da-industria-e-da-logistica-com-a-reforma-tributaria",
+      "adicionado_em": "2026-11-09T23:46:15-03:00"
+    },
     {
       "id": "contabeis-2026-11-09-medicos-clinicas",
       "data": "2026-11-09",
