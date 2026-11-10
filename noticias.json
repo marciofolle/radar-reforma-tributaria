@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T06:46:59-03:00",
+  "atualizado_em": "2026-11-10T12:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -128,6 +128,21 @@
         "Alíquotas"
       ],
       "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
+    },
+    {
+      "id": "receita-2026-11-10-dere-beta",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T12:00:00-03:00",
+      "titulo": "Reforma Tributária: Atualização do Ambiente Beta da DeRE",
+      "resumo": "A Receita atualiza o ambiente de Produção Beta da DeRE em 11/11, às 7h, sem interrupção do serviço. Quem integra com a declaração deve atualizar o XSD do evento PGCC e preparar os artefatos antes.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
     },
     {
       "id": "reformatributaria-2026-11-09-is-classificacao-veiculos",
