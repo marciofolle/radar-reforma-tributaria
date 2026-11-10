@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T17:46:00-03:00",
+  "atualizado_em": "2026-11-10T18:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -30,9 +30,9 @@
   "prazos": [
     {
       "data": "2026-11-10",
-      "titulo": "TCU entrega ao Senado o estudo da alíquota da CBS",
-      "detalhe": "Ofício segue à Presidência do Senado e à CAE; audiências públicas na CAE (TCU, Receita, Fazenda, CGIBS) a partir de 11/11, com relatoria de Eduardo Braga",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
+      "titulo": "TCU entrega ao Senado o acórdão da alíquota da CBS",
+      "detalhe": "Acórdão entregue a Davi Alcolumbre em 10/11; TCU e CAE formarão assessoramento técnico ao Senado",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs"
     },
     {
       "data": "2026-11-10",
@@ -115,6 +115,21 @@
   ],
   "itens": [
     {
+      "id": "senado-2026-11-10-senado-recebe-acordao-tcu-cbs",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T18:55:00-03:00",
+      "titulo": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS",
+      "resumo": "Davi Alcolumbre recebeu do presidente do TCU, Vital do Rêgo, o acórdão com a alíquota de referência de 11,3% para a CBS. TCU e CAE formarão assessoramento técnico; o Senado pode manter ou alterar o percentual até 15 de dezembro.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs"
+    },
+    {
       "id": "contabeis-2026-11-10-svrs-testes-nt-2026-004-cte",
       "data": "2026-11-10",
       "titulo": "SVRS detalha testes de IBS e CBS da NT 2026.004 no CT-e e em mais cinco DF-e",
@@ -172,6 +187,21 @@
       "adicionado_em": "2026-11-10T17:46:00-03:00"
     },
     {
+      "id": "contabeis-2026-11-10-aluguel-regras-pf-pj",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T16:46:00-03:00",
+      "titulo": "Aluguel na reforma: pessoa física entra no regime regular acima de três imóveis e R$ 240 mil de receita",
+      "resumo": "Locador pessoa física passa a contribuir para IBS e CBS se tiver mais de três imóveis e receita acima de R$ 240 mil (corrigidos pelo IPCA). Na locação, alíquotas caem 70%, há redutor social de R$ 600 por imóvel residencial e contratos antigos podem optar por 3,65% sobre a receita.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica"
+    },
+    {
       "id": "conjur-2026-11-10-tjsp-suspende-decisoes-ibs-cbs-base-icms",
       "data": "2026-11-10",
       "adicionado_em": "2026-11-10T15:50:00-03:00",
@@ -215,21 +245,6 @@
       "url": "https://www.contabeis.com.br/noticias/80726/creditos-da-cbs-o-que-distingue-uso-da-empresa-de-consumo-pessoal/"
     },
     {
-      "id": "fenacon-2026-11-10-presidente-jovem-pan-cbs-2027",
-      "data": "2026-11-10",
-      "adicionado_em": "2026-11-10T05:45:53-03:00",
-      "titulo": "Presidente da Fenacon concede entrevista à Jovem Pan News sobre o início da CBS em 2027",
-      "resumo": "Reynaldo Lima Jr. falou sobre a cobrança da CBS, que substitui PIS e Cofins em 2027, e sobre os possíveis efeitos da alíquota de referência de 11,3% aprovada pelo TCU, que ainda será analisada pelo Senado.",
-      "fonte": "Fenacon",
-      "orgao": "Fenacon",
-      "tipo": "entidade",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
-    },
-    {
       "id": "receita-2026-11-10-dere-beta",
       "data": "2026-11-10",
       "adicionado_em": "2026-11-10T12:00:00-03:00",
@@ -245,19 +260,61 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
     },
     {
-      "id": "contabeis-2026-11-10-aluguel-regras-pf-pj",
+      "id": "fenacon-2026-11-10-presidente-jovem-pan-cbs-2027",
       "data": "2026-11-10",
-      "adicionado_em": "2026-11-10T16:46:00-03:00",
-      "titulo": "Aluguel na reforma: pessoa física entra no regime regular acima de três imóveis e R$ 240 mil de receita",
-      "resumo": "Locador pessoa física passa a contribuir para IBS e CBS se tiver mais de três imóveis e receita acima de R$ 240 mil (corrigidos pelo IPCA). Na locação, alíquotas caem 70%, há redutor social de R$ 600 por imóvel residencial e contratos antigos podem optar por 3,65% sobre a receita.",
-      "fonte": "Contábeis",
+      "adicionado_em": "2026-11-10T05:45:53-03:00",
+      "titulo": "Presidente da Fenacon concede entrevista à Jovem Pan News sobre o início da CBS em 2027",
+      "resumo": "Reynaldo Lima Jr. falou sobre a cobrança da CBS, que substitui PIS e Cofins em 2027, e sobre os possíveis efeitos da alíquota de referência de 11,3% aprovada pelo TCU, que ainda será analisada pelo Senado.",
+      "fonte": "Fenacon",
+      "orgao": "Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
+    },
+    {
+      "id": "reformatributaria-2026-11-09-senadores-cautela-cbs",
+      "data": "2026-11-09",
+      "titulo": "Senadores avaliam com cautela o cálculo de 11,3% para a CBS",
+      "resumo": "Integrantes da CAE ainda não se posicionaram sobre a alíquota de 11,3% e aguardam a metodologia do TCU, prevista para 10/11. O Senado deve fixar o percentual até 15/12 (podendo ir a 22/12); sem votação, vale temporariamente o cálculo do TCU.",
+      "fonte": "Portal Reforma Tributária",
       "tipo": "imprensa",
       "temas": [
-        "Setores",
-        "IBS",
-        "CBS"
+        "CBS",
+        "Alíquotas"
       ],
-      "url": "https://www.contabeis.com.br/noticias/80736/reforma-tributaria-no-aluguel-regras-para-pessoa-fisica-e-juridica"
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/senadores-avaliam-com-cautela-calculo-de-113-para-a-cbs/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-09-svrs-homologacao-2027",
+      "data": "2026-11-09",
+      "titulo": "Homologação da SVRS passa a simular regras de IBS e CBS previstas para 2027",
+      "resumo": "A SVRS informou que o ambiente de homologação da NT 2026.004 simulará as regras de alíquotas de 2027 em seis documentos: CT-e, BP-e, NF3e, NFCom, NFAg e NFGas. As validações aceitarão tanto valores de 2026 quanto as simulações de 2027.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Transporte"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/ambiente-de-homologacao-da-svrs-permitira-simular-regras-de-ibs-e-cbs-previstas-para-2027/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-09-rs-apuracao-assistida-simples",
+      "data": "2026-11-09",
+      "titulo": "Receita Estadual do RS lança apuração assistida do Simples Nacional",
+      "resumo": "O Decreto 59.045/2026 permite que a apuração assistida substitua a DeSTDA para fatos geradores a partir de 1º/11/2026. A medida vale apenas para o ICMS no Rio Grande do Sul e pré-calcula obrigações hoje declaradas pelo contribuinte.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-estadual-do-rs-lanca-apuracao-assistida-do-simples-nacional/",
+      "adicionado_em": "2026-11-10T07:45:43-03:00"
     },
     {
       "id": "reformatributaria-2026-11-09-is-classificacao-veiculos",
@@ -363,20 +420,6 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
     },
     {
-      "id": "contabeis-2026-11-09-sem-adiamento-cbs",
-      "data": "2026-11-09",
-      "adicionado_em": "2026-11-09T09:46:02-03:00",
-      "titulo": "Governo mantém CBS integral em janeiro de 2027, mas admite flexibilizar multas",
-      "resumo": "Receita e Fazenda descartam ampliar a transição da CBS apesar dos pedidos de OAB e CNI. O ministro Durigan admite flexibilizar prazos de multas e obrigações acessórias; a alíquota de 11,3% do TCU foi divulgada cerca de dois meses antes do início.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Obrigações acessórias"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
-    },
-    {
       "id": "contabeis-2026-11-09-ato-tecnico-10",
       "data": "2026-11-09",
       "adicionado_em": "2026-11-09T12:00:00-03:00",
@@ -391,60 +434,18 @@
       "url": "https://www.contabeis.com.br/noticias/80686/ato-tecnico-no-10-2026-veja-as-versoes-fiscais-aprovadas-para-ibs-e-cbs/"
     },
     {
-      "id": "reformatributaria-2026-11-09-senadores-cautela-cbs",
+      "id": "contabeis-2026-11-09-sem-adiamento-cbs",
       "data": "2026-11-09",
-      "titulo": "Senadores avaliam com cautela o cálculo de 11,3% para a CBS",
-      "resumo": "Integrantes da CAE ainda não se posicionaram sobre a alíquota de 11,3% e aguardam a metodologia do TCU, prevista para 10/11. O Senado deve fixar o percentual até 15/12 (podendo ir a 22/12); sem votação, vale temporariamente o cálculo do TCU.",
-      "fonte": "Portal Reforma Tributária",
+      "adicionado_em": "2026-11-09T09:46:02-03:00",
+      "titulo": "Governo mantém CBS integral em janeiro de 2027, mas admite flexibilizar multas",
+      "resumo": "Receita e Fazenda descartam ampliar a transição da CBS apesar dos pedidos de OAB e CNI. O ministro Durigan admite flexibilizar prazos de multas e obrigações acessórias; a alíquota de 11,3% do TCU foi divulgada cerca de dois meses antes do início.",
+      "fonte": "Contábeis",
       "tipo": "imprensa",
       "temas": [
         "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/senadores-avaliam-com-cautela-calculo-de-113-para-a-cbs/",
-      "adicionado_em": "2026-11-10T07:45:43-03:00"
-    },
-    {
-      "id": "reformatributaria-2026-11-09-svrs-homologacao-2027",
-      "data": "2026-11-09",
-      "titulo": "Homologação da SVRS passa a simular regras de IBS e CBS previstas para 2027",
-      "resumo": "A SVRS informou que o ambiente de homologação da NT 2026.004 simulará as regras de alíquotas de 2027 em seis documentos: CT-e, BP-e, NF3e, NFCom, NFAg e NFGas. As validações aceitarão tanto valores de 2026 quanto as simulações de 2027.",
-      "fonte": "Portal Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Documentos fiscais",
-        "Transporte"
-      ],
-      "url": "https://www.reformatributaria.com/documentos-fiscais/ambiente-de-homologacao-da-svrs-permitira-simular-regras-de-ibs-e-cbs-previstas-para-2027/",
-      "adicionado_em": "2026-11-10T07:45:43-03:00"
-    },
-    {
-      "id": "reformatributaria-2026-11-09-rs-apuracao-assistida-simples",
-      "data": "2026-11-09",
-      "titulo": "Receita Estadual do RS lança apuração assistida do Simples Nacional",
-      "resumo": "O Decreto 59.045/2026 permite que a apuração assistida substitua a DeSTDA para fatos geradores a partir de 1º/11/2026. A medida vale apenas para o ICMS no Rio Grande do Sul e pré-calcula obrigações hoje declaradas pelo contribuinte.",
-      "fonte": "Portal Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Simples Nacional",
         "Obrigações acessórias"
       ],
-      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-estadual-do-rs-lanca-apuracao-assistida-do-simples-nacional/",
-      "adicionado_em": "2026-11-10T07:45:43-03:00"
-    },
-    {
-      "id": "exame-2026-11-08-adiamento-cbs-2028",
-      "data": "2026-11-08",
-      "adicionado_em": "2026-11-09T13:45:05-03:00",
-      "titulo": "Adiar a CBS para 2028? Quem defende e o que diz o governo",
-      "resumo": "Bernard Appy, entidades empresariais e a OAB pedem usar 2027 como ano de testes e iniciar a CBS em 2028. O governo mantém janeiro de 2027, admite alongar prazos de multas e obrigações, e adiar exigiria emenda constitucional.",
-      "fonte": "Exame",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Legislação"
-      ],
-      "url": "https://exame.com/economia/reforma-tributaria-pode-ser-adiada-veja-quem-defende-a-mudanca-e-o-que-diz-o-governo/"
+      "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
     },
     {
       "id": "fenacon-2026-11-08-exportacao-servicos",
@@ -461,6 +462,20 @@
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/ibs-e-cbs-a-controversia-sobre-a-exportacao-de-servicos/",
       "adicionado_em": "2026-11-10T07:45:43-03:00"
+    },
+    {
+      "id": "exame-2026-11-08-adiamento-cbs-2028",
+      "data": "2026-11-08",
+      "adicionado_em": "2026-11-09T13:45:05-03:00",
+      "titulo": "Adiar a CBS para 2028? Quem defende e o que diz o governo",
+      "resumo": "Bernard Appy, entidades empresariais e a OAB pedem usar 2027 como ano de testes e iniciar a CBS em 2028. O governo mantém janeiro de 2027, admite alongar prazos de multas e obrigações, e adiar exigiria emenda constitucional.",
+      "fonte": "Exame",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://exame.com/economia/reforma-tributaria-pode-ser-adiada-veja-quem-defende-a-mudanca-e-o-que-diz-o-governo/"
     },
     {
       "id": "contabeis-2026-11-07-nfe-rejeicao-producao",
@@ -490,6 +505,21 @@
         "Setores"
       ],
       "url": "https://www.contabeis.com.br/noticias/80659/imposto-seletivo-sobre-carros-veja-o-que-pesa-no-calculo/"
+    },
+    {
+      "id": "contabeis-2026-11-06-iva-30-margem",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T23:45:13-03:00",
+      "titulo": "IVA próximo de 30% pode reduzir a margem das empresas; simulação por operação é recomendada",
+      "resumo": "Artigo mostra que, com CBS de 11,3% e IBS estimado em 18,7%, R$ 3.000 a mais de tributo sobre R$ 100 mil de receita derrubam a margem de 15% para 12%, e recomenda simular o impacto operação a operação.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Alíquotas",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.contabeis.com.br/artigos/80615/iva-de-30-como-avaliar-o-impacto-na-margem-da-empresa/"
     },
     {
       "id": "reformatributaria-2026-11-06-sem-adiamento-cbs-janeiro",
@@ -550,6 +580,21 @@
       "url": "https://contabeis.com.br/noticias/80674/nfgas-recebida-o-que-conferir-antes-de-pagar-a-conta"
     },
     {
+      "id": "contabeis-2026-11-06-efd-contribuicoes-creditos-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-08T08:45:09-03:00",
+      "titulo": "EFD-Contribuições terá mudanças para créditos da CBS em 2027",
+      "resumo": "A EFD-Contribuições passa a registrar créditos presumidos da CBS sobre depreciação, amortização e estoque de abertura, com novas validações de saldos de PIS/Pasep e Cofins. O estoque de abertura (F150), de 31/12/2026, deve ser transmitido até 30/06/2027.",
+      "fonte": "Contabeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
+    },
+    {
       "id": "contabeis-2026-11-06-cgibs-equipe-aplicacoes",
       "data": "2026-11-06",
       "adicionado_em": "2026-11-07T12:30:00-03:00",
@@ -562,6 +607,35 @@
         "Legislação"
       ],
       "url": "https://www.contabeis.com.br/noticias/80652/comite-do-ibs-cria-equipe-para-gerir-aplicacoes-financeiras/"
+    },
+    {
+      "id": "poder360-2026-11-06-appy-testes-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Appy defende estender até o fim de 2027 o período de testes da CBS",
+      "resumo": "O ex-secretário da Reforma Tributária Bernard Appy defende prolongar o teste só da CBS até o fim de 2027, mantendo 2029 para o início da transição do IBS, e cita pendências como a segunda versão do regulamento.",
+      "fonte": "Poder360",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.poder360.com.br/reforma-tributaria-2027/bernard-appy-defende-prolongar-periodo-de-testes-da-cbs/"
+    },
+    {
+      "id": "conjur-2026-11-06-funrural-ibs-cbs",
+      "data": "2026-11-06",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Artigo: IBS e CBS ficariam fora da base do Funrural e do Senar",
+      "resumo": "Opinião publicada na Conjur sustenta que, a partir de 2027, IBS e CBS não integram a base de cálculo do Funrural e do Senar, com apoio na Constituição e na LC 214/2025; trata-se de tese, não de decisão.",
+      "fonte": "Conjur",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Setores"
+      ],
+      "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/"
     },
     {
       "id": "contabeis-2026-11-06-efd-contribuicoes-nt13",
@@ -708,63 +782,19 @@
       "url": "https://www.mixvale.com.br/2026/11/06/aluguel-de-imoveis-com-ibs-e-cbs-aliquotas-de-teste-em-2026-e/"
     },
     {
-      "id": "poder360-2026-11-06-appy-testes-cbs",
-      "data": "2026-11-06",
-      "adicionado_em": "2026-11-07T12:00:00-03:00",
-      "titulo": "Appy defende estender até o fim de 2027 o período de testes da CBS",
-      "resumo": "O ex-secretário da Reforma Tributária Bernard Appy defende prolongar o teste só da CBS até o fim de 2027, mantendo 2029 para o início da transição do IBS, e cita pendências como a segunda versão do regulamento.",
-      "fonte": "Poder360",
+      "id": "diariodotransporte-2026-11-05-adiar-cbs-2028-transporte",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-10T11:45:43-03:00",
+      "titulo": "Reforma tributária: entidades querem adiar novo imposto para 2028; impactos para empresas de ônibus, fabricantes e passageiros",
+      "resumo": "Entidades jurídicas e empresariais defendem começar a CBS em 2028, mantendo 2027 como teste. A matéria lembra que ônibus urbano é isento de IBS/CBS, o intermunicipal e interestadual tem redução de 40% e a ANTT propõe recompor até 60% do impacto em pedágios federais.",
+      "fonte": "Diário do Transporte",
       "tipo": "imprensa",
       "temas": [
         "CBS",
-        "Legislação"
-      ],
-      "url": "https://www.poder360.com.br/reforma-tributaria-2027/bernard-appy-defende-prolongar-periodo-de-testes-da-cbs/"
-    },
-    {
-      "id": "conjur-2026-11-06-funrural-ibs-cbs",
-      "data": "2026-11-06",
-      "adicionado_em": "2026-11-07T12:00:00-03:00",
-      "titulo": "Artigo: IBS e CBS ficariam fora da base do Funrural e do Senar",
-      "resumo": "Opinião publicada na Conjur sustenta que, a partir de 2027, IBS e CBS não integram a base de cálculo do Funrural e do Senar, com apoio na Constituição e na LC 214/2025; trata-se de tese, não de decisão.",
-      "fonte": "Conjur",
-      "tipo": "imprensa",
-      "temas": [
-        "IBS",
-        "CBS",
+        "Transporte",
         "Setores"
       ],
-      "url": "https://conjur.com.br/2026-nov-06/funrural-e-reforma-tributaria-o-ibs-e-a-cbs-nao-integram-a-base-de-calculo/"
-    },
-    {
-      "id": "contabeis-2026-11-06-efd-contribuicoes-creditos-cbs",
-      "data": "2026-11-06",
-      "adicionado_em": "2026-11-08T08:45:09-03:00",
-      "titulo": "EFD-Contribuições terá mudanças para créditos da CBS em 2027",
-      "resumo": "A EFD-Contribuições passa a registrar créditos presumidos da CBS sobre depreciação, amortização e estoque de abertura, com novas validações de saldos de PIS/Pasep e Cofins. O estoque de abertura (F150), de 31/12/2026, deve ser transmitido até 30/06/2027.",
-      "fonte": "Contabeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Obrigações acessórias",
-        "Créditos"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80653/efd-contribuicoes-tera-mudancas-para-creditos-da-cbs-em-2027/"
-    },
-    {
-      "id": "contabeis-2026-11-06-iva-30-margem",
-      "data": "2026-11-06",
-      "adicionado_em": "2026-11-08T23:45:13-03:00",
-      "titulo": "IVA próximo de 30% pode reduzir a margem das empresas; simulação por operação é recomendada",
-      "resumo": "Artigo mostra que, com CBS de 11,3% e IBS estimado em 18,7%, R$ 3.000 a mais de tributo sobre R$ 100 mil de receita derrubam a margem de 15% para 12%, e recomenda simular o impacto operação a operação.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Alíquotas",
-        "CBS",
-        "IBS"
-      ],
-      "url": "https://www.contabeis.com.br/artigos/80615/iva-de-30-como-avaliar-o-impacto-na-margem-da-empresa/"
+      "url": "https://diariodotransporte.com.br/2026/11/05/reforma-tributaria-entidades-querem-adiar-novo-imposto-para-2028-veja-impactos-para-empresas-de-onibus-fabricantes-industria-ferroviaria-trabalhadores-e-passageiros/"
     },
     {
       "id": "contabeis-2026-11-05-cni-questiona-cbs",
@@ -795,6 +825,51 @@
       "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/minuta-de-pec-que-adia-reforma-nao-esta-protocolada-e-tem-baixa-chance-de-aprovacao/"
     },
     {
+      "id": "migalhas-2026-11-05-mp-do-pecado",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-07T20:45:10-03:00",
+      "titulo": "MP do Pecado: dúvidas jurídicas sobre a MP 1.399/2026 e o Imposto Seletivo",
+      "resumo": "Artigo questiona a urgência da MP 1.399/2026, a presunção de concordância na apuração assistida e a conversão em lei até 31/12; aponta risco de vazio tributário em janeiro de 2027, com o IPI zerado e o IS só devido a partir de 2 de fevereiro.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/467901/a-mp-do-pecado--questoes-legais-e-polemicas"
+    },
+    {
+      "id": "fazenda-2026-11-05-mp-imposto-seletivo",
+      "data": "2026-11-05",
+      "titulo": "Governo Federal define alíquotas do Imposto Seletivo para 2027 por meio de medida provisória",
+      "resumo": "Lula assinou a MP 1.399/2026 com as alíquotas do IS. A cobrança começa em 2/2/2027 em regime transitório até 31/12/2027; bens minerais ficam com alíquota zero, concursos de prognósticos pagam 0,5%, e eventual variação de receita é compensada na CBS.",
+      "fonte": "Ministério da Fazenda",
+      "orgao": "Ministério da Fazenda",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
+    },
+    {
+      "id": "camara-2026-11-05-mp-1399-imposto-seletivo",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-07T17:00:00-03:00",
+      "titulo": "Medida provisória regulamenta o Imposto Seletivo para 2027",
+      "resumo": "A MP 1.399/2026 fixa as alíquotas do Imposto Seletivo, que passa a valer em 2 de fevereiro de 2027 e substitui parte do IPI. Segundo o governo, a carga atual é mantida em 2027, com aumentos a partir de 2028.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
+    },
+    {
       "id": "fenacon-2026-11-05-cnc-cbs-servicos-543",
       "data": "2026-11-05",
       "adicionado_em": "2026-11-07T12:30:00-03:00",
@@ -811,19 +886,18 @@
       "url": "https://fenacon.org.br/reforma-tributaria/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/"
     },
     {
-      "id": "fazenda-2026-11-05-mp-imposto-seletivo",
+      "id": "reformatributaria-2026-11-05-pec-22-ipi-imposto-seletivo",
       "data": "2026-11-05",
-      "titulo": "Governo Federal define alíquotas do Imposto Seletivo para 2027 por meio de medida provisória",
-      "resumo": "Lula assinou a MP 1.399/2026 com as alíquotas do IS. A cobrança começa em 2/2/2027 em regime transitório até 31/12/2027; bens minerais ficam com alíquota zero, concursos de prognósticos pagam 0,5%, e eventual variação de receita é compensada na CBS.",
-      "fonte": "Ministério da Fazenda",
-      "orgao": "Ministério da Fazenda",
-      "tipo": "oficial",
+      "adicionado_em": "2026-11-06T21:44:56-03:00",
+      "titulo": "Governo envia PEC 22/2026 para manter o IPI até o início do Imposto Seletivo",
+      "resumo": "A PEC 22/2026, enviada em 4/11, mantém o IPI sobre cigarros e bebidas alcoólicas até o Imposto Seletivo valer, em 2/2/2027 pela MP 1.399/2026. Sem aprovação neste ano, haveria lacuna de tributação extrafiscal e risco de estoques antecipados.",
+      "fonte": "Portal Reforma Tributária",
+      "tipo": "imprensa",
       "temas": [
         "Imposto Seletivo",
-        "Alíquotas"
+        "Legislação"
       ],
-      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
-      "adicionado_em": "2026-11-07T18:00:00-03:00"
+      "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
     },
     {
       "id": "brasil247-2026-11-05-cni-revisao-aliquota-cbs",
@@ -909,63 +983,19 @@
       "url": "https://centraldovarejo.com.br/fiesp-recorre-ao-trf1-e-zona-franca-de-manaus-volta-ao-centro-da-reforma-tributaria/"
     },
     {
-      "id": "reformatributaria-2026-11-05-pec-22-ipi-imposto-seletivo",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-06T21:44:56-03:00",
-      "titulo": "Governo envia PEC 22/2026 para manter o IPI até o início do Imposto Seletivo",
-      "resumo": "A PEC 22/2026, enviada em 4/11, mantém o IPI sobre cigarros e bebidas alcoólicas até o Imposto Seletivo valer, em 2/2/2027 pela MP 1.399/2026. Sem aprovação neste ano, haveria lacuna de tributação extrafiscal e risco de estoques antecipados.",
-      "fonte": "Portal Reforma Tributária",
+      "id": "mundologistica-2026-11-04-piso-minimo-frete-reforma",
+      "data": "2026-11-04",
+      "adicionado_em": "2026-11-08T12:00:00-03:00",
+      "titulo": "Piso mínimo de frete sob pressão da CBS em 2027",
+      "resumo": "Artigo do CEO da Rumo Brasil diz que o piso mínimo de frete ignora custos de conformidade fiscal e cita estudo que projeta alta média de 414% na carga tributária de transportadoras do agro com a CBS.",
+      "fonte": "Mundo Logística",
       "tipo": "imprensa",
       "temas": [
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
-    },
-    {
-      "id": "camara-2026-11-05-mp-1399-imposto-seletivo",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-07T17:00:00-03:00",
-      "titulo": "Medida provisória regulamenta o Imposto Seletivo para 2027",
-      "resumo": "A MP 1.399/2026 fixa as alíquotas do Imposto Seletivo, que passa a valer em 2 de fevereiro de 2027 e substitui parte do IPI. Segundo o governo, a carga atual é mantida em 2027, com aumentos a partir de 2028.",
-      "fonte": "Agência Câmara",
-      "orgao": "Câmara dos Deputados",
-      "tipo": "oficial",
-      "temas": [
-        "Imposto Seletivo",
-        "Alíquotas",
-        "Legislação"
-      ],
-      "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
-    },
-    {
-      "id": "migalhas-2026-11-05-mp-do-pecado",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-07T20:45:10-03:00",
-      "titulo": "MP do Pecado: dúvidas jurídicas sobre a MP 1.399/2026 e o Imposto Seletivo",
-      "resumo": "Artigo questiona a urgência da MP 1.399/2026, a presunção de concordância na apuração assistida e a conversão em lei até 31/12; aponta risco de vazio tributário em janeiro de 2027, com o IPI zerado e o IS só devido a partir de 2 de fevereiro.",
-      "fonte": "Migalhas",
-      "tipo": "imprensa",
-      "temas": [
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www.migalhas.com.br/depeso/467901/a-mp-do-pecado--questoes-legais-e-polemicas"
-    },
-    {
-      "id": "diariodotransporte-2026-11-05-adiar-cbs-2028-transporte",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-10T11:45:43-03:00",
-      "titulo": "Reforma tributária: entidades querem adiar novo imposto para 2028; impactos para empresas de ônibus, fabricantes e passageiros",
-      "resumo": "Entidades jurídicas e empresariais defendem começar a CBS em 2028, mantendo 2027 como teste. A matéria lembra que ônibus urbano é isento de IBS/CBS, o intermunicipal e interestadual tem redução de 40% e a ANTT propõe recompor até 60% do impacto em pedágios federais.",
-      "fonte": "Diário do Transporte",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
         "Transporte",
-        "Setores"
+        "CBS",
+        "Créditos"
       ],
-      "url": "https://diariodotransporte.com.br/2026/11/05/reforma-tributaria-entidades-querem-adiar-novo-imposto-para-2028-veja-impactos-para-empresas-de-onibus-fabricantes-industria-ferroviaria-trabalhadores-e-passageiros/"
+      "url": "https://mundologistica.com.br/artigos/piso-minimo-de-frete-os-desafios-que-a-reforma-tributaria-traz-para-2027"
     },
     {
       "id": "migalhas-2026-11-04-oab-adiamento-2028",
@@ -996,6 +1026,36 @@
       ],
       "url": "http://setcesp.org.br/noticias/ct-e-adaptado-a-reforma-tributaria-e-adiado/",
       "adicionado_em": "2026-11-07T18:00:00-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-04-liminar-roit-ibs-cbs-iss",
+      "data": "2026-11-04",
+      "adicionado_em": "2026-11-07T16:45:58-03:00",
+      "titulo": "Justiça de SP concede liminar à ROIT para excluir IBS e CBS do cálculo do ISS a partir de 2027",
+      "resumo": "Em 3/11, a Justiça paulista deferiu liminar que retira IBS e CBS da base do ISS desde 2027 e impede o município de autuar ou multar a empresa. A juíza citou precedente do STF sobre PIS/Cofins; o mérito sai na sentença.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/justica/justica-de-sp-concede-liminar-a-roit-para-excluir-ibs-e-cbs-do-calculo-do-iss-a-partir-de-2027"
+    },
+    {
+      "id": "conjur-2026-11-04-pec-any-ortiz-2028",
+      "data": "2026-11-04",
+      "adicionado_em": "2026-11-07T12:00:00-03:00",
+      "titulo": "Deputada protocola PEC para adiar cobranças da reforma para 2028",
+      "resumo": "Any Ortiz (PP-RS) apresentou PEC que estende a adaptação até 2027 e adia para 2028 a cobrança definitiva de CBS e Imposto Seletivo; precisa de 171 assinaturas para tramitar.",
+      "fonte": "Conjur",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
     },
     {
       "id": "senado-2026-11-04-cae-debate",
@@ -1049,49 +1109,18 @@
       "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/comissao-do-senado-fara-audiencia-publica-sobre-aliquota-da-cbs"
     },
     {
-      "id": "conjur-2026-11-04-pec-any-ortiz-2028",
-      "data": "2026-11-04",
-      "adicionado_em": "2026-11-07T12:00:00-03:00",
-      "titulo": "Deputada protocola PEC para adiar cobranças da reforma para 2028",
-      "resumo": "Any Ortiz (PP-RS) apresentou PEC que estende a adaptação até 2027 e adia para 2028 a cobrança definitiva de CBS e Imposto Seletivo; precisa de 171 assinaturas para tramitar.",
-      "fonte": "Conjur",
+      "id": "jornaldocomercio-2026-11-03-braga-cbs",
+      "data": "2026-11-03",
+      "titulo": "Relator no Senado considera elevada a CBS de 11,3% e fala em tributo de até 9%",
+      "resumo": "Eduardo Braga, relator da CBS na CAE, diz não estar convencido do cálculo do TCU: esperava 8% a 9%, enquanto projeções de empresas apontavam 9,5%. A alíquota deve ser fixada por resolução do Senado até 15/12.",
+      "fonte": "Jornal do Comércio",
       "tipo": "imprensa",
       "temas": [
         "CBS",
-        "Imposto Seletivo",
-        "Legislação"
+        "Alíquotas"
       ],
-      "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
-    },
-    {
-      "id": "reformatributaria-2026-11-04-liminar-roit-ibs-cbs-iss",
-      "data": "2026-11-04",
-      "adicionado_em": "2026-11-07T16:45:58-03:00",
-      "titulo": "Justiça de SP concede liminar à ROIT para excluir IBS e CBS do cálculo do ISS a partir de 2027",
-      "resumo": "Em 3/11, a Justiça paulista deferiu liminar que retira IBS e CBS da base do ISS desde 2027 e impede o município de autuar ou multar a empresa. A juíza citou precedente do STF sobre PIS/Cofins; o mérito sai na sentença.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Judiciário",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.reformatributaria.com/justica/justica-de-sp-concede-liminar-a-roit-para-excluir-ibs-e-cbs-do-calculo-do-iss-a-partir-de-2027"
-    },
-    {
-      "id": "mundologistica-2026-11-04-piso-minimo-frete-reforma",
-      "data": "2026-11-04",
-      "adicionado_em": "2026-11-08T12:00:00-03:00",
-      "titulo": "Piso mínimo de frete sob pressão da CBS em 2027",
-      "resumo": "Artigo do CEO da Rumo Brasil diz que o piso mínimo de frete ignora custos de conformidade fiscal e cita estudo que projeta alta média de 414% na carga tributária de transportadoras do agro com a CBS.",
-      "fonte": "Mundo Logística",
-      "tipo": "imprensa",
-      "temas": [
-        "Transporte",
-        "CBS",
-        "Créditos"
-      ],
-      "url": "https://mundologistica.com.br/artigos/piso-minimo-de-frete-os-desafios-que-a-reforma-tributaria-traz-para-2027"
+      "url": "https://www.jornaldocomercio.com/economia/2026/11/1269092-relator-no-senado-diz-considerar-aliquota-da-cbs-elevada-e-fala-em-tributo-de-ate-9.html",
+      "adicionado_em": "2026-11-07T18:00:00-03:00"
     },
     {
       "id": "mundologistica-2026-11-03-setcemg-frete-2027",
@@ -1108,18 +1137,18 @@
       "url": "https://mundologistica.com.br/noticias/transportadoras-de-minas-estudam-reajuste-no-frete-a-partir-de-janeiro"
     },
     {
-      "id": "jornaldocomercio-2026-11-03-braga-cbs",
+      "id": "infomoney-2026-11-03-relator-cbs-surpresa",
       "data": "2026-11-03",
-      "titulo": "Relator no Senado considera elevada a CBS de 11,3% e fala em tributo de até 9%",
-      "resumo": "Eduardo Braga, relator da CBS na CAE, diz não estar convencido do cálculo do TCU: esperava 8% a 9%, enquanto projeções de empresas apontavam 9,5%. A alíquota deve ser fixada por resolução do Senado até 15/12.",
-      "fonte": "Jornal do Comércio",
+      "adicionado_em": "2026-11-06T18:45:33-03:00",
+      "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
+      "resumo": "Eduardo Braga, relator no Senado, afirmou que o cálculo do TCU (11,3468%) surpreendeu os parlamentares, acima dos 8,8% projetados pela Fazenda em 2024 e dos 9,21% estimados em julho. Sem resolução até 15/12, vale o valor do TCU.",
+      "fonte": "InfoMoney",
       "tipo": "imprensa",
       "temas": [
         "CBS",
         "Alíquotas"
       ],
-      "url": "https://www.jornaldocomercio.com/economia/2026/11/1269092-relator-no-senado-diz-considerar-aliquota-da-cbs-elevada-e-fala-em-tributo-de-ate-9.html",
-      "adicionado_em": "2026-11-07T18:00:00-03:00"
+      "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
     },
     {
       "id": "senado-2026-11-03-calculo-cbs",
@@ -1200,20 +1229,6 @@
         "Legislação"
       ],
       "url": "https://www.migalhas.com.br/depeso/467608/cbs-em-2027-cobranca-em-janeiro-ou-nao-risco-calculavel"
-    },
-    {
-      "id": "infomoney-2026-11-03-relator-cbs-surpresa",
-      "data": "2026-11-03",
-      "adicionado_em": "2026-11-06T18:45:33-03:00",
-      "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
-      "resumo": "Eduardo Braga, relator no Senado, afirmou que o cálculo do TCU (11,3468%) surpreendeu os parlamentares, acima dos 8,8% projetados pela Fazenda em 2024 e dos 9,21% estimados em julho. Sem resolução até 15/12, vale o valor do TCU.",
-      "fonte": "InfoMoney",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
     },
     {
       "id": "barbieri-2026-11-02-ribs",
