@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T00:45:53-03:00",
+  "atualizado_em": "2026-11-10T01:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-09-documentos-auditar-ibs-cbs",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-10T01:55:00-03:00",
+      "titulo": "Reforma Tributária: documentos que a auditoria deve pedir para IBS e CBS",
+      "resumo": "Texto lista o que a auditoria deve solicitar na transição: notas fiscais, contratos, cadastros, memórias de cálculo, parametrização de sistemas e conciliações. Cita o Programa Nacional de Conformidade Tributária, que comunica inconsistências e permite correção pelo contribuinte.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80716/reforma-tributaria-documentos-para-auditar-ibs-e-cbs/"
+    },
     {
       "id": "contabeis-2026-11-09-nfse-locacao",
       "data": "2026-11-09",
