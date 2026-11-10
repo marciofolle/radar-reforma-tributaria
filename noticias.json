@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T12:00:00-03:00",
+  "atualizado_em": "2026-11-10T11:45:43-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -836,6 +836,21 @@
         "Legislação"
       ],
       "url": "https://www.migalhas.com.br/depeso/467901/a-mp-do-pecado--questoes-legais-e-polemicas"
+    },
+    {
+      "id": "diariodotransporte-2026-11-05-adiar-cbs-2028-transporte",
+      "data": "2026-11-05",
+      "adicionado_em": "2026-11-10T11:45:43-03:00",
+      "titulo": "Reforma tributária: entidades querem adiar novo imposto para 2028; impactos para empresas de ônibus, fabricantes e passageiros",
+      "resumo": "Entidades jurídicas e empresariais defendem começar a CBS em 2028, mantendo 2027 como teste. A matéria lembra que ônibus urbano é isento de IBS/CBS, o intermunicipal e interestadual tem redução de 40% e a ANTT propõe recompor até 60% do impacto em pedágios federais.",
+      "fonte": "Diário do Transporte",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Transporte",
+        "Setores"
+      ],
+      "url": "https://diariodotransporte.com.br/2026/11/05/reforma-tributaria-entidades-querem-adiar-novo-imposto-para-2028-veja-impactos-para-empresas-de-onibus-fabricantes-industria-ferroviaria-trabalhadores-e-passageiros/"
     },
     {
       "id": "migalhas-2026-11-04-oab-adiamento-2028",
