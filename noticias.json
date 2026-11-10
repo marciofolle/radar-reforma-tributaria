@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T16:46:00-03:00",
+  "atualizado_em": "2026-11-10T17:46:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -114,6 +114,63 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-10-svrs-testes-nt-2026-004-cte",
+      "data": "2026-11-10",
+      "titulo": "SVRS detalha testes de IBS e CBS da NT 2026.004 no CT-e e em mais cinco DF-e",
+      "resumo": "A homologação da SVRS aceita cenários com regras de 2026 e de 2027 para CT-e, BP-e, NF3e, NFCom, NFAg e NFGás. No CT-e, o vTPrest segue sem IBS/CBS e, na simulação de 2027, o vTotDFe soma os tributos; a versão 1.01 entra em produção em 14/12.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80735/nt-2026-004-como-testar-ibs-e-cbs-na-svrs/",
+      "adicionado_em": "2026-11-10T17:46:00-03:00"
+    },
+    {
+      "id": "contabeis-2026-11-10-petrobras-periodo-sem-multas",
+      "data": "2026-11-10",
+      "titulo": "Petrobras propõe à Fazenda período de adaptação à reforma sem multas",
+      "resumo": "A presidente da Petrobras, Magda Chambriard, defendeu um período de transição sem penalidades, mas com recolhimento normal dos tributos, alegando dúvidas na convivência dos dois sistemas, inclusive sobre o ICMS. A proposta não fixa prazo e ainda não teve resposta do ministério.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Setores"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80751/petrobras-quer-adaptacao-a-reforma-tributaria-sem-multas/",
+      "adicionado_em": "2026-11-10T17:46:00-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-10-hauly-comissao-geral-cbs",
+      "data": "2026-11-10",
+      "titulo": "Hauly pede comissão geral na Câmara sobre alíquota da CBS e Imposto Seletivo",
+      "resumo": "O deputado Luiz Carlos Hauly (Podemos-PR) apresentou requerimento para transformar uma sessão do plenário em comissão geral sobre a CBS e o Imposto Seletivo, com convite a Dario Durigan e Robinson Barreirinhas para explicar metodologia, arrecadação estimada e efeitos sobre preços.",
+      "fonte": "Reforma Tributária (portal)",
+      "tipo": "imprensa",
+      "temas": [
+        "Alíquotas",
+        "CBS",
+        "Imposto Seletivo"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/deputado-hauly-propoe-debate-na-camara-sobre-aliquota-da-cbs-e-impactos-da-reforma-tributaria/",
+      "adicionado_em": "2026-11-10T17:46:00-03:00"
+    },
+    {
+      "id": "reformatributaria-2026-11-10-cronograma-split-financeiras",
+      "data": "2026-11-10",
+      "titulo": "Financeiras preveem piloto do split payment em março e fase plena em outubro de 2027",
+      "resumo": "Pelo cronograma preliminar da Confederação Nacional das Instituições Financeiras, o piloto começa em março com TEF, segue com TED e Pix estático em abril e boleto e Pix dinâmico em julho; em outubro todas as modalidades chegariam à base de clientes, com uso opcional no B2B.",
+      "fonte": "Reforma Tributária (portal)",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment"
+      ],
+      "url": "https://www.reformatributaria.com/tecnologia/financeiras-preveem-piloto-do-split-em-marco-e-fase-definitiva-em-outubro-de-2027-leia-o-cronograma/",
+      "adicionado_em": "2026-11-10T17:46:00-03:00"
+    },
     {
       "id": "conjur-2026-11-10-tjsp-suspende-decisoes-ibs-cbs-base-icms",
       "data": "2026-11-10",
