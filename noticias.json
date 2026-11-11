@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T17:53:39-03:00",
+  "atualizado_em": "2026-11-11T18:53:28-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -132,6 +132,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "metropoles-2026-11-11-durigan-imposto-seletivo-cerveja",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T18:53:28-03:00",
+      "titulo": "Durigan diz que o Imposto Seletivo não vai encarecer a cerveja em 2027",
+      "resumo": "Segundo o ministro da Fazenda, a alíquota de 4,2% do IS para cerveja incide sobre base menor e equivale aos 3,9% de IPI atuais, sem elevar a carga de bebidas, cigarros, refrigerantes e veículos em 2027.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.metropoles.com/colunas/andreza-matais/o-imposto-do-pecado-nao-vai-aumentar-o-preco-da-cerveja-durigan-explica"
+    },
     {
       "id": "reformatributaria-2026-11-11-receita-recomenda-rad",
       "data": "2026-11-11",
