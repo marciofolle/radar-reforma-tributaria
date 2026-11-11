@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T14:54:22-03:00",
+  "atualizado_em": "2026-11-11T16:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -132,6 +132,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-11-receita-recomenda-rad",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T16:00:00-03:00",
+      "titulo": "Receita orienta empresas a começar já a usar o recolhimento pelo adquirente (RAD)",
+      "resumo": "Barreirinhas recomendou o RAD, modalidade opcional em que o comprador recolhe IBS e CBS da operação e o valor abate o débito do fornecedor. Disponível para testes, ele viabiliza créditos até o split payment ganhar robustez, previsto para outubro de 2027.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "Créditos",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/governo/receita-recomenda-que-empresas-iniciem-uso-do-rad-entenda/"
+    },
+    {
+      "id": "contabeis-2026-11-11-cnpj-tecnico-ibs-cbs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T16:00:00-03:00",
+      "titulo": "CNPJ técnico para IBS e CBS não exige que a pessoa física abra empresa",
+      "resumo": "A inscrição prevista na LC 214/2025 vale para pessoas físicas contribuintes de IBS/CBS, como quem tem atividade habitual acima do limite do nanoempreendedor, sem criar pessoa jurídica. A exigência foi adiada para 1º/1/2027 e Receita e CGIBS preparam cadastro simplificado.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80790/cnpj-tecnico-nao-significa-abertura-de-empresa-entenda-a-regra/"
+    },
     {
       "id": "reformatributaria-2026-11-11-novos-prazos-documentos-fiscais-cbs",
       "data": "2026-11-11",
