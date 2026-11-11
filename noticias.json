@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T09:49:51-03:00",
+  "atualizado_em": "2026-11-11T10:54:03-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,34 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-11-regulamento-ibs-cbs-versao-2",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T10:54:03-03:00",
+      "titulo": "Receita promete para esta semana a versão 2.0 dos regulamentos do IBS e da CBS",
+      "resumo": "Barreirinhas disse que a segunda versão dos regulamentos, publicados em 30/04, sai nesta semana ou no máximo na próxima. Técnicos da Receita e do Comitê Gestor mapearam as sugestões enviadas pelas entidades na consulta de maio e junho, e parte delas pode ter sido acolhida.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.reformatributaria.com/iva/versao-2-0-do-regulamento-de-ibs-cbs-deve-sair-esta-semana-diz-receita/"
+    },
+    {
+      "id": "contabeis-2026-11-11-dere-xsd-evento-pgcc",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T10:54:03-03:00",
+      "titulo": "DeRE: integradores precisam atualizar o XSD do evento PGCC após mudança no ambiente Beta",
+      "resumo": "A atualização do ambiente de Produção Beta da DeRE, programada pela Receita e pelo CGIBS para as 7h de 11/11, exige que os integradores revalidem o XML com o novo esquema do evento PGCC. O prazo de entrega não muda e o serviço segue disponível.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80760/dere-receita-orienta-atualizacao-do-xsd-do-evento-pgcc/"
+    },
     {
       "id": "conjur-2026-11-11-aluguel-nota-fiscal-reforma",
       "data": "2026-11-11",
