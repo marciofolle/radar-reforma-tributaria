@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T10:54:03-03:00",
+  "atualizado_em": "2026-11-11T12:10:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,66 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-11-cas-creditos-filantropicas",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T12:10:00-03:00",
+      "titulo": "CAS garante créditos de tributos sobre consumo para entidades filantrópicas",
+      "resumo": "A Comissão de Assuntos Sociais aprovou o PLP 45/2026, que permite a entidades filantrópicas de educação, saúde e assistência social, imunes a IBS e CBS, recuperar ou compensar os créditos embutidos nas compras. O relator Flávio Arns restringiu o alcance; o texto segue para a CAE.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cas-garante-creditos-de-tributos-sobre-consumo-para-entidades-filantropicas"
+    },
+    {
+      "id": "cnn-2026-11-11-plp-adiar-recolhimento-cbs-1-mes",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T12:10:00-03:00",
+      "titulo": "Governo enviará projeto para permitir adiar em um mês o recolhimento definitivo da CBS",
+      "resumo": "Em coletiva da Receita, Robinson Barreirinhas anunciou um PLP opcional: o contribuinte recolheria a CBS de fevereiro por estimativa e faria o ajuste no mês seguinte, glosando créditos de fornecedores que não pagaram o tributo. A medida depende do Congresso.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-vai-propor-regra-para-adiar-recolhimento-definitivo-da-cbs-em-1-mes/"
+    },
+    {
+      "id": "metropoles-2026-11-11-fazenda-implementacao-imediata",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T12:10:00-03:00",
+      "titulo": "Receita reafirma implementação imediata da reforma e MEIs terão de informar IBS e CBS em 2027",
+      "resumo": "Barreirinhas disse que a posição da Fazenda é de implementação imediata em 2027, apesar dos pedidos de adiamento. Os MEIs, dispensados em 2026, passam a preencher os novos tributos nas notas fiscais no ano que vem, e a NFS-e está sendo adaptada.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Documentos fiscais",
+        "Simples Nacional"
+      ],
+      "url": "https://www.metropoles.com/brasil/fazenda-reforca-implementacao-imediata-da-reforma-tributaria"
+    },
+    {
+      "id": "infomoney-2026-11-11-governo-descarta-adiar-2028",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T12:10:00-03:00",
+      "titulo": "Durigan descarta adiar a CBS para 2028 e promete transição sem multas para quem agir de boa-fé",
+      "resumo": "O ministro da Fazenda disse a deputados que a cobrança da CBS começa em 1º de janeiro de 2027 e prometeu programa de conformidade para corrigir erros de boa-fé em notas, cálculo e créditos sem multa, além de avaliar alternativas para o Simples Nacional.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Simples Nacional"
+      ],
+      "url": "https://www.infomoney.com.br/politica/governo-descarta-adiar-reforma-tributaria-para-2028-e-promete-adaptacao-sem-multas/"
+    },
     {
       "id": "reformatributaria-2026-11-11-regulamento-ibs-cbs-versao-2",
       "data": "2026-11-11",
