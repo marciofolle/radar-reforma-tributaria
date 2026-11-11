@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T20:51:00-03:00",
+  "atualizado_em": "2026-11-10T21:46:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -63,6 +63,12 @@
       "titulo": "NF-e: NT 2025.002 v1.52 em produção",
       "detalhe": "Rejeições de IBS/CBS da versão 1.52 passam a valer em produção, segundo o Portal da NF-e",
       "url": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/"
+    },
+    {
+      "data": "2026-11-16",
+      "titulo": "STF — fim da 2ª fase da consulta sobre o contencioso do IBS/CBS",
+      "detalhe": "Edital 05/2026 do CESTF: instituições enviam sugestões até 23h59; proposta prevê ação única para IBS e CBS da mesma operação",
+      "url": "https://www.reformatributaria.com/justica/proposta-em-consulta-no-stf-preve-um-unico-processo-para-acoes-do-ibs-e-da-cbs/"
     },
     {
       "data": "2026-11-30",
