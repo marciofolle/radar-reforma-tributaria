@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-10T22:45:00-03:00",
+  "atualizado_em": "2026-11-10T23:50:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,49 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-10-receita-anuncia-flexibilizacao-multas-cbs",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T23:50:00-03:00",
+      "titulo": "Receita deve anunciar nesta quarta (11/11) alívio nas multas da CBS em 2027",
+      "resumo": "Segundo técnicos da Receita, o órgão deve divulgar em 11/11 novos prazos de flexibilização das penalidades por descumprimento de obrigações da CBS em 2027; o adiamento integral da cobrança no próximo ano segue descartado.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-brasil/receita-deve-anunciar-na-4a-feira-flexibilizacao-das-multas-da-cbs-em-2027/"
+    },
+    {
+      "id": "reformatributaria-2026-11-10-cni-cbs-10-3",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T23:50:00-03:00",
+      "titulo": "CNI propõe trocar o período de referência da carga para baixar a CBS a cerca de 10,3%",
+      "resumo": "Diretor da CNI sugere usar a carga de 2023–2025 (4,6% do PIB) em vez da média 2012–2021 (5% do PIB) no cálculo da CBS, o que reduziria em cerca de 1 ponto os 11,3% do TCU; a mudança exigiria alterar a LC 214/2025.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/iva/industria-sugere-mudar-referencia-de-carga-tributaria-na-lei-para-levar-cbs-a-103/"
+    },
+    {
+      "id": "reformatributaria-2026-11-10-deputados-creditos-simples",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-10T23:50:00-03:00",
+      "titulo": "Deputados pedem à Fazenda caminho mais simples para o Simples Nacional gerar créditos de IBS/CBS",
+      "resumo": "Na reunião de 10/11 com Durigan, Joaquim Passarinho (PL-PA) criticou a complexidade do regime híbrido, única via para optantes do Simples transferirem créditos integrais de IBS/CBS; segundo ele, o ministro se mostrou aberto a buscar solução. Nova janela de opção abre em março de 2027.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Créditos"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/deputados-pedem-que-fazenda-facilite-acesso-a-creditos-de-ibs-cbs-pelo-simples-nacional/"
+    },
     {
       "id": "agenciabrasil-2026-11-10-deputados-rever-isencoes-iva-26-5",
       "data": "2026-11-10",
