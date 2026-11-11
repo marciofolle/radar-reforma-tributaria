@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T07:46:00-03:00",
+  "atualizado_em": "2026-11-11T08:50:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "conjur-2026-11-11-aluguel-nota-fiscal-reforma",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T08:50:00-03:00",
+      "titulo": "Aluguel com nota fiscal: NFS-e obrigatória em dezembro e a opção de 3,65% para contratos antigos",
+      "resumo": "Artigo na ConJur lembra que a locação de imóveis entra no IBS/CBS com NFS-e obrigatória a partir de 1º/12/2026 (Simples em 2027) e avalia o recolhimento opcional de 3,65% sobre a receita de contratos antigos, irretratável, mais vantajoso em locações comerciais longas.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "Documentos fiscais",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
+    },
     {
       "id": "reformatributaria-2026-11-10-receita-anuncia-flexibilizacao-multas-cbs",
       "data": "2026-11-10",
