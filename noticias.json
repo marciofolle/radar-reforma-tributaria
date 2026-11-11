@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T12:10:00-03:00",
+  "atualizado_em": "2026-11-11T13:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,22 @@
     }
   ],
   "itens": [
+    {
+      "id": "fazenda-2026-11-11-proximos-passos-reforma",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T13:05:00-03:00",
+      "titulo": "Receita Federal e órgãos parceiros detalham próximos passos da Reforma Tributária",
+      "resumo": "Em coletiva, a Receita apresentou o programa de conformidade de 2027, sem penalidade para erros de boa-fé na transição, prometeu o Regulamento 2.0 nesta semana e abriu o ambiente piloto a todos os contribuintes. Atos conjuntos com o CGIBS sairão até o início de dezembro; algumas exigências de documentos ficam para março de 2027.",
+      "fonte": "Ministério da Fazenda",
+      "orgao": "Ministério da Fazenda",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-orgaos-parceiros-detalham-proximos-passos-da-reforma-tributaria"
+    },
     {
       "id": "senado-2026-11-11-cas-creditos-filantropicas",
       "data": "2026-11-11",
