@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T18:53:28-03:00",
+  "atualizado_em": "2026-11-11T19:55:52-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -132,6 +132,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "correiobraziliense-2026-11-11-75-entidades-adiamento-cbs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T19:55:52-03:00",
+      "titulo": "Manifesto de 75 entidades empresariais pede adiar CBS e Imposto Seletivo para 2028",
+      "resumo": "Signatários como Abear, Abrafarma, Fecomercio SP, Firjan, FIEMG e IATA pedem estender os testes até o fim de 2027 e começar a cobrança em janeiro de 2028. A Receita manteve a CBS em janeiro e prometeu não multar erros de boa-fé.",
+      "fonte": "Correio Braziliense",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://blogs.correiobraziliense.com.br/capital-sa/2026/11/11/75-entidades-empresariais-pedem-adiamento-da-reforma-tributaria/"
+    },
     {
       "id": "metropoles-2026-11-11-durigan-imposto-seletivo-cerveja",
       "data": "2026-11-11",
