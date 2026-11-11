@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T13:05:00-03:00",
+  "atualizado_em": "2026-11-11T13:55:11-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -41,12 +41,6 @@
       "url": "https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/176208"
     },
     {
-      "data": "2026-11-15",
-      "titulo": "DeRE — início da 2ª fase",
-      "detalhe": "Envio periódico de informações por contribuintes de regimes específicos",
-      "url": "https://massa.com.br/servicos-informacoes-uteis/receita-federal-nova-obrigacao-15-novembro-2026"
-    },
-    {
       "data": "2026-11-16",
       "titulo": "CT-e: campos do Simples Nacional em produção",
       "detalhe": "NT 2026.005 — tpRegimeIBSCBS e grupo gTribSN",
@@ -77,12 +71,6 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
     },
     {
-      "data": "2026-12-01",
-      "titulo": "DF-e da 3ª etapa: imóveis, locação e plataformas",
-      "detalhe": "NF-e ABI (alienação de imóveis), NFS-e de locação/condomínios e de plataformas digitais, NFAg e NFGas passam a exigir IBS/CBS",
-      "url": "https://www.barbieriadvogados.com/transicao-tributaria-2026/"
-    },
-    {
       "data": "2026-12-14",
       "titulo": "CT-e: regras de validação da NT 2026.005 em produção",
       "detalhe": "Rejeições novas para emitentes do Simples; Setcesp: NT 2026.004 v1.01 do CT-e prorrogada de 16/11 para 14/12",
@@ -93,6 +81,12 @@
       "titulo": "Senado fixa a alíquota de referência da CBS",
       "detalhe": "Sem deliberação no prazo, prevalece o cálculo do TCU (11,3%)",
       "url": "https://noticias.iob.com.br/?p=90385"
+    },
+    {
+      "data": "2026-12-15",
+      "titulo": "DeRE — 2ª fase (eventos mensais de instituições financeiras)",
+      "detalhe": "Adiada de 15/11 para 15/12; demais eventos passam de 1º/1 para 15/02/2027",
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
     },
     {
       "data": "2026-12-20",
@@ -107,10 +101,28 @@
       "url": "https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana"
     },
     {
+      "data": "2027-01-01",
+      "titulo": "NFS-e com IBS/CBS: locação, condomínios, bens imateriais, gás e água",
+      "detalhe": "Adiada de 1º/12/2026 pela Receita e CGIBS (coletiva de 10/11)",
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+    },
+    {
       "data": "2027-02-02",
       "titulo": "Início da cobrança do Imposto Seletivo",
       "detalhe": "Alíquotas transitórias da MP 1.399/2026",
       "url": "https://www.mixvale.com.br/2026/11/05/impostodo-pecado-2027-cerveja-42-vinho-8-e-cigarros-667-mais-r-350/"
+    },
+    {
+      "data": "2027-02-15",
+      "titulo": "DeRE — eventos mensais (demais etapas)",
+      "detalhe": "Antes previstos para 1º/1/2027",
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+    },
+    {
+      "data": "2027-03-01",
+      "titulo": "BP-e, NF-e ABI, NFS-e de plataformas e transporte coletivo, DF-e do Simples",
+      "detalhe": "BP-e TM e aéreo, NF-e de alienação de imóveis, NFS-e de plataformas digitais/software/processamento de dados e de transporte coletivo municipal; DF-e do Simples na venda de mercadorias (antes 1º/1/2027)",
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
     },
     {
       "data": "2027-06-30",
@@ -120,6 +132,49 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-11-novos-prazos-documentos-fiscais-cbs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T13:55:11-03:00",
+      "titulo": "Receita e Comitê Gestor adiam exigência de IBS/CBS em parte dos documentos fiscais para janeiro e março de 2027",
+      "resumo": "Na coletiva de 10/11, Receita e CGIBS mudaram o cronograma: NFS-e de locação, condomínios, gás e água passa de 1º/12 para 1º/1/2027; BP-e, NF-e ABI, NFS-e de plataformas digitais e de transporte coletivo e DF-e do Simples vão a 1º/3/2027; a 2ª fase da DeRE vai a 15/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias",
+        "Transporte"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+    },
+    {
+      "id": "infomoney-2026-11-11-receita-boa-fe-multas-cbs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T13:55:11-03:00",
+      "titulo": "Receita mantém a CBS em janeiro de 2027 e diz que erros de boa-fé não serão multados",
+      "resumo": "Robinson Barreirinhas afirmou que contribuintes com dúvidas fundamentadas, transparência e boa prática contábil não serão penalizados na adaptação. A CBS segue em janeiro, o Imposto Seletivo em fevereiro, e entidades empresariais pedem testes até dezembro de 2027.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.infomoney.com.br/politica/receita-confirma-reforma-tributaria-em-2027-e-promete-nao-multar-erros-de-boa-fe/"
+    },
+    {
+      "id": "contabeis-2026-11-11-cte-epec-nt-2026-004",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-11T13:55:11-03:00",
+      "titulo": "CT-e: como regularizar uma EPEC pendente após a NT 2026.004",
+      "resumo": "A NT 2026.004 v1.01, prevista para 14/12, encerra o registro de novas EPECs (rejeição 629) e cria a contingência offline (tpEmis=2); o CT-e já vinculado a EPEC anterior deve ser transmitido com a chave e o tpEmis=4 originais.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80763/ct-e-como-conciliar-uma-epec-pendente-apos-a-nt-2026-004/"
+    },
     {
       "id": "fazenda-2026-11-11-proximos-passos-reforma",
       "data": "2026-11-11",
