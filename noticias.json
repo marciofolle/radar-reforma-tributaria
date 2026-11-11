@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-11T09:47:31-03:00",
+  "atualizado_em": "2026-11-11T09:49:51-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -134,6 +134,21 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
+    },
+    {
+      "id": "g1-2026-11-10-split-payment-98-operacoes-b2b",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-11T09:49:51-03:00",
+      "titulo": "Bancos estimam que o split payment cubra 98% dos pagamentos entre empresas a partir de outubro de 2027",
+      "resumo": "Segundo a presidente da Fin, Cristiane Coelho, 98% das transações B2B estarão no split payment a partir de outubro de 2027, com adesão opcional nesse ano; a Receita prevê obrigatoriedade só em 2028, e o governo propõe pagar R$ 0,39 por transação aos bancos.",
+      "fonte": "g1",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml"
     },
     {
       "id": "reformatributaria-2026-11-10-receita-anuncia-flexibilizacao-multas-cbs",
