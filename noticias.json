@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T09:55:44-03:00",
+  "atualizado_em": "2026-11-12T11:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,33 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-12-piloto-apuracao-assistida-todos",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T11:05:00-03:00",
+      "titulo": "Receita vai abrir em novembro o piloto da apuração assistida da CBS a todos os contribuintes",
+      "resumo": "Hoje restrito a cerca de 500 empresas, o ambiente de testes da Portaria RFB 549/2025 será ampliado neste mês, sem data definida. O leiaute do módulo de ajustes sai em novembro e o protótipo em dezembro; simulações não geram efeitos fiscais.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80798/receita-preve-abrir-piloto-da-reforma-tributaria-em-novembro/"
+    },
+    {
+      "id": "contabeis-2026-11-12-split-payment-formulario-psps",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T11:05:00-03:00",
+      "titulo": "Split payment: formulários para novos prestadores de pagamento saem nesta sexta (13)",
+      "resumo": "Receita e CGIBS devem divulgar em 13/11 os formulários e o manual para que novos PSPs entrem nos testes da plataforma pública; as inscrições começam em 16/11 e vão direto aos órgãos, sem intermediação de associações. Os testes não têm efeito tributário.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80803/split-payment-formulario-para-testes-esta-previsto-para-esta-sexta-13/"
+    },
     {
       "id": "infomoney-2026-11-12-alivio-multas-risco-creditos",
       "data": "2026-11-12",
