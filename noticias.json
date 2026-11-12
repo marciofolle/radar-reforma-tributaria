@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T19:55:00-03:00",
+  "atualizado_em": "2026-11-12T20:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -157,6 +157,22 @@
   ],
   "itens": [
     {
+      "id": "camara-2026-11-12-cft-debate-regulamentacao-reforma-receita",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T19:55:00-03:00",
+      "titulo": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+      "resumo": "A Comissão de Finanças e Tributação da Câmara ouve o secretário especial da Receita, Robinson Barreirinhas, na quarta (18/11), às 10h. Na pauta: a alíquota de 11,3% da CBS calculada pelo TCU, a MP 1.399/2026 do Imposto Seletivo e os custos de conformidade para pequenas empresas.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria"
+    },
+    {
       "id": "reformatributaria-2026-11-12-cgibs-aprova-2a-versao-regulamento",
       "data": "2026-11-12",
       "adicionado_em": "2026-11-12T19:05:00-03:00",
@@ -184,6 +200,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.brasil247.com/economia/fazenda-ve-digital-de-flavio-bolsonaro-em-pressao-para-adiar-reforma-tributaria"
+    },
+    {
+      "id": "conjur-2026-11-12-pronunciamento-reforma",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T17:54:00-03:00",
+      "titulo": "Artigo aponta lacunas no pronunciamento de Lula sobre a reforma: alíquota do IVA perto de 30% ficou de fora",
+      "resumo": "Em artigo de opinião, tributarista critica o discurso presidencial de 8/11: a cesta básica já tinha PIS/Cofins zerados, alíquota zero não garante preço menor e não se explicou como a arrecadação pode levar a alíquota de referência do IVA a cerca de 30%.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Alíquotas",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-12/reforma-tributaria-o-que-faltou-explicar-no-pronunciamento-presidencial/"
     },
     {
       "id": "contabeis-2026-11-12-simples-notas-fiscais-marco",
@@ -312,37 +343,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
-    },
-    {
-      "id": "conjur-2026-11-12-pronunciamento-reforma",
-      "data": "2026-11-12",
-      "adicionado_em": "2026-11-12T17:54:00-03:00",
-      "titulo": "Artigo aponta lacunas no pronunciamento de Lula sobre a reforma: alíquota do IVA perto de 30% ficou de fora",
-      "resumo": "Em artigo de opinião, tributarista critica o discurso presidencial de 8/11: a cesta básica já tinha PIS/Cofins zerados, alíquota zero não garante preço menor e não se explicou como a arrecadação pode levar a alíquota de referência do IVA a cerca de 30%.",
-      "fonte": "ConJur",
-      "tipo": "imprensa",
-      "temas": [
-        "Alíquotas",
-        "CBS",
-        "IBS"
-      ],
-      "url": "https://conjur.com.br/2026-nov-12/reforma-tributaria-o-que-faltou-explicar-no-pronunciamento-presidencial/"
-    },
-    {
-      "id": "camara-2026-11-12-cft-debate-regulamentacao-reforma-receita",
-      "data": "2026-11-12",
-      "adicionado_em": "2026-11-12T19:55:00-03:00",
-      "titulo": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
-      "resumo": "A Comissão de Finanças e Tributação da Câmara ouve o secretário especial da Receita, Robinson Barreirinhas, na quarta (18/11), às 10h. Na pauta: a alíquota de 11,3% da CBS calculada pelo TCU, a MP 1.399/2026 do Imposto Seletivo e os custos de conformidade para pequenas empresas.",
-      "fonte": "Agência Câmara",
-      "orgao": "Câmara dos Deputados",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Imposto Seletivo",
-        "Alíquotas"
-      ],
-      "url": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
@@ -627,6 +627,21 @@
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
     },
     {
+      "id": "neofeed-2026-11-10-congresso-articula-mudar-aliquota-cbs-adiar-reforma",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-12T20:54:00-03:00",
+      "titulo": "Congresso se movimenta para baixar a CBS de 11,3% e adiar a reforma para 2028",
+      "resumo": "Parlamentares tentam reduzir a alíquota de referência proposta pelo TCU antes do prazo de 15/12; tributarista estima cerca de 9,8% se usados 2024 e 2025 como anos de referência. A deputada Any Ortiz coleta as 171 assinaturas para PEC de adiamento, e a Fazenda mantém o cronograma.",
+      "fonte": "NeoFeed",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://neofeed.com.br/poder/nem-113-nem-2027-congresso-articula-para-mudar-aliquota-da-cbs-e-adiar-a-reforma-tributaria/"
+    },
+    {
       "id": "g1-2026-11-10-split-payment-98-operacoes-b2b",
       "data": "2026-11-10",
       "adicionado_em": "2026-11-11T09:49:51-03:00",
@@ -860,6 +875,22 @@
       "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
     },
     {
+      "id": "apet-2026-11-09-plp-16-audiencia-camara",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-12T17:54:00-03:00",
+      "titulo": "Projeto que exclui IBS e CBS da base de tributos atuais será debatido em audiência na Câmara dos Deputados",
+      "resumo": "A Comissão de Finanças e Tributação aprovou em 4/11 requerimento de audiência pública sobre o PLP 16/2025, que mantém IBS e CBS fora da base de ICMS, ISS e IPI na transição; o projeto ainda aguarda parecer do relator e passa pela CCJ.",
+      "fonte": "APET",
+      "orgao": "Associação Paulista de Estudos Tributários",
+      "tipo": "entidade",
+      "temas": [
+        "Legislação",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://apet.org.br/?p=144128"
+    },
+    {
       "id": "reformatributaria-2026-11-09-senadores-cautela-cbs",
       "data": "2026-11-09",
       "titulo": "Senadores avaliam com cautela o cálculo de 11,3% para a CBS",
@@ -1031,22 +1062,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
-    },
-    {
-      "id": "apet-2026-11-09-plp-16-audiencia-camara",
-      "data": "2026-11-09",
-      "adicionado_em": "2026-11-12T17:54:00-03:00",
-      "titulo": "Projeto que exclui IBS e CBS da base de tributos atuais será debatido em audiência na Câmara dos Deputados",
-      "resumo": "A Comissão de Finanças e Tributação aprovou em 4/11 requerimento de audiência pública sobre o PLP 16/2025, que mantém IBS e CBS fora da base de ICMS, ISS e IPI na transição; o projeto ainda aguarda parecer do relator e passa pela CCJ.",
-      "fonte": "APET",
-      "orgao": "Associação Paulista de Estudos Tributários",
-      "tipo": "entidade",
-      "temas": [
-        "Legislação",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://apet.org.br/?p=144128"
     },
     {
       "id": "fenacon-2026-11-08-exportacao-servicos",
