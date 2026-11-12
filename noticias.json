@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T02:53:45-03:00",
+  "atualizado_em": "2026-11-12T03:54:44-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -367,6 +367,21 @@
         "Legislação"
       ],
       "url": "https://www.metropoles.com/brasil/reforma-tributaria-governo-vai-propor-adiar-pagamento-definitivo-da-cbs"
+    },
+    {
+      "id": "senado-2026-11-11-dia-nacional-cachaca-imposto-seletivo",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T03:54:44-03:00",
+      "titulo": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
+      "resumo": "Em audiência no Senado sobre o projeto que cria o Dia Nacional da Cachaça, o senador Carlos Portinho (PL-RJ) criticou o efeito do Imposto Seletivo, que começa a ser cobrado em 2027, sobre os produtores e defendeu poupar a bebida da nova cobrança.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Setores"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia"
     },
     {
       "id": "g1-2026-11-10-split-payment-98-operacoes-b2b",
