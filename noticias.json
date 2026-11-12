@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T13:10:00-03:00",
+  "atualizado_em": "2026-11-12T14:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "agencia-senado-2026-11-12-pln-4-modernizacao-fiscal-reforma",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T14:05:00-03:00",
+      "titulo": "Aprovados R$ 522 mi para modernização fiscal e compromissos internacionais",
+      "resumo": "O Congresso aprovou o PLN 4/2026, que destina R$ 34 milhões ao Ministério da Fazenda para soluções tecnológicas da reforma tributária do consumo, dentro do Profisco III financiado pelo BID; o pedido original era de R$ 240 milhões. O texto segue para sanção.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/aprovados-r-522-mi-para-modernizacao-fiscal-e-compromissos-internacionais"
+    },
     {
       "id": "contabeis-2026-11-12-nfe-nfce-pacotes-16-novembro",
       "data": "2026-11-12",
