@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T05:54:19-03:00",
+  "atualizado_em": "2026-11-12T06:54:29-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,82 @@
     }
   ],
   "itens": [
+    {
+      "id": "infomoney-2026-11-12-alivio-multas-risco-creditos",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T06:54:29-03:00",
+      "titulo": "Tolerância com erros de boa-fé não elimina o risco de perder créditos da CBS",
+      "resumo": "Tributaristas avaliam que a flexibilização anunciada pela Receita em 11/11 não protege o comprador de falhas do fornecedor: sem nota correta, o crédito pode se perder. Soluções como o crédito estimado e o adiamento de documentos para 1º/3/2027 ainda dependem do Congresso ou de regras detalhadas.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "cfc-2026-11-11-nove-propostas-receita",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T05:54:19-03:00",
+      "titulo": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
+      "resumo": "Documento assinado pelo CFC, 27 CRCs e Fenacon pede implantação escalonada dos DF-e, nenhuma rejeição ou multa por IBS/CBS ausente ou incorreto na transição e sala de situação semanal. A Receita anunciou módulo simplificado de ajustes da apuração assistida, com protótipo em dezembro.",
+      "fonte": "CFC",
+      "orgao": "Conselho Federal de Contabilidade",
+      "tipo": "entidade",
+      "temas": [
+        "Obrigações acessórias",
+        "CBS",
+        "Documentos fiscais"
+      ],
+      "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-11-split-payment-apis-fintechs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T05:54:19-03:00",
+      "titulo": "Fintechs B2B adaptam APIs de pagamento ao split payment para evitar retenção a maior de IBS e CBS",
+      "resumo": "Instituições de pagamento integram ERPs às suas APIs de liquidação para segregar IBS e CBS corretamente; os testes com a plataforma pública começaram em 15/10. A Receita prevê adesão gradual de mais de 200 instituições ao longo de 2027 e uso obrigatório entre empresas em 2028.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/"
+    },
+    {
+      "id": "senado-2026-11-11-dia-nacional-cachaca-imposto-seletivo",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T03:54:44-03:00",
+      "titulo": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
+      "resumo": "Em audiência no Senado sobre o projeto que cria o Dia Nacional da Cachaça, o senador Carlos Portinho (PL-RJ) criticou o efeito do Imposto Seletivo, que começa a ser cobrado em 2027, sobre os produtores e defendeu poupar a bebida da nova cobrança.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Imposto Seletivo",
+        "Setores"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia"
+    },
+    {
+      "id": "metropoles-2026-11-11-governo-propoe-adiar-pagamento-definitivo-cbs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T00:54:11-03:00",
+      "titulo": "Governo vai propor ao Congresso pagamento presumido da CBS com ajuste no mês seguinte",
+      "resumo": "Segundo Robinson Barreirinhas, as empresas poderiam recolher a CBS de forma presumida no início de fevereiro, abatendo créditos de janeiro das notas de fornecedores, com acerto no começo de março após a Receita checar o pagamento; a regra valeria ao menos em 2027.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.metropoles.com/brasil/reforma-tributaria-governo-vai-propor-adiar-pagamento-definitivo-da-cbs"
+    },
     {
       "id": "correiobraziliense-2026-11-11-75-entidades-adiamento-cbs",
       "data": "2026-11-11",
@@ -358,67 +434,6 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
-    },
-    {
-      "id": "metropoles-2026-11-11-governo-propoe-adiar-pagamento-definitivo-cbs",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-12T00:54:11-03:00",
-      "titulo": "Governo vai propor ao Congresso pagamento presumido da CBS com ajuste no mês seguinte",
-      "resumo": "Segundo Robinson Barreirinhas, as empresas poderiam recolher a CBS de forma presumida no início de fevereiro, abatendo créditos de janeiro das notas de fornecedores, com acerto no começo de março após a Receita checar o pagamento; a regra valeria ao menos em 2027.",
-      "fonte": "Metrópoles",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "https://www.metropoles.com/brasil/reforma-tributaria-governo-vai-propor-adiar-pagamento-definitivo-da-cbs"
-    },
-    {
-      "id": "senado-2026-11-11-dia-nacional-cachaca-imposto-seletivo",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-12T03:54:44-03:00",
-      "titulo": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
-      "resumo": "Em audiência no Senado sobre o projeto que cria o Dia Nacional da Cachaça, o senador Carlos Portinho (PL-RJ) criticou o efeito do Imposto Seletivo, que começa a ser cobrado em 2027, sobre os produtores e defendeu poupar a bebida da nova cobrança.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Imposto Seletivo",
-        "Setores"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia"
-    },
-    {
-      "id": "cfc-2026-11-11-nove-propostas-receita",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-12T05:54:19-03:00",
-      "titulo": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
-      "resumo": "Documento assinado pelo CFC, 27 CRCs e Fenacon pede implantação escalonada dos DF-e, nenhuma rejeição ou multa por IBS/CBS ausente ou incorreto na transição e sala de situação semanal. A Receita anunciou módulo simplificado de ajustes da apuração assistida, com protótipo em dezembro.",
-      "fonte": "CFC",
-      "orgao": "Conselho Federal de Contabilidade",
-      "tipo": "entidade",
-      "temas": [
-        "Obrigações acessórias",
-        "CBS",
-        "Documentos fiscais"
-      ],
-      "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/"
-    },
-    {
-      "id": "contabeis-2026-11-11-split-payment-apis-fintechs",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-12T05:54:19-03:00",
-      "titulo": "Fintechs B2B adaptam APIs de pagamento ao split payment para evitar retenção a maior de IBS e CBS",
-      "resumo": "Instituições de pagamento integram ERPs às suas APIs de liquidação para segregar IBS e CBS corretamente; os testes com a plataforma pública começaram em 15/10. A Receita prevê adesão gradual de mais de 200 instituições ao longo de 2027 e uso obrigatório entre empresas em 2028.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Split payment",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/"
     },
     {
       "id": "g1-2026-11-10-split-payment-98-operacoes-b2b",
