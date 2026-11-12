@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T17:54:00-03:00",
+  "atualizado_em": "2026-11-12T19:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-12-cgibs-aprova-2a-versao-regulamento",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T19:05:00-03:00",
+      "titulo": "Comitê Gestor aprova ajustes da 2ª versão do regulamento do IBS; TAC e produtor rural ficam sem CNPJ até 2028",
+      "resumo": "Na reunião de 10/11 em Joinville, o CGIBS aprovou a versão 2 do regulamento: produtor rural e transportador autônomo fora do regime regular ficam dispensados de CNPJ de 2027 a 2028, e prazos de DF-e e da DeRE foram adiados. Publicação prevista até o fim da semana.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "Legislação",
+        "Transporte"
+      ],
+      "url": "https://www.reformatributaria.com/comite-gestor-do-ibs-reforma-tributaria/comite-gestor-do-ibs-aprova-a-2a-versao-do-regulamento-do-imposto-deve-sair-esta-semana/"
+    },
+    {
+      "id": "brasil247-2026-11-12-fazenda-flavio-bolsonaro-adiamento",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T19:05:00-03:00",
+      "titulo": "Fazenda atribui a Flávio Bolsonaro parte da pressão empresarial para adiar a reforma",
+      "resumo": "Equipe econômica avalia que empresas suspenderam investimentos de adaptação apostando no adiamento; manifesto de 1.491 entidades pede início em 2028. Durigan descarta adiar e propõe período de conformidade de seis meses sem multas para contribuintes de boa-fé.",
+      "fonte": "Brasil 247",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.brasil247.com/economia/fazenda-ve-digital-de-flavio-bolsonaro-em-pressao-para-adiar-reforma-tributaria"
+    },
     {
       "id": "contabeis-2026-11-12-simples-notas-fiscais-marco",
       "data": "2026-11-12",
