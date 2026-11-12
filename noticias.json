@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T04:54:18-03:00",
+  "atualizado_em": "2026-11-12T05:54:19-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -388,6 +388,37 @@
         "Setores"
       ],
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia"
+    },
+    {
+      "id": "cfc-2026-11-11-nove-propostas-receita",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T05:54:19-03:00",
+      "titulo": "CFC e Fenacon entregam à Receita nove propostas para a reforma tributária",
+      "resumo": "Documento assinado pelo CFC, 27 CRCs e Fenacon pede implantação escalonada dos DF-e, nenhuma rejeição ou multa por IBS/CBS ausente ou incorreto na transição e sala de situação semanal. A Receita anunciou módulo simplificado de ajustes da apuração assistida, com protótipo em dezembro.",
+      "fonte": "CFC",
+      "orgao": "Conselho Federal de Contabilidade",
+      "tipo": "entidade",
+      "temas": [
+        "Obrigações acessórias",
+        "CBS",
+        "Documentos fiscais"
+      ],
+      "url": "https://cfc.org.br/noticias/cfc-e-fenacon-entregam-a-receita-nove-propostas-para-a-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-11-split-payment-apis-fintechs",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-12T05:54:19-03:00",
+      "titulo": "Fintechs B2B adaptam APIs de pagamento ao split payment para evitar retenção a maior de IBS e CBS",
+      "resumo": "Instituições de pagamento integram ERPs às suas APIs de liquidação para segregar IBS e CBS corretamente; os testes com a plataforma pública começaram em 15/10. A Receita prevê adesão gradual de mais de 200 instituições ao longo de 2027 e uso obrigatório entre empresas em 2028.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80776/split-payment-exige-adaptacao-das-apis-de-pagamento/"
     },
     {
       "id": "g1-2026-11-10-split-payment-98-operacoes-b2b",
