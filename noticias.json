@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T19:05:00-03:00",
+  "atualizado_em": "2026-11-12T19:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -75,6 +75,12 @@
       "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
       "detalhe": "Ministro Dario Durigan na terça (17); audiências em 17 e 18/11, relator Eduardo Braga",
       "url": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/"
+    },
+    {
+      "data": "2026-11-18",
+      "titulo": "Câmara (CFT) — audiência com o secretário da Receita sobre a regulamentação",
+      "detalhe": "Robinson Barreirinhas fala sobre a alíquota da CBS, a MP do Imposto Seletivo e as obrigações acessórias, às 10h",
+      "url": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria"
     },
     {
       "data": "2026-11-30",
@@ -321,6 +327,22 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-12/reforma-tributaria-o-que-faltou-explicar-no-pronunciamento-presidencial/"
+    },
+    {
+      "id": "camara-2026-11-12-cft-debate-regulamentacao-reforma-receita",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T19:55:00-03:00",
+      "titulo": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+      "resumo": "A Comissão de Finanças e Tributação da Câmara ouve o secretário especial da Receita, Robinson Barreirinhas, na quarta (18/11), às 10h. Na pauta: a alíquota de 11,3% da CBS calculada pelo TCU, a MP 1.399/2026 do Imposto Seletivo e os custos de conformidade para pequenas empresas.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
