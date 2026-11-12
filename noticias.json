@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T16:58:00-03:00",
+  "atualizado_em": "2026-11-12T17:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -277,6 +277,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "conjur-2026-11-12-pronunciamento-reforma",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T17:54:00-03:00",
+      "titulo": "Artigo aponta lacunas no pronunciamento de Lula sobre a reforma: alíquota do IVA perto de 30% ficou de fora",
+      "resumo": "Em artigo de opinião, tributarista critica o discurso presidencial de 8/11: a cesta básica já tinha PIS/Cofins zerados, alíquota zero não garante preço menor e não se explicou como a arrecadação pode levar a alíquota de referência do IVA a cerca de 30%.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Alíquotas",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-12/reforma-tributaria-o-que-faltou-explicar-no-pronunciamento-presidencial/"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
@@ -965,6 +980,22 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.contabeis.com.br/noticias/80689/sem-adiamento-cbs-comeca-em-janeiro-de-2027/"
+    },
+    {
+      "id": "apet-2026-11-09-plp-16-audiencia-camara",
+      "data": "2026-11-09",
+      "adicionado_em": "2026-11-12T17:54:00-03:00",
+      "titulo": "Projeto que exclui IBS e CBS da base de tributos atuais será debatido em audiência na Câmara dos Deputados",
+      "resumo": "A Comissão de Finanças e Tributação aprovou em 4/11 requerimento de audiência pública sobre o PLP 16/2025, que mantém IBS e CBS fora da base de ICMS, ISS e IPI na transição; o projeto ainda aguarda parecer do relator e passa pela CCJ.",
+      "fonte": "APET",
+      "orgao": "Associação Paulista de Estudos Tributários",
+      "tipo": "entidade",
+      "temas": [
+        "Legislação",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://apet.org.br/?p=144128"
     },
     {
       "id": "fenacon-2026-11-08-exportacao-servicos",
