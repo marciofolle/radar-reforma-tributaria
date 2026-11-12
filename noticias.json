@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T11:55:00-03:00",
+  "atualizado_em": "2026-11-12T13:10:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -137,6 +137,12 @@
       "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
     },
     {
+      "data": "2027-03-01",
+      "titulo": "NF-e: regra NB01-30 da NT 2026.008 em produção",
+      "detalhe": "Composição de valores (vProdLiq, vItem, vNFTot); homologação em 1º/02/2027",
+      "url": "https://www.contabeis.com.br/noticias/80815/nf-e-e-nfc-e-veja-o-que-muda-em-16-de-novembro"
+    },
+    {
       "data": "2027-06-30",
       "titulo": "EFD-Contribuições: estoque de abertura (F150) de créditos da CBS",
       "detalhe": "Transmissão do levantamento de 31/12/2026; créditos liberados em 12 parcelas mensais",
@@ -144,6 +150,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-12-nfe-nfce-pacotes-16-novembro",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T13:10:00-03:00",
+      "titulo": "NF-e e NFC-e: o que entra em produção em 16 de novembro, nota técnica por nota técnica",
+      "resumo": "Cinco NTs aprovadas pelo Ato Técnico Conjunto nº 10 (28/10) entram em produção em 16/11: devoluções (2025.002 v1.53), Simples (2026.005), split payment sem preenchimento em 2026 (2026.006) e emissão sem IE (2026.007); a regra NB01-30 da NT 2026.008 fica para 1º/03/2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Simples Nacional",
+        "Split payment"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80815/nf-e-e-nfc-e-veja-o-que-muda-em-16-de-novembro"
+    },
     {
       "id": "cnn-2026-11-12-governo-setor-privado-calendario",
       "data": "2026-11-12",
