@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T11:05:00-03:00",
+  "atualizado_em": "2026-11-12T11:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -71,6 +71,12 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5"
     },
     {
+      "data": "2026-11-17",
+      "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
+      "detalhe": "Ministro Dario Durigan na terça (17); audiências em 17 e 18/11, relator Eduardo Braga",
+      "url": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/"
+    },
+    {
       "data": "2026-11-30",
       "titulo": "Cooperativas — opção pelo regime específico (em discussão)",
       "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11",
@@ -138,6 +144,49 @@
     }
   ],
   "itens": [
+    {
+      "id": "cnn-2026-11-12-governo-setor-privado-calendario",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T11:55:00-03:00",
+      "titulo": "Governo e empresas disputam o calendário da reforma; CAE ouve Durigan sobre a CBS na terça (17)",
+      "resumo": "Enquanto 74 entidades pedem estender os testes até o fim de 2027, a Receita defende começar a CBS em janeiro e prepara projeto que permite adiar por um mês o recolhimento definitivo. O Senado precisa fixar a alíquota até 15/12.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/reforma-tributaria-governo-e-setor-privado-disputam-calendario-entenda/"
+    },
+    {
+      "id": "infomoney-2026-11-12-relator-cbs-corte-gastos",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T11:55:00-03:00",
+      "titulo": "Aguinaldo Ribeiro: se o Senado baixar a CBS, o governo terá de cortar gastos",
+      "resumo": "Relator da reforma na Câmara diz que reduzir os 11,3% calculados pelo TCU exigiria compensação fiscal; a Fazenda estima alíquota efetiva média de 8,5% e a CNI propõe 10,3%. A CAE faz audiências em 17 e 18/11.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/"
+    },
+    {
+      "id": "contabeis-2026-11-12-modulo-ajustes-apuracao-assistida",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T11:55:00-03:00",
+      "titulo": "Apuração assistida: leiaute do módulo de ajustes sai em novembro e protótipo em dezembro",
+      "resumo": "Receita confirmou o cronograma do módulo digital para corrigir divergências na apuração assistida da CBS; CFC e Fenacon pediram que ele trate documentos não capturados e erros de emissores. Abertura do piloto não garante ajustes desde o início.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80800/apuracao-assistida-receita-preve-leiaute-do-modulo-de-ajustes-em-novembro"
+    },
     {
       "id": "contabeis-2026-11-12-piloto-apuracao-assistida-todos",
       "data": "2026-11-12",
