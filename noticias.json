@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T12:04:52-03:00",
+  "atualizado_em": "2026-11-13T13:08:34-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -190,6 +190,21 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-13/empresa-do-df-obtem-exclusao-de-ibs-e-cbs-da-base-de-calculo-do-icms/"
+    },
+    {
+      "id": "contabeis-2026-11-13-sala-de-situacao-primeira-reuniao",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T13:08:34-03:00",
+      "titulo": "Sala de situação da reforma, com CFC, Receita, Fenacon e Sebrae, faz a primeira reunião",
+      "resumo": "Grupo se reuniu pela primeira vez em 12/11, em Brasília, para recolher dúvidas e demandas dos contadores. Os encontros serão semanais, alternando entre CFC e Receita, com prioridade para o Simples Nacional e a transição de PIS/Cofins para a CBS.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "Simples Nacional",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/"
     },
     {
       "id": "agenciasenado-2026-11-12-plp-299-ajuste-fiscal-aprovado",
