@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T14:54:00-03:00",
+  "atualizado_em": "2026-11-13T16:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -42,21 +42,9 @@
     },
     {
       "data": "2026-11-16",
-      "titulo": "CT-e: campos do Simples Nacional em produção",
-      "detalhe": "NT 2026.005 — tpRegimeIBSCBS e grupo gTribSN",
-      "url": "https://inventti.com.br/?p=25281"
-    },
-    {
-      "data": "2026-11-16",
-      "titulo": "NF-e: NT 2026.008 v1.01 em produção",
-      "detalhe": "IBS, CBS e IS fora do vProd; novos campos e regras de validação",
-      "url": "https://www.contabeis.com.br/noticias/80671/nf-e-ibs-e-cbs-ficam-fora-do-campo-vprod/"
-    },
-    {
-      "data": "2026-11-16",
-      "titulo": "NF-e: NT 2025.002 v1.52 em produção",
-      "detalhe": "Rejeições de IBS/CBS da versão 1.52 passam a valer em produção, segundo o Portal da NF-e",
-      "url": "https://www.contabeis.com.br/noticias/80561/nf-e-e-ibs-cbs-como-conferir-se-uma-rejeicao-ja-vale/"
+      "titulo": "NF-e: NT 2025.002 (v1.50–1.53) e NT 2026.007 v1.11 em produção",
+      "detalhe": "Combustíveis monofásicos, documentos referenciados/devolução e emissão sem IE por contribuinte exclusivo de IBS/CBS; rejeição 1115 não será ativada",
+      "url": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/"
     },
     {
       "data": "2026-11-16",
@@ -96,9 +84,15 @@
     },
     {
       "data": "2026-12-14",
-      "titulo": "CT-e: regras de validação da NT 2026.005 em produção",
-      "detalhe": "Rejeições novas para emitentes do Simples; Setcesp: NT 2026.004 v1.01 do CT-e prorrogada de 16/11 para 14/12",
-      "url": "https://inventti.com.br/?p=25281"
+      "titulo": "CT-e: NT 2026.004 v1.01 e NT 2026.005 em produção",
+      "detalhe": "Schemas e regras do Simples (gTribSN), valor líquido da prestação, contingência offline e evento de crédito presumido — saíram de 16/11",
+      "url": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/"
+    },
+    {
+      "data": "2026-12-14",
+      "titulo": "NF-e/NFC-e: NTs 2026.005, 2026.006 e 2026.008 em produção",
+      "detalhe": "Campos do Simples, vínculo com a transação de pagamento e valor líquido (IBS/CBS/IS fora do vProd) — adiadas de 16/11",
+      "url": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/"
     },
     {
       "data": "2026-12-15",
@@ -110,7 +104,7 @@
       "data": "2026-12-15",
       "titulo": "DeRE — 2ª fase (eventos mensais de instituições financeiras)",
       "detalhe": "Adiada de 15/11 para 15/12; demais eventos passam de 1º/1 para 15/02/2027",
-      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
     },
     {
       "data": "2026-12-20",
@@ -128,7 +122,7 @@
       "data": "2027-01-01",
       "titulo": "NFS-e com IBS/CBS: locação, condomínios, bens imateriais, gás e água",
       "detalhe": "Adiada de 1º/12/2026 pela Receita e CGIBS (coletiva de 10/11)",
-      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
     },
     {
       "data": "2027-02-02",
@@ -140,13 +134,13 @@
       "data": "2027-02-15",
       "titulo": "DeRE — eventos mensais (demais etapas)",
       "detalhe": "Antes previstos para 1º/1/2027",
-      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
     },
     {
       "data": "2027-03-01",
       "titulo": "BP-e, NF-e ABI, NFS-e de plataformas e transporte coletivo, DF-e do Simples",
       "detalhe": "BP-e TM e aéreo, NF-e de alienação de imóveis, NFS-e de plataformas digitais/software/processamento de dados e de transporte coletivo municipal; DF-e do Simples na venda de mercadorias (antes 1º/1/2027)",
-      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-e-comite-gestor-dao-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs-leia-cronograma/"
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
     },
     {
       "data": "2027-03-01",
@@ -162,6 +156,80 @@
     }
   ],
   "itens": [
+    {
+      "id": "cgibs-2026-11-13-ato-conjunto-rfb-cgibs-7",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:05:00-03:00",
+      "titulo": "Ato Conjunto RFB/CGIBS nº 7, de 11 de novembro de 2026 — altera o Ato Conjunto nº 4 (datas de obrigatoriedade dos documentos fiscais eletrônicos)",
+      "resumo": "Publicado em 13/11, formaliza o novo calendário: NFS-e de plataformas digitais, TI e processamento de dados, BP-e semiurbano/aéreo e NF-e ABI passam a 1º/3/2027; locação, condomínios, NFGas e NFAg a 1º/1/2027; DeRE mensal em 15/12/2026 e 15/2/2027. Simples: 1º/1 ou 1º/3/2027.",
+      "fonte": "Comitê Gestor do IBS",
+      "orgao": "RFB / CGIBS",
+      "tipo": "oficial",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/13061456-ato-conjunto-7-rfb-cgibs-alteracao-ato-4.pdf"
+    },
+    {
+      "id": "contabeis-2026-11-13-nfe-cte-calendario-16-11-14-12",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:05:00-03:00",
+      "titulo": "Aviso da SVRS tira cinco notas técnicas de NF-e e CT-e do pacote de 16/11 e as leva para 14/12",
+      "resumo": "Seguem para 16/11 só a NT 2025.002 (v1.50 a 1.53) e a NT 2026.007 v1.11 da NF-e, sem ativar a rejeição 1115. NTs 2026.005, 2026.006 e 2026.008 da NF-e e 2026.004 v1.01 e 2026.005 do CT-e entram em produção em 14/12.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Transporte"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/"
+    },
+    {
+      "id": "contabeis-2026-11-13-cte-schemas-credito-presumido",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:05:00-03:00",
+      "titulo": "CT-e: schemas republicados deixam opcional no XML a declaração de pagamento do evento de crédito presumido",
+      "resumo": "O Portal do CT-e republicou em 11/11 os schemas das NTs 2026.004 v1.01 e 2026.005. O campo xDecPag ficou opcional na estrutura, mas segue obrigatório ou vedado conforme o código do crédito, sob pena das rejeições 1070/1071; produção em 14/12.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Documentos fiscais",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80860/ct-e-corrige-schemas-das-nts-2026-004-e-2026-005/"
+    },
+    {
+      "id": "contabeis-2026-11-13-cgibs-dispensa-cnpj-tac-produtor",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:05:00-03:00",
+      "titulo": "Transportador autônomo e produtor rural pessoa física poderão operar com CPF, sem CNPJ, até o fim de 2028",
+      "resumo": "Segundo anúncio do CGIBS, a dispensa vale de 1º/1/2027 a 31/12/2028; para o produtor rural, só abaixo de R$ 3,6 milhões de receita e fora do regime regular. A medida não gera crédito ao contratante nem substitui o RNTRC, e o ato conjunto ainda não saiu.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80866/cgibs-anuncia-dispensa-de-cnpj-para-produtor-rural-e-autonomo/"
+    },
+    {
+      "id": "reformatributaria-2026-11-13-regulamentos-v2-proxima-semana",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:05:00-03:00",
+      "titulo": "Versão 2.0 dos regulamentos do IBS e da CBS atrasa e deve sair em 16 ou 17/11",
+      "resumo": "O auditor Fernando Mombelli, da Receita, disse que o texto já foi aprovado pelo Comitê Gestor, pela Receita e pela PGFN e só aguarda a assinatura do presidente Lula; a previsão anterior era publicar ainda nesta semana.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/iva/versao-2-0-dos-regulamentos-de-ibs-cbs-fica-para-o-inicio-da-proxima-semana-diz-auditor-fiscal/"
+    },
     {
       "id": "grupoahora-2026-11-13-aliquota-indefinida-sescon-vt",
       "data": "2026-11-13",
