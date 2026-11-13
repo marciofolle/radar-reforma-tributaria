@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T09:18:04-03:00",
+  "atualizado_em": "2026-11-13T10:01:05-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -175,6 +175,21 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
+    },
+    {
+      "id": "conjur-2026-11-13-tjdft-liminar-ibs-cbs-base-icms",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T10:01:05-03:00",
+      "titulo": "Justiça do DF concede liminar que tira IBS e CBS da base do ICMS de empresa de alimentação",
+      "resumo": "A 6ª Vara da Fazenda Pública de Brasília suspendeu a cobrança do ICMS sobre IBS e CBS a partir de 2027, por entender que a LC 227/2026 incluiu só o Imposto Seletivo na base; é a primeira decisão favorável ao contribuinte no TJDFT, após o TJ-SP suspender liminares semelhantes.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-13/empresa-do-df-obtem-exclusao-de-ibs-e-cbs-da-base-de-calculo-do-icms/"
     },
     {
       "id": "agenciasenado-2026-11-12-plp-299-ajuste-fiscal-aprovado",
