@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T16:05:00-03:00",
+  "atualizado_em": "2026-11-13T16:54:05-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -61,8 +61,8 @@
     {
       "data": "2026-11-17",
       "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
-      "detalhe": "Ministro Dario Durigan na terça (17); audiências em 17 e 18/11, relator Eduardo Braga",
-      "url": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/"
+      "detalhe": "Durigan, Vital do Rêgo (TCU) e Barreirinhas (Receita) na terça (17), às 10h; relator Eduardo Braga",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
     },
     {
       "data": "2026-11-17",
@@ -156,6 +156,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-13-cae-ministro-da-fazenda-debate-aliquota-da-cbs",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T16:54:05-03:00",
+      "titulo": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
+      "resumo": "A CAE ouve na terça (17/11), às 10h, o ministro Dario Durigan, o presidente do TCU, Vital do Rêgo, e o secretário da Receita, Robinson Barreirinhas, sobre os 11,3% calculados para a CBS. O pedido é de Izalci Lucas, que vê alíquota conjunta com o IBS perto de 30%.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
+    },
     {
       "id": "cgibs-2026-11-13-ato-conjunto-rfb-cgibs-7",
       "data": "2026-11-13",
@@ -592,6 +607,20 @@
         "CBS"
       ],
       "url": "https://cfc.org.br/noticias/cfc-fenacon-e-receita-federal-instalam-sala-de-situacao-um-dia-apos-anuncio-de-joaquim-bezerra/"
+    },
+    {
+      "id": "metropoles-2026-11-11-cbs-sem-isencoes-cairia-para-8-5",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-13T16:54:05-03:00",
+      "titulo": "Sem regimes favorecidos, CBS cairia de 11,3% para cerca de 8,5%, diz secretário da Receita",
+      "resumo": "Robinson Barreirinhas afirmou que as exceções setoriais elevam a alíquota-padrão da CBS; sem elas, a média ficaria perto de 8,5%. A Fazenda chegou a estimar entre 8,53% e 9,05%, depois 9,21%, antes do cálculo de 11,3% validado pelo TCU.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.metropoles.com/brasil/cbs-receita-diz-que-sem-isencoes-novo-imposto-cairia-de-113-para-85"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
@@ -1121,21 +1150,6 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80726/creditos-da-cbs-o-que-distingue-uso-da-empresa-de-consumo-pessoal/"
-    },
-    {
-      "id": "receita-2026-11-10-dere-beta",
-      "data": "2026-11-10",
-      "adicionado_em": "2026-11-10T12:00:00-03:00",
-      "titulo": "Reforma Tributária: Atualização do Ambiente Beta da DeRE",
-      "resumo": "A Receita atualiza o ambiente de Produção Beta da DeRE em 11/11, às 7h, sem interrupção do serviço. Quem integra com a declaração deve atualizar o XSD do evento PGCC e preparar os artefatos antes.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Obrigações acessórias",
-        "Documentos fiscais"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
     },
     {
       "id": "fenacon-2026-11-10-presidente-jovem-pan-cbs-2027",
