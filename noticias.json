@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T09:10:00-03:00",
+  "atualizado_em": "2026-11-13T09:18:04-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -75,6 +75,12 @@
       "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
       "detalhe": "Ministro Dario Durigan na terça (17); audiências em 17 e 18/11, relator Eduardo Braga",
       "url": "https://www.infomoney.com.br/politica/reforma-tributaria-se-senado-reduzir-cbs-governo-tera-de-cortar-gastos-diz-relator/"
+    },
+    {
+      "data": "2026-11-17",
+      "titulo": "PLP 299/2026 (ajuste fiscal) — votação dos destaques no Senado",
+      "detalhe": "4 destaques, incl. restrição ao uso de créditos para compensar tributos e repasses da Lei Kandir; depois segue à Câmara",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
     },
     {
       "data": "2026-11-18",
@@ -171,6 +177,49 @@
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
     },
     {
+      "id": "agenciasenado-2026-11-12-plp-299-ajuste-fiscal-aprovado",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-13T09:18:04-03:00",
+      "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "resumo": "O Senado aprovou por 45 a 31 o substitutivo de Eduardo Braga ao PLP 299/2026, que corta benefícios fiscais (isenções, créditos e regimes especiais) e permite novas restrições à compensação de tributos. Quatro destaques, entre eles o limite ao uso de créditos, serão votados em 17/11; depois o texto vai à Câmara.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Legislação",
+        "Créditos"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+    },
+    {
+      "id": "contabeis-2026-11-12-plp-299-beneficios-compensacoes",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-13T09:18:04-03:00",
+      "titulo": "PLP 299/2026: corte de benefícios e trava nas compensações podem render até R$ 37,8 bilhões",
+      "resumo": "Pelas estimativas do governo, a redução de 10% nos gastos tributários renderia R$ 15 bi, o teto pelos valores do DGT de 2026 corrigidos pelo IPCA mais R$ 4,5 bi, e a restrição às compensações entre R$ 12,8 bi e R$ 18,3 bi em 2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80814/ajuste-fiscal-senado-pode-votar-projeto-que-reduz-beneficios-tributarios/"
+    },
+    {
+      "id": "brasilemfolhas-2026-11-12-plp-299-lucro-presumido-20",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-13T09:18:04-03:00",
+      "titulo": "PLP 299/2026 dobra para 20% o acréscimo na presunção do lucro presumido acima de R$ 5 milhões",
+      "resumo": "O texto original eleva de 10% (LC 224/2025) para 20% o acréscimo sobre os percentuais de presunção de IRPJ e CSLL na receita anual acima de R$ 5 milhões; em serviços, a presunção sobre o excedente passaria de 32% para 38,4%. O projeto também autoriza o Executivo a reduzir compensações.",
+      "fonte": "Brasil em Folhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "Créditos"
+      ],
+      "url": "https://brasilemfolhas.com.br/2026/11/plp-299-dobra-acrescimo-sobre-lucro-presumido-e-altera-compensacoes/"
+    },
+    {
       "id": "contabeis-2026-11-12-correcao-preventiva-2027",
       "data": "2026-11-12",
       "adicionado_em": "2026-11-13T06:54:38-03:00",
@@ -183,6 +232,20 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80808/reforma-tributaria-receita-preve-correcao-preventiva-em-2027/"
+    },
+    {
+      "id": "contabeis-2026-11-12-filantropicas-creditos-ibs-cbs",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T23:58:00-03:00",
+      "titulo": "Comissão do Senado aprova manutenção de créditos de IBS e CBS para entidades filantrópicas",
+      "resumo": "A CAS aprovou em 11/11 o PLP 45/2026, que altera a LC 214/2025 para que entidades filantrópicas de saúde, educação e assistência social mantenham créditos de IBS e CBS nas compras; o texto segue para a CAE com pedido de urgência.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80816/entidades-filantropicas-poderao-manter-creditos-de-ibs-e-cbs/"
     },
     {
       "id": "conjur-2026-11-12-aliquota-cbs-conta-que-sempre-existiu",
@@ -400,20 +463,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
-    },
-    {
-      "id": "contabeis-2026-11-12-filantropicas-creditos-ibs-cbs",
-      "data": "2026-11-12",
-      "adicionado_em": "2026-11-12T23:58:00-03:00",
-      "titulo": "Comissão do Senado aprova manutenção de créditos de IBS e CBS para entidades filantrópicas",
-      "resumo": "A CAS aprovou em 11/11 o PLP 45/2026, que altera a LC 214/2025 para que entidades filantrópicas de saúde, educação e assistência social mantenham créditos de IBS e CBS nas compras; o texto segue para a CAE com pedido de urgência.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80816/entidades-filantropicas-poderao-manter-creditos-de-ibs-e-cbs/"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
@@ -713,6 +762,20 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
     },
     {
+      "id": "correiobraziliense-2026-11-10-tcu-entrega-calculo-cbs-alcolumbre",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-13T04:58:00-03:00",
+      "titulo": "Vital do Rêgo leva a Alcolumbre o cálculo de 11,3% da CBS; sem votação até 15/12, vale o número do TCU",
+      "resumo": "O presidente do TCU entregou ao presidente do Senado a metodologia e a proposta de alíquota de referência de 11,3% para a CBS. Se os senadores não aprovarem resolução até 15 de dezembro, o percentual do tribunal passa a valer automaticamente em 1º de janeiro de 2027.",
+      "fonte": "Correio Braziliense",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536315-presidente-do-tcu-entrega-calculo-da-aliquota-da-cbs-a-alcolumbre.html"
+    },
+    {
       "id": "neofeed-2026-11-10-congresso-articula-mudar-aliquota-cbs-adiar-reforma",
       "data": "2026-11-10",
       "adicionado_em": "2026-11-12T20:54:00-03:00",
@@ -959,20 +1022,6 @@
         "Alíquotas"
       ],
       "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
-    },
-    {
-      "id": "correiobraziliense-2026-11-10-tcu-entrega-calculo-cbs-alcolumbre",
-      "data": "2026-11-10",
-      "adicionado_em": "2026-11-13T04:58:00-03:00",
-      "titulo": "Vital do Rêgo leva a Alcolumbre o cálculo de 11,3% da CBS; sem votação até 15/12, vale o número do TCU",
-      "resumo": "O presidente do TCU entregou ao presidente do Senado a metodologia e a proposta de alíquota de referência de 11,3% para a CBS. Se os senadores não aprovarem resolução até 15 de dezembro, o percentual do tribunal passa a valer automaticamente em 1º de janeiro de 2027.",
-      "fonte": "Correio Braziliense",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536315-presidente-do-tcu-entrega-calculo-da-aliquota-da-cbs-a-alcolumbre.html"
     },
     {
       "id": "apet-2026-11-09-plp-16-audiencia-camara",
