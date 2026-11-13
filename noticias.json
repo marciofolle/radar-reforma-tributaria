@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T16:54:05-03:00",
+  "atualizado_em": "2026-11-13T18:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-13-ato-conjunto-7-prazos-dfe",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T18:05:00-03:00",
+      "titulo": "Ato Conjunto nº 7 entra em vigor e empurra para janeiro ou março de 2027 as notas com IBS/CBS previstas para dezembro",
+      "resumo": "Publicado nesta sexta (13), o Ato Conjunto RFB/CGIBS nº 7/2026 transfere para 1º/1 ou 1º/3/2027 as emissões de documentos fiscais com IBS e CBS que valeriam em 1º/12 e adia para 15/12 a primeira entrega mensal da DeRE.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/"
+    },
     {
       "id": "senado-2026-11-13-cae-ministro-da-fazenda-debate-aliquota-da-cbs",
       "data": "2026-11-13",
