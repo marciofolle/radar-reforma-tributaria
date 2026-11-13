@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T05:54:00-03:00",
+  "atualizado_em": "2026-11-13T06:54:38-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-12-correcao-preventiva-2027",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-13T06:54:38-03:00",
+      "titulo": "Receita prevê correção preventiva de inconsistências em 2027 no programa de conformidade",
+      "resumo": "O Programa de Conformidade 2027, apresentado em 11/11, prevê orientação e correção preventiva de inconsistências em documentos fiscais para contribuintes de boa-fé. Segue valendo o prazo legal de 60 dias para autorregularização.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80808/reforma-tributaria-receita-preve-correcao-preventiva-em-2027/"
+    },
     {
       "id": "conjur-2026-11-12-aliquota-cbs-conta-que-sempre-existiu",
       "data": "2026-11-12",
@@ -668,6 +682,21 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
+    },
+    {
+      "id": "receita-2026-11-10-dere-beta-atualizacao",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-13T06:54:38-03:00",
+      "titulo": "Reforma Tributária: Atualização do Ambiente Beta da DeRE",
+      "resumo": "Receita e CGIBS atualizaram em 11/11, às 7h, o ambiente Beta de Produção da DeRE, sem interromper o serviço. Integradores devem atualizar o XSD do evento PGCC para que os eventos sejam enviados e processados corretamente.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/reforma-tributaria-atualizacao-do-ambiente-beta-da-dere"
     },
     {
       "id": "neofeed-2026-11-10-congresso-articula-mudar-aliquota-cbs-adiar-reforma",
