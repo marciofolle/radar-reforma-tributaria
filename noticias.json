@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-12T22:58:00-03:00",
+  "atualizado_em": "2026-11-12T23:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -372,6 +372,20 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "contabeis-2026-11-12-filantropicas-creditos-ibs-cbs",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-12T23:58:00-03:00",
+      "titulo": "Comissão do Senado aprova manutenção de créditos de IBS e CBS para entidades filantrópicas",
+      "resumo": "A CAS aprovou em 11/11 o PLP 45/2026, que altera a LC 214/2025 para que entidades filantrópicas de saúde, educação e assistência social mantenham créditos de IBS e CBS nas compras; o texto segue para a CAE com pedido de urgência.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80816/entidades-filantropicas-poderao-manter-creditos-de-ibs-e-cbs/"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
