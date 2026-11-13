@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T13:08:34-03:00",
+  "atualizado_em": "2026-11-13T14:12:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -205,6 +205,21 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80861/sala-de-situacao-comeca-a-discutir-desafios-da-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-13-plp-282-reducao-cbs-excesso-arrecadacao",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T14:12:00-03:00",
+      "titulo": "Projeto de Izalci quer cortar a alíquota da CBS sempre que a arrecadação passar do teto",
+      "resumo": "O PLP 282/2026, do senador Izalci Lucas (PL-DF), altera a LC 214/2025 para antecipar a verificação de excesso de arrecadação da CBS e prever revisões anuais da alíquota de referência entre 2029 e 2033, com redução dois anos após o excesso apurado.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80847/projeto-preve-reducao-da-aliquota-da-cbs-se-arrecadacao-superar-limite/"
     },
     {
       "id": "agenciasenado-2026-11-12-plp-299-ajuste-fiscal-aprovado",
