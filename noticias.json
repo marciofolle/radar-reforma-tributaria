@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T10:01:05-03:00",
+  "atualizado_em": "2026-11-13T12:04:52-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -478,6 +478,22 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "cfc-2026-11-12-sala-de-situacao-reforma",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-13T12:04:52-03:00",
+      "titulo": "CFC, Fenacon e Receita Federal instalam sala de situação um dia após anúncio de Joaquim Bezerra",
+      "resumo": "Primeira reunião ocorreu em 12/11 na sede do CFC, com o subsecretário de Arrecadação Gustavo Manrique. Encontros serão semanais, alternando CFC e Receita, com prioridade para Simples Nacional e transição de PIS/Cofins para a CBS; Sebrae também integra a iniciativa.",
+      "fonte": "CFC",
+      "orgao": "Conselho Federal de Contabilidade",
+      "tipo": "entidade",
+      "temas": [
+        "Obrigações acessórias",
+        "Simples Nacional",
+        "CBS"
+      ],
+      "url": "https://cfc.org.br/noticias/cfc-fenacon-e-receita-federal-instalam-sala-de-situacao-um-dia-apos-anuncio-de-joaquim-bezerra/"
     },
     {
       "id": "cfc-2026-11-11-nove-propostas-receita",
