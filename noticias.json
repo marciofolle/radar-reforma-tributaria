@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T03:54:00-03:00",
+  "atualizado_em": "2026-11-13T04:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -916,6 +916,20 @@
         "Alíquotas"
       ],
       "url": "https://fenacon.org.br/noticias/presidente-da-fenacon-concede-entrevista-a-jovem-pan-news-sobre-o-inicio-da-cbs-em-2027/"
+    },
+    {
+      "id": "correiobraziliense-2026-11-10-tcu-entrega-calculo-cbs-alcolumbre",
+      "data": "2026-11-10",
+      "adicionado_em": "2026-11-13T04:58:00-03:00",
+      "titulo": "Vital do Rêgo leva a Alcolumbre o cálculo de 11,3% da CBS; sem votação até 15/12, vale o número do TCU",
+      "resumo": "O presidente do TCU entregou ao presidente do Senado a metodologia e a proposta de alíquota de referência de 11,3% para a CBS. Se os senadores não aprovarem resolução até 15 de dezembro, o percentual do tribunal passa a valer automaticamente em 1º de janeiro de 2027.",
+      "fonte": "Correio Braziliense",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.correiobraziliense.com.br/economia/2026/11/7536315-presidente-do-tcu-entrega-calculo-da-aliquota-da-cbs-a-alcolumbre.html"
     },
     {
       "id": "apet-2026-11-09-plp-16-audiencia-camara",
