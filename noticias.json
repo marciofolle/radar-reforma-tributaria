@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T18:54:00-03:00",
+  "atualizado_em": "2026-11-13T19:54:01-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -667,6 +667,20 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "brasil61-2026-11-11-frentes-parlamentares-32-pontos",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-13T19:54:01-03:00",
+      "titulo": "Frentes parlamentares do setor produtivo levam à Receita 32 ajustes na regulamentação da reforma",
+      "resumo": "Lideradas pela FPA, cinco frentes entregaram a Barreirinhas pedidos de mudança no Decreto 12.955/2026, na Resolução CGIBS 6/2026 e em atos pendentes, como dispensar nota fiscal e CNPJ para produtor rural com receita de até R$ 3,6 milhões.",
+      "fonte": "Brasil 61",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "Setores"
+      ],
+      "url": "https://brasil61.com/n/frentes-parlamentares-levam-32-pontos-de-ajustes-da-reforma-tributaria-a-receita-cacb260283"
     },
     {
       "id": "metropoles-2026-11-11-cbs-sem-isencoes-cairia-para-8-5",
