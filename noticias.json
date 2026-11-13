@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T06:54:38-03:00",
+  "atualizado_em": "2026-11-13T08:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "grupoahora-2026-11-13-aliquota-indefinida-sescon-vt",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T08:05:00-03:00",
+      "titulo": "No Vale do Taquari, contadores dizem que CBS sem alíquota definida trava a precificação de 2027",
+      "resumo": "Em evento do Sescon Vale do Taquari em Lajeado (RS), com cerca de 170 participantes, a presidente do CRC-RS e o presidente do Sescon-VT relataram que os escritórios precisam fechar preços para janeiro sem saber se o Senado manterá os 11,3% do TCU; créditos e sistemas também seguem indefinidos.",
+      "fonte": "Grupo A Hora",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
+    },
     {
       "id": "contabeis-2026-11-12-correcao-preventiva-2027",
       "data": "2026-11-12",
