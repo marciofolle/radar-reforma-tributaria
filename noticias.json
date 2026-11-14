@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T03:54:12-03:00",
+  "atualizado_em": "2026-11-14T04:55:55-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -411,6 +411,22 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
+    },
+    {
+      "id": "cgibs-2026-11-12-ajustes-regulamento-ibs-prorroga-dere",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-14T04:55:55-03:00",
+      "titulo": "CGIBS aprova ajustes ao Regulamento do Imposto Sobre Bens e Serviços e prorroga a DeRE em Reunião Ordinária",
+      "resumo": "Na 4ª reunião ordinária, em Joinville (SC), o Conselho Superior aprovou ajustes em três artigos do setor financeiro na versão 2 do regulamento do IBS e adiou a 2ª fase da DeRE para 15/12/2026. Produtor rural e transportador autônomo fora do regime regular ficam dispensados de CNPJ em 2027–2028, identificados pelo CPF.",
+      "fonte": "Comitê Gestor do IBS",
+      "orgao": "CGIBS",
+      "tipo": "oficial",
+      "temas": [
+        "IBS",
+        "Obrigações acessórias",
+        "Transporte"
+      ],
+      "url": "https://cgibs.gov.br/cgibs-aprova-ajustes-ao-regulamento-do-ibs-e-prorroga-a-dere-em-reuniao-em-joinville"
     },
     {
       "id": "cfc-2026-11-12-sala-de-situacao-reforma",
