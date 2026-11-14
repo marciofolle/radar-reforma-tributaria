@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T04:55:55-03:00",
+  "atualizado_em": "2026-11-14T05:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -1055,6 +1055,21 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
+    },
+    {
+      "id": "valor-2026-11-11-pendencias-reforma-preocupam-empresas",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-14T05:58:00-03:00",
+      "titulo": "A dois meses da CBS, metade das 22 pendências da regulamentação segue sem solução, e CNI pede mais prazo",
+      "resumo": "Levantamento do Martinelli Advogados aponta que nenhum dos 22 temas pendentes desde junho foi concluído. A CNI enviou cartas à Fazenda e ao MDIC, o setor financeiro pede mais prazo para a DeRE, e a Fazenda promete fechar as pendências até o início de 2027.",
+      "fonte": "Valor Econômico",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação",
+        "Obrigações acessórias"
+      ],
+      "url": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml"
     },
     {
       "id": "receita-2026-11-10-dere-beta-atualizacao",
