@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T13:05:00-03:00",
+  "atualizado_em": "2026-11-14T13:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -171,6 +171,21 @@
         "Simples Nacional"
       ],
       "url": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-14-credito-icms-imobilizado-homologacao-ibs",
+      "data": "2026-11-14",
+      "adicionado_em": "2026-11-14T13:55:00-03:00",
+      "titulo": "Crédito de ICMS do ativo imobilizado: pedido de homologação para compensar com IBS deve sair no mesmo mês do uso",
+      "resumo": "Pela LC 227/2026 (art. 134), bens que entrarem a partir de 2029 exigem pedido de homologação no período em que o crédito começa a ser apropriado (1/48 ao mês). O estado tem 60 dias para responder; o silêncio vale como homologação tácita, e a compensação com IBS começa após comunicação ao Comitê Gestor.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "IBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/"
     },
     {
       "id": "reformatributaria-2026-11-13-fisco-adia-nts-valor-liquido-simples",
@@ -439,6 +454,21 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
+    },
+    {
+      "id": "cfc-2026-11-13-plp-299-carga-tributaria-compensacao",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T13:55:00-03:00",
+      "titulo": "CFC e Conselhos Regionais se posicionam contra aumento da carga tributária e restrições à compensação de tributos",
+      "resumo": "CFC e os 27 CRCs enviaram carta a Davi Alcolumbre pedindo a retirada do art. 6-F do PLP 299/2026, que permite ao Executivo restringir compensações com créditos de tributos federais, e do art. 4º, que dobra para 20% o acréscimo na presunção do lucro presumido acima de R$ 5 milhões. Destaques serão votados em 17/11.",
+      "fonte": "CFC",
+      "orgao": "Conselho Federal de Contabilidade",
+      "tipo": "entidade",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://cfc.org.br/noticias/cfc-e-conselhos-regionais-se-posicionam-contra-aumento-da-carga-tributaria-e-restricoes-a-compensacao-de-tributos/"
     },
     {
       "id": "cgibs-2026-11-12-ajustes-regulamento-ibs-prorroga-dere",
