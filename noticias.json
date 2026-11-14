@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T23:54:14-03:00",
+  "atualizado_em": "2026-11-14T00:53:34-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -28,18 +28,6 @@
     }
   ],
   "prazos": [
-    {
-      "data": "2026-11-10",
-      "titulo": "TCU entrega ao Senado o acórdão da alíquota da CBS",
-      "detalhe": "Acórdão entregue a Davi Alcolumbre em 10/11; TCU e CAE formarão assessoramento técnico ao Senado",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs"
-    },
-    {
-      "data": "2026-11-10",
-      "titulo": "MP 1.399/2026 — fim do prazo de emendas",
-      "detalhe": "Emendas à MP do Imposto Seletivo até 10/11; deliberação até 12/02/2027",
-      "url": "https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/176208"
-    },
     {
       "data": "2026-11-16",
       "titulo": "NF-e: NT 2025.002 (v1.50–1.53) e NT 2026.007 v1.11 em produção",
