@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-13T21:53:31-03:00",
+  "atualizado_em": "2026-11-13T22:53:52-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-13-deposito-judicial-ibs-cbs-base-icms",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T22:53:52-03:00",
+      "titulo": "Com liminares suspensas pelo TJ-SP, depósito judicial vira saída para manter disputa sobre IBS e CBS na base do ICMS",
+      "resumo": "Após a Presidência do TJ-SP suspender, em 9/11, decisões favoráveis, empresas podem depositar em juízo o valor controverso em vez de recolhê-lo ao estado. Especialistas lembram que o depósito também pesa no caixa: numa venda de R$ 100 mil, a inclusão eleva o ICMS em R$ 1.975,61.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80828/ibs-e-cbs-na-base-do-icms-deposito-judicial/"
+    },
+    {
+      "id": "contabeis-2026-11-13-apis-cbs-nova-credencial",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-13T22:53:52-03:00",
+      "titulo": "APIs da CBS 2.0 exigem cancelar a credencial antiga e gerar uma nova para consultar débitos e créditos",
+      "resumo": "Quem já usava as APIs da CBS precisa gerar nova credencial nos ambientes de Produção Restrita e Beta. A API de débitos traz origem, documento e situação; a de créditos mostra parcelas apropriadas, a apropriar e utilizadas. Pagamento, DARF, RAD e PCONT estão previstos para novembro.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80864/apis-da-cbs-exigem-nova-credencial-para-consulta-de-debitos-e-creditos/"
+    },
     {
       "id": "portaldareforma-2026-11-13-stj-observatorio-reforma",
       "data": "2026-11-13",
