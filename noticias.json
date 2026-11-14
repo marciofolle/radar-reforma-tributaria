@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T19:58:00-03:00",
+  "atualizado_em": "2026-11-14T20:54:15-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -789,6 +789,22 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
+    },
+    {
+      "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-14T20:54:15-03:00",
+      "titulo": "Senado aprova texto-base de ajuste fiscal; CNT atuou para preservar condições do transporte",
+      "resumo": "A CNT diz que o PLP 299/2026 manteve o limite só para compensação com créditos de outros tributos e afastou cortes por ato do Executivo; a desoneração da folha foi preservada, mas o acréscimo de 20% na presunção do lucro presumido eleva IRPJ/CSLL das transportadoras.",
+      "fonte": "CNT",
+      "orgao": "Confederação Nacional do Transporte",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://cnt.org.br/agencia-cnt/senado-aprova-texto-base-de-ajuste-fiscal-cnt-atuou-para-preservar-condies-do-transporte"
     },
     {
       "id": "congressoemfoco-2026-11-11-cae-ouvira-durigan-vital-cbs",
