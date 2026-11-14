@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T11:54:00-03:00",
+  "atualizado_em": "2026-11-14T13:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,34 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-14-minuta-pec-adiar-cbs-2028",
+      "data": "2026-11-14",
+      "adicionado_em": "2026-11-14T13:05:00-03:00",
+      "titulo": "Auditor do Comitê Gestor redige minuta de PEC que empurraria a cobrança da CBS para 2028",
+      "resumo": "Texto de Antônio Alcoforado, ainda não protocolado, manteria a CBS em 0,9% compensável em 2027 e adiaria a extinção do PIS/Cofins para 2028, preservando o IBS. Precisaria de 171 assinaturas; a posição oficial segue com início em 1º/01/2027.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/iva/membro-do-comite-gestor-do-ibs-escreve-pec-para-adiar-reforma-texto-nao-esta-protocolado-e-depende-do-congresso/"
+    },
+    {
+      "id": "contabeis-2026-11-14-nfse-adesao-municipal-ibs-cbs",
+      "data": "2026-11-14",
+      "adicionado_em": "2026-11-14T13:05:00-03:00",
+      "titulo": "NFS-e: integração do município ao padrão nacional não define quando a nota precisa trazer IBS e CBS",
+      "resumo": "Optantes do Simples usam o Emissor Nacional desde as competências de novembro (Res. CGSN 191/2026), mesmo onde há sistema municipal. A falta do grupo IBS/CBS não gera rejeição no ADN, mas pode deixar a nota fora do cronograma exigido.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Simples Nacional"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/"
+    },
     {
       "id": "reformatributaria-2026-11-13-fisco-adia-nts-valor-liquido-simples",
       "data": "2026-11-13",
