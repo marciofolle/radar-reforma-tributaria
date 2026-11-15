@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-15T10:58:00-03:00",
+  "atualizado_em": "2026-11-15T11:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -186,6 +186,21 @@
         "Simples Nacional"
       ],
       "url": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/"
+    },
+    {
+      "id": "conjur-2026-11-13-propostas-receita-pontos-criticos",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-15T08:57:00-03:00",
+      "titulo": "Tributaristas dizem que fim das multas de boa-fé não resolve split payment nem créditos da CBS",
+      "resumo": "Especialistas ouvidos pela ConJur avaliam que as medidas da Receita para 2027 — sem multa para erros de boa-fé e projeto para flexibilizar o recolhimento da CBS — atacam o medo de autuação, mas deixam abertos split payment, ressarcimento de créditos e normas infralegais pendentes.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Split payment",
+        "Créditos"
+      ],
+      "url": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/"
     },
     {
       "id": "fenacon-2026-11-13-cnc-reforca-pedido-ajustes-cronograma",
@@ -514,21 +529,6 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
-    },
-    {
-      "id": "conjur-2026-11-13-propostas-receita-pontos-criticos",
-      "data": "2026-11-13",
-      "adicionado_em": "2026-11-15T08:57:00-03:00",
-      "titulo": "Tributaristas dizem que fim das multas de boa-fé não resolve split payment nem créditos da CBS",
-      "resumo": "Especialistas ouvidos pela ConJur avaliam que as medidas da Receita para 2027 — sem multa para erros de boa-fé e projeto para flexibilizar o recolhimento da CBS — atacam o medo de autuação, mas deixam abertos split payment, ressarcimento de créditos e normas infralegais pendentes.",
-      "fonte": "ConJur",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Split payment",
-        "Créditos"
-      ],
-      "url": "https://conjur.com.br/2026-nov-13/propostas-da-receita-nao-resolvem-desafios-estruturais-da-tributaria-dizem-especialistas/"
     },
     {
       "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
