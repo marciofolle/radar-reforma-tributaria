@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-15T06:53:49-03:00",
+  "atualizado_em": "2026-11-15T07:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -145,6 +145,21 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-14-credito-icms-imobilizado-homologacao-ibs",
+      "data": "2026-11-14",
+      "adicionado_em": "2026-11-14T13:55:00-03:00",
+      "titulo": "Crédito de ICMS do ativo imobilizado: pedido de homologação para compensar com IBS deve sair no mesmo mês do uso",
+      "resumo": "Pela LC 227/2026 (art. 134), bens que entrarem a partir de 2029 exigem pedido de homologação no período em que o crédito começa a ser apropriado (1/48 ao mês). O estado tem 60 dias para responder; o silêncio vale como homologação tácita, e a compensação com IBS começa após comunicação ao Comitê Gestor.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "IBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/"
+    },
+    {
       "id": "reformatributaria-2026-11-14-minuta-pec-adiar-cbs-2028",
       "data": "2026-11-14",
       "adicionado_em": "2026-11-14T13:05:00-03:00",
@@ -173,19 +188,64 @@
       "url": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/"
     },
     {
-      "id": "contabeis-2026-11-14-credito-icms-imobilizado-homologacao-ibs",
-      "data": "2026-11-14",
-      "adicionado_em": "2026-11-14T13:55:00-03:00",
-      "titulo": "Crédito de ICMS do ativo imobilizado: pedido de homologação para compensar com IBS deve sair no mesmo mês do uso",
-      "resumo": "Pela LC 227/2026 (art. 134), bens que entrarem a partir de 2029 exigem pedido de homologação no período em que o crédito começa a ser apropriado (1/48 ao mês). O estado tem 60 dias para responder; o silêncio vale como homologação tácita, e a compensação com IBS começa após comunicação ao Comitê Gestor.",
+      "id": "fenacon-2026-11-13-cnc-reforca-pedido-ajustes-cronograma",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-15T07:58:00-03:00",
+      "titulo": "Reforma tributária: CNC reforça pedido por ajustes no cronograma de implementação",
+      "resumo": "Em nota republicada pela Fenacon, a CNC diz ser prematuro descartar ajustes no calendário: cita normas ainda pendentes a pouco mais de um mês de 2027, pede testes sem multas e critica o recolhimento pelo adquirente (RAD) baseado em estimativas e o módulo de ajuste previsto para dezembro.",
+      "fonte": "Fenacon",
+      "orgao": "CNC / Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/reforma-tributaria-cnc-reforca-pedido-por-ajustes-no-cronograma-de-implementacao/"
+    },
+    {
+      "id": "reformatributaria-2026-11-13-fisco-oficializa-novos-prazos-dfe-cbs",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T21:54:19-03:00",
+      "titulo": "Ato Conjunto nº 7 formaliza novo calendário de exigência dos DF-e com campos de IBS e CBS",
+      "resumo": "Receita e Comitê Gestor publicaram o Ato Conjunto nº 7/2026 com os novos prazos para exigir documentos fiscais eletrônicos com IBS e CBS, alegando mais segurança jurídica; o texto do ato remete as datas a um cronograma divulgado em imagem.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/fisco-oficializa-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-13-imoveis-holding-redutor-ajuste-2027",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T21:54:19-03:00",
+      "titulo": "Imóvel integralizado na holding até 31/12/2026 garante redutor de ajuste maior no IBS/CBS",
+      "resumo": "O redutor de ajuste varia conforme a data de entrada do imóvel na holding: no exemplo, bem integralizado por R$ 500 mil e vendido por R$ 1,2 milhão teria base de R$ 200 mil se já estivesse na empresa em 2026, contra R$ 700 mil a partir de 2027.",
       "fonte": "Contábeis",
       "tipo": "imprensa",
       "temas": [
-        "Créditos",
+        "Setores",
         "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/"
+    },
+    {
+      "id": "cfc-2026-11-13-plp-299-carga-tributaria-compensacao",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T13:55:00-03:00",
+      "titulo": "CFC e Conselhos Regionais se posicionam contra aumento da carga tributária e restrições à compensação de tributos",
+      "resumo": "CFC e os 27 CRCs enviaram carta a Davi Alcolumbre pedindo a retirada do art. 6-F do PLP 299/2026, que permite ao Executivo restringir compensações com créditos de tributos federais, e do art. 4º, que dobra para 20% o acréscimo na presunção do lucro presumido acima de R$ 5 milhões. Destaques serão votados em 17/11.",
+      "fonte": "CFC",
+      "orgao": "Conselho Federal de Contabilidade",
+      "tipo": "entidade",
+      "temas": [
+        "Créditos",
         "Legislação"
       ],
-      "url": "https://www.contabeis.com.br/noticias/80841/credito-de-icms-do-imobilizado-prazo-de-homologacao/"
+      "url": "https://cfc.org.br/noticias/cfc-e-conselhos-regionais-se-posicionam-contra-aumento-da-carga-tributaria-e-restricoes-a-compensacao-de-tributos/"
     },
     {
       "id": "reformatributaria-2026-11-13-fisco-adia-nts-valor-liquido-simples",
@@ -456,48 +516,20 @@
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
     },
     {
-      "id": "cfc-2026-11-13-plp-299-carga-tributaria-compensacao",
-      "data": "2026-11-13",
-      "adicionado_em": "2026-11-14T13:55:00-03:00",
-      "titulo": "CFC e Conselhos Regionais se posicionam contra aumento da carga tributária e restrições à compensação de tributos",
-      "resumo": "CFC e os 27 CRCs enviaram carta a Davi Alcolumbre pedindo a retirada do art. 6-F do PLP 299/2026, que permite ao Executivo restringir compensações com créditos de tributos federais, e do art. 4º, que dobra para 20% o acréscimo na presunção do lucro presumido acima de R$ 5 milhões. Destaques serão votados em 17/11.",
-      "fonte": "CFC",
-      "orgao": "Conselho Federal de Contabilidade",
+      "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
+      "data": "2026-11-12",
+      "adicionado_em": "2026-11-14T20:54:15-03:00",
+      "titulo": "Senado aprova texto-base de ajuste fiscal; CNT atuou para preservar condições do transporte",
+      "resumo": "A CNT diz que o PLP 299/2026 manteve o limite só para compensação com créditos de outros tributos e afastou cortes por ato do Executivo; a desoneração da folha foi preservada, mas o acréscimo de 20% na presunção do lucro presumido eleva IRPJ/CSLL das transportadoras.",
+      "fonte": "CNT",
+      "orgao": "Confederação Nacional do Transporte",
       "tipo": "entidade",
       "temas": [
+        "Transporte",
         "Créditos",
         "Legislação"
       ],
-      "url": "https://cfc.org.br/noticias/cfc-e-conselhos-regionais-se-posicionam-contra-aumento-da-carga-tributaria-e-restricoes-a-compensacao-de-tributos/"
-    },
-    {
-      "id": "reformatributaria-2026-11-13-fisco-oficializa-novos-prazos-dfe-cbs",
-      "data": "2026-11-13",
-      "adicionado_em": "2026-11-14T21:54:19-03:00",
-      "titulo": "Ato Conjunto nº 7 formaliza novo calendário de exigência dos DF-e com campos de IBS e CBS",
-      "resumo": "Receita e Comitê Gestor publicaram o Ato Conjunto nº 7/2026 com os novos prazos para exigir documentos fiscais eletrônicos com IBS e CBS, alegando mais segurança jurídica; o texto do ato remete as datas a um cronograma divulgado em imagem.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Documentos fiscais",
-        "Obrigações acessórias"
-      ],
-      "url": "https://www.reformatributaria.com/documentos-fiscais/fisco-oficializa-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs/"
-    },
-    {
-      "id": "contabeis-2026-11-13-imoveis-holding-redutor-ajuste-2027",
-      "data": "2026-11-13",
-      "adicionado_em": "2026-11-14T21:54:19-03:00",
-      "titulo": "Imóvel integralizado na holding até 31/12/2026 garante redutor de ajuste maior no IBS/CBS",
-      "resumo": "O redutor de ajuste varia conforme a data de entrada do imóvel na holding: no exemplo, bem integralizado por R$ 500 mil e vendido por R$ 1,2 milhão teria base de R$ 200 mil se já estivesse na empresa em 2026, contra R$ 700 mil a partir de 2027.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Setores",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/"
+      "url": "https://cnt.org.br/agencia-cnt/senado-aprova-texto-base-de-ajuste-fiscal-cnt-atuou-para-preservar-condies-do-transporte"
     },
     {
       "id": "cgibs-2026-11-12-ajustes-regulamento-ibs-prorroga-dere",
@@ -820,20 +852,34 @@
       "url": "https://www.infomoney.com.br/minhas-financas/reforma-tributaria-alivio-nas-multas-nao-afasta-risco-de-perda-de-creditos/"
     },
     {
-      "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
-      "data": "2026-11-12",
-      "adicionado_em": "2026-11-14T20:54:15-03:00",
-      "titulo": "Senado aprova texto-base de ajuste fiscal; CNT atuou para preservar condições do transporte",
-      "resumo": "A CNT diz que o PLP 299/2026 manteve o limite só para compensação com créditos de outros tributos e afastou cortes por ato do Executivo; a desoneração da folha foi preservada, mas o acréscimo de 20% na presunção do lucro presumido eleva IRPJ/CSLL das transportadoras.",
-      "fonte": "CNT",
-      "orgao": "Confederação Nacional do Transporte",
-      "tipo": "entidade",
+      "id": "sbtnews-2026-11-11-receita-maioria-nao-pagara-11-3",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-14T22:55:18-03:00",
+      "titulo": "Barreirinhas afirma que boa parte da economia ficará abaixo da CBS de 11,3%",
+      "resumo": "Ao SBT News, o secretário da Receita disse que os 11,3% são só a referência: construção terá redução de 50%, saúde e educação de 60%, profissionais liberais de 30% e a cesta básica fica com alíquota zero. Somada ao IBS projetado de 18,7%, a carga nominal chegaria a cerca de 30%.",
+      "fonte": "SBT News",
+      "tipo": "imprensa",
       "temas": [
-        "Transporte",
-        "Créditos",
-        "Legislação"
+        "CBS",
+        "Alíquotas",
+        "Setores"
       ],
-      "url": "https://cnt.org.br/agencia-cnt/senado-aprova-texto-base-de-ajuste-fiscal-cnt-atuou-para-preservar-condies-do-transporte"
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/receita-boa-parte-nao-pagara-taxa-de-11-3-no-consumo"
+    },
+    {
+      "id": "valor-2026-11-11-pendencias-reforma-preocupam-empresas",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-14T05:58:00-03:00",
+      "titulo": "A dois meses da CBS, metade das 22 pendências da regulamentação segue sem solução, e CNI pede mais prazo",
+      "resumo": "Levantamento do Martinelli Advogados aponta que nenhum dos 22 temas pendentes desde junho foi concluído. A CNI enviou cartas à Fazenda e ao MDIC, o setor financeiro pede mais prazo para a DeRE, e a Fazenda promete fechar as pendências até o início de 2027.",
+      "fonte": "Valor Econômico",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação",
+        "Obrigações acessórias"
+      ],
+      "url": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml"
     },
     {
       "id": "congressoemfoco-2026-11-11-cae-ouvira-durigan-vital-cbs",
@@ -1158,36 +1204,6 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-11/aluguel-de-imoveis-com-nota-fiscal-o-que-muda-na-reforma-tributaria/"
-    },
-    {
-      "id": "valor-2026-11-11-pendencias-reforma-preocupam-empresas",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-14T05:58:00-03:00",
-      "titulo": "A dois meses da CBS, metade das 22 pendências da regulamentação segue sem solução, e CNI pede mais prazo",
-      "resumo": "Levantamento do Martinelli Advogados aponta que nenhum dos 22 temas pendentes desde junho foi concluído. A CNI enviou cartas à Fazenda e ao MDIC, o setor financeiro pede mais prazo para a DeRE, e a Fazenda promete fechar as pendências até o início de 2027.",
-      "fonte": "Valor Econômico",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Legislação",
-        "Obrigações acessórias"
-      ],
-      "url": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml"
-    },
-    {
-      "id": "sbtnews-2026-11-11-receita-maioria-nao-pagara-11-3",
-      "data": "2026-11-11",
-      "adicionado_em": "2026-11-14T22:55:18-03:00",
-      "titulo": "Barreirinhas afirma que boa parte da economia ficará abaixo da CBS de 11,3%",
-      "resumo": "Ao SBT News, o secretário da Receita disse que os 11,3% são só a referência: construção terá redução de 50%, saúde e educação de 60%, profissionais liberais de 30% e a cesta básica fica com alíquota zero. Somada ao IBS projetado de 18,7%, a carga nominal chegaria a cerca de 30%.",
-      "fonte": "SBT News",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Setores"
-      ],
-      "url": "https://sbtnews.sbt.com.br/noticia/economia/receita-boa-parte-nao-pagara-taxa-de-11-3-no-consumo"
     },
     {
       "id": "receita-2026-11-10-dere-beta-atualizacao",
