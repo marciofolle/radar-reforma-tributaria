@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T21:54:19-03:00",
+  "atualizado_em": "2026-11-14T22:55:18-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -1173,6 +1173,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://valor.globo.com/legislacao/noticia/2026/11/11/serie-de-pendencias-na-reforma-tributaria-preocupa-empresas.ghtml"
+    },
+    {
+      "id": "sbtnews-2026-11-11-receita-maioria-nao-pagara-11-3",
+      "data": "2026-11-11",
+      "adicionado_em": "2026-11-14T22:55:18-03:00",
+      "titulo": "Barreirinhas afirma que boa parte da economia ficará abaixo da CBS de 11,3%",
+      "resumo": "Ao SBT News, o secretário da Receita disse que os 11,3% são só a referência: construção terá redução de 50%, saúde e educação de 60%, profissionais liberais de 30% e a cesta básica fica com alíquota zero. Somada ao IBS projetado de 18,7%, a carga nominal chegaria a cerca de 30%.",
+      "fonte": "SBT News",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Setores"
+      ],
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/receita-boa-parte-nao-pagara-taxa-de-11-3-no-consumo"
     },
     {
       "id": "receita-2026-11-10-dere-beta-atualizacao",
