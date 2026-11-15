@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-14T20:54:15-03:00",
+  "atualizado_em": "2026-11-14T21:54:19-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -469,6 +469,35 @@
         "Legislação"
       ],
       "url": "https://cfc.org.br/noticias/cfc-e-conselhos-regionais-se-posicionam-contra-aumento-da-carga-tributaria-e-restricoes-a-compensacao-de-tributos/"
+    },
+    {
+      "id": "reformatributaria-2026-11-13-fisco-oficializa-novos-prazos-dfe-cbs",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T21:54:19-03:00",
+      "titulo": "Ato Conjunto nº 7 formaliza novo calendário de exigência dos DF-e com campos de IBS e CBS",
+      "resumo": "Receita e Comitê Gestor publicaram o Ato Conjunto nº 7/2026 com os novos prazos para exigir documentos fiscais eletrônicos com IBS e CBS, alegando mais segurança jurídica; o texto do ato remete as datas a um cronograma divulgado em imagem.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/fisco-oficializa-novos-prazos-para-exigencia-de-documentos-fiscais-com-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-13-imoveis-holding-redutor-ajuste-2027",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-14T21:54:19-03:00",
+      "titulo": "Imóvel integralizado na holding até 31/12/2026 garante redutor de ajuste maior no IBS/CBS",
+      "resumo": "O redutor de ajuste varia conforme a data de entrada do imóvel na holding: no exemplo, bem integralizado por R$ 500 mil e vendido por R$ 1,2 milhão teria base de R$ 200 mil se já estivesse na empresa em 2026, contra R$ 700 mil a partir de 2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80839/imoveis-na-holding-por-que-observar-o-prazo-de-2026/"
     },
     {
       "id": "cgibs-2026-11-12-ajustes-regulamento-ibs-prorroga-dere",
