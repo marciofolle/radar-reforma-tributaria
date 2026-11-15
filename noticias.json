@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-15T16:53:00-03:00",
+  "atualizado_em": "2026-11-15T17:54:28-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "diariosp-2026-11-15-cashback-cbs-70-milhoes",
+      "data": "2026-11-15",
+      "adicionado_em": "2026-11-15T17:54:28-03:00",
+      "titulo": "Cashback da CBS começa em janeiro e deve alcançar 70 milhões de pessoas do CadÚnico",
+      "resumo": "Com dados da Receita, a reportagem estima R$ 10 bilhões devolvidos em 2027 a 27,7 milhões de famílias de baixa renda: 100% da CBS em contas de luz, água, gás, esgoto e telefone e 20% nas demais compras, com primeira parcela até 25 de abril.",
+      "fonte": "Diário de São Paulo",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://spdiario.com.br/noticias/economia/cashback-da-reforma-tributaria-comeca-em-janeiro-para-70-milhoes-de-pessoas.html"
+    },
     {
       "id": "contabeis-2026-11-14-credito-icms-imobilizado-homologacao-ibs",
       "data": "2026-11-14",
