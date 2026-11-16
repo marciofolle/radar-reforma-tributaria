@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T13:54:25-03:00",
+  "atualizado_em": "2026-11-16T14:54:06-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -207,6 +207,35 @@
         "Legislação"
       ],
       "url": "https://www.reformatributaria.com/opiniao/senado-governo-trave-creditos-pis-cofins/"
+    },
+    {
+      "id": "congressoemfoco-2026-11-16-hauly-plp-304-cashback-integral",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T14:54:06-03:00",
+      "titulo": "Hauly apresenta PLP 304/2026 para devolver todo o IBS e a CBS a famílias de renda até a média nacional",
+      "resumo": "O projeto do deputado Luiz Carlos Hauly amplia o cashback: devolução de 100% da CBS e do IBS para famílias com renda per capita até R$ 2.316, caindo a 50% em R$ 3.474 e zerando em R$ 4.632. Hoje o benefício se limita ao CadÚnico.",
+      "fonte": "Congresso em Foco",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "IBS",
+        "Legislação"
+      ],
+      "url": "https://www.congressoemfoco.com.br/noticia/131622/hauly-propoe-devolucao-integral-do-ibs-e-cbs-conforme-a-renda-familiar"
+    },
+    {
+      "id": "contabeis-2026-11-16-minuta-pec-adiar-cbs-2028",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T14:54:06-03:00",
+      "titulo": "Minuta de PEC de integrante do Comitê Gestor propõe fazer de 2027 mais um ano de testes da CBS",
+      "resumo": "Texto do auditor Antônio Alcoforado, do CGIBS, adia a cobrança efetiva da CBS para 2028, mantendo 0,9% em 2027, e muda pesos do FNDR (critério populacional de 30% para 10%) e do FPE. A minuta ainda não foi protocolada no Congresso.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028"
     },
     {
       "id": "diariosp-2026-11-15-cashback-cbs-70-milhoes",
