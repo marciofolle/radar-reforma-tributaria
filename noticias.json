@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T14:54:06-03:00",
+  "atualizado_em": "2026-11-16T15:53:46-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -236,6 +236,20 @@
         "Legislação"
       ],
       "url": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028"
+    },
+    {
+      "id": "contabeis-2026-11-16-cashback-cbs-regras-2027",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T15:53:46-03:00",
+      "titulo": "Cashback da CBS: primeiro pagamento trimestral está previsto até 25 de abril de 2027",
+      "resumo": "Famílias do CadÚnico com renda per capita abaixo de meio salário mínimo terão 100% da CBS devolvida em contas de luz, água, gás e telefone e 20% nas demais compras com CPF na nota; estimativa de R$ 10 bilhões a 27,7 milhões de famílias em 2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras"
     },
     {
       "id": "diariosp-2026-11-15-cashback-cbs-70-milhoes",
