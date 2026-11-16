@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T17:54:17-03:00",
+  "atualizado_em": "2026-11-16T18:53:45-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -151,6 +151,78 @@
   ],
   "itens": [
     {
+      "id": "migalhas-2026-11-16-cbs-2027-escritorios-advocacia",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T18:53:45-03:00",
+      "titulo": "Artigo: com CBS de 11,3% e redutor de 30%, escritórios de advocacia teriam carga nominal de cerca de 7,9% em 2027",
+      "resumo": "Artigo no Migalhas calcula alíquota nominal de aproximadamente 7,91% da CBS para serviços jurídicos, aplicando a redução de 30% sobre a referência de 11,3% do TCU, e alerta que a carga efetiva depende dos créditos, já que folha de salários não gera crédito e o ISS segue na transição.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Setores"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/468689/a-cbs-em-2027-e-a-tributacao-dos-servicos-os-reflexos-nos-escritorio"
+    },
+    {
+      "id": "contabeis-2026-11-16-reciclagem-veiculos-creditos-ipi-is",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T17:54:17-03:00",
+      "titulo": "Portaria do MDIC cria créditos de reciclagem de veículos que reduzem IPI e Imposto Seletivo de carros novos",
+      "resumo": "A Portaria GM/MDIC nº 325 permite que montadoras e importadores comprem créditos de recicladoras credenciadas para abater a alíquota do IPI ou do Imposto Seletivo de modelos do Programa Mover; a meta é reaproveitar 80% do peso dos veículos em 2027–2028 e 95% a partir de 2033.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Setores"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80905/reciclagem-de-veiculos-podera-gerar-creditos-para-reduzir-ipi-e-is/"
+    },
+    {
+      "id": "contabeis-2026-11-16-cashback-cbs-regras-2027",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T15:53:46-03:00",
+      "titulo": "Cashback da CBS: primeiro pagamento trimestral está previsto até 25 de abril de 2027",
+      "resumo": "Famílias do CadÚnico com renda per capita abaixo de meio salário mínimo terão 100% da CBS devolvida em contas de luz, água, gás e telefone e 20% nas demais compras com CPF na nota; estimativa de R$ 10 bilhões a 27,7 milhões de famílias em 2027.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras"
+    },
+    {
+      "id": "congressoemfoco-2026-11-16-hauly-plp-304-cashback-integral",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T14:54:06-03:00",
+      "titulo": "Hauly apresenta PLP 304/2026 para devolver todo o IBS e a CBS a famílias de renda até a média nacional",
+      "resumo": "O projeto do deputado Luiz Carlos Hauly amplia o cashback: devolução de 100% da CBS e do IBS para famílias com renda per capita até R$ 2.316, caindo a 50% em R$ 3.474 e zerando em R$ 4.632. Hoje o benefício se limita ao CadÚnico.",
+      "fonte": "Congresso em Foco",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "IBS",
+        "Legislação"
+      ],
+      "url": "https://www.congressoemfoco.com.br/noticia/131622/hauly-propoe-devolucao-integral-do-ibs-e-cbs-conforme-a-renda-familiar"
+    },
+    {
+      "id": "contabeis-2026-11-16-minuta-pec-adiar-cbs-2028",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T14:54:06-03:00",
+      "titulo": "Minuta de PEC de integrante do Comitê Gestor propõe fazer de 2027 mais um ano de testes da CBS",
+      "resumo": "Texto do auditor Antônio Alcoforado, do CGIBS, adia a cobrança efetiva da CBS para 2028, mantendo 0,9% em 2027, e muda pesos do FNDR (critério populacional de 30% para 10%) e do FPE. A minuta ainda não foi protocolada no Congresso.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028"
+    },
+    {
       "id": "receita-2026-11-16-codigo-fonte-calculadora-github",
       "data": "2026-11-16",
       "adicionado_em": "2026-11-16T13:54:25-03:00",
@@ -209,63 +281,6 @@
       "url": "https://www.reformatributaria.com/opiniao/senado-governo-trave-creditos-pis-cofins/"
     },
     {
-      "id": "congressoemfoco-2026-11-16-hauly-plp-304-cashback-integral",
-      "data": "2026-11-16",
-      "adicionado_em": "2026-11-16T14:54:06-03:00",
-      "titulo": "Hauly apresenta PLP 304/2026 para devolver todo o IBS e a CBS a famílias de renda até a média nacional",
-      "resumo": "O projeto do deputado Luiz Carlos Hauly amplia o cashback: devolução de 100% da CBS e do IBS para famílias com renda per capita até R$ 2.316, caindo a 50% em R$ 3.474 e zerando em R$ 4.632. Hoje o benefício se limita ao CadÚnico.",
-      "fonte": "Congresso em Foco",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "IBS",
-        "Legislação"
-      ],
-      "url": "https://www.congressoemfoco.com.br/noticia/131622/hauly-propoe-devolucao-integral-do-ibs-e-cbs-conforme-a-renda-familiar"
-    },
-    {
-      "id": "contabeis-2026-11-16-minuta-pec-adiar-cbs-2028",
-      "data": "2026-11-16",
-      "adicionado_em": "2026-11-16T14:54:06-03:00",
-      "titulo": "Minuta de PEC de integrante do Comitê Gestor propõe fazer de 2027 mais um ano de testes da CBS",
-      "resumo": "Texto do auditor Antônio Alcoforado, do CGIBS, adia a cobrança efetiva da CBS para 2028, mantendo 0,9% em 2027, e muda pesos do FNDR (critério populacional de 30% para 10%) e do FPE. A minuta ainda não foi protocolada no Congresso.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Legislação"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80896/minuta-propoe-adiar-cobranca-da-cbs-para-2028"
-    },
-    {
-      "id": "contabeis-2026-11-16-cashback-cbs-regras-2027",
-      "data": "2026-11-16",
-      "adicionado_em": "2026-11-16T15:53:46-03:00",
-      "titulo": "Cashback da CBS: primeiro pagamento trimestral está previsto até 25 de abril de 2027",
-      "resumo": "Famílias do CadÚnico com renda per capita abaixo de meio salário mínimo terão 100% da CBS devolvida em contas de luz, água, gás e telefone e 20% nas demais compras com CPF na nota; estimativa de R$ 10 bilhões a 27,7 milhões de famílias em 2027.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Legislação"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras"
-    },
-    {
-      "id": "contabeis-2026-11-16-reciclagem-veiculos-creditos-ipi-is",
-      "data": "2026-11-16",
-      "adicionado_em": "2026-11-16T17:54:17-03:00",
-      "titulo": "Portaria do MDIC cria créditos de reciclagem de veículos que reduzem IPI e Imposto Seletivo de carros novos",
-      "resumo": "A Portaria GM/MDIC nº 325 permite que montadoras e importadores comprem créditos de recicladoras credenciadas para abater a alíquota do IPI ou do Imposto Seletivo de modelos do Programa Mover; a meta é reaproveitar 80% do peso dos veículos em 2027–2028 e 95% a partir de 2033.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Imposto Seletivo",
-        "Setores"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80905/reciclagem-de-veiculos-podera-gerar-creditos-para-reduzir-ipi-e-is/"
-    },
-    {
       "id": "diariosp-2026-11-15-cashback-cbs-70-milhoes",
       "data": "2026-11-15",
       "adicionado_em": "2026-11-15T17:54:28-03:00",
@@ -321,6 +336,22 @@
         "Simples Nacional"
       ],
       "url": "https://www.contabeis.com.br/noticias/80823/nfs-e-adesao-municipal-e-preenchimento-de-ibs-e-cbs/"
+    },
+    {
+      "id": "receita-federal-2026-11-13-pgdas-d-atualizado-reforma",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-16T17:54:17-03:00",
+      "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+      "resumo": "A partir dos períodos de apuração 11/2026 e 12/2026, o PGDAS-D calcula os dados para os DF-e e as alíquotas efetivas de IBS e CBS; acaba a escolha entre regime de caixa e competência e, nesses dois meses, é preciso informar a folha dos 12 meses anteriores.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
     },
     {
       "id": "conjur-2026-11-13-propostas-receita-pontos-criticos",
@@ -664,22 +695,6 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
-    },
-    {
-      "id": "receita-federal-2026-11-13-pgdas-d-atualizado-reforma",
-      "data": "2026-11-13",
-      "adicionado_em": "2026-11-16T17:54:17-03:00",
-      "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
-      "resumo": "A partir dos períodos de apuração 11/2026 e 12/2026, o PGDAS-D calcula os dados para os DF-e e as alíquotas efetivas de IBS e CBS; acaba a escolha entre regime de caixa e competência e, nesses dois meses, é preciso informar a folha dos 12 meses anteriores.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Simples Nacional",
-        "Obrigações acessórias",
-        "Documentos fiscais"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
     },
     {
       "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
