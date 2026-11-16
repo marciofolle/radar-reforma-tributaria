@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T16:53:43-03:00",
+  "atualizado_em": "2026-11-16T17:54:17-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -250,6 +250,20 @@
         "Legislação"
       ],
       "url": "https://www.contabeis.com.br/noticias/80900/cashback-da-reforma-tributaria-comeca-em-2027-veja-regras"
+    },
+    {
+      "id": "contabeis-2026-11-16-reciclagem-veiculos-creditos-ipi-is",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T17:54:17-03:00",
+      "titulo": "Portaria do MDIC cria créditos de reciclagem de veículos que reduzem IPI e Imposto Seletivo de carros novos",
+      "resumo": "A Portaria GM/MDIC nº 325 permite que montadoras e importadores comprem créditos de recicladoras credenciadas para abater a alíquota do IPI ou do Imposto Seletivo de modelos do Programa Mover; a meta é reaproveitar 80% do peso dos veículos em 2027–2028 e 95% a partir de 2033.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Setores"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80905/reciclagem-de-veiculos-podera-gerar-creditos-para-reduzir-ipi-e-is/"
     },
     {
       "id": "diariosp-2026-11-15-cashback-cbs-70-milhoes",
@@ -650,6 +664,22 @@
         "Alíquotas"
       ],
       "url": "https://grupoahora.net.br/conteudos/2026/11/13/reforma-tributaria-esbarra-em-aliquota-indefinida/"
+    },
+    {
+      "id": "receita-federal-2026-11-13-pgdas-d-atualizado-reforma",
+      "data": "2026-11-13",
+      "adicionado_em": "2026-11-16T17:54:17-03:00",
+      "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+      "resumo": "A partir dos períodos de apuração 11/2026 e 12/2026, o PGDAS-D calcula os dados para os DF-e e as alíquotas efetivas de IBS e CBS; acaba a escolha entre regime de caixa e competência e, nesses dois meses, é preciso informar a folha dos 12 meses anteriores.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026"
     },
     {
       "id": "cnt-2026-11-12-senado-aprova-texto-base-ajuste-fiscal-transporte",
