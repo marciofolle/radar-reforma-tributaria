@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T20:05:00-03:00",
+  "atualizado_em": "2026-11-16T20:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "agencia-senado-2026-11-16-plenario-retoma-ajuste-fiscal",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T20:58:00-03:00",
+      "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
+      "resumo": "O Senado conclui na terça (17) a votação do PLP 299/2026, com quatro destaques da oposição pendentes após o texto-base aprovado por 45 a 31. O projeto corta benefícios tributários, prevê ganho de até R$ 56,1 bilhões em 2027 e segue depois para a Câmara.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca"
+    },
     {
       "id": "contabeis-2026-11-16-justica-mantem-ibs-cbs-base-icms",
       "data": "2026-11-16",
