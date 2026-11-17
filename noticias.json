@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T19:53:34-03:00",
+  "atualizado_em": "2026-11-17T20:53:43-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-17-cgibs-ajustes-regulamento-ibs-setor-financeiro",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T20:53:43-03:00",
+      "titulo": "Comitê Gestor muda três artigos do regulamento do IBS que tratam do setor financeiro",
+      "resumo": "Na reunião de 10/11 em Joinville, o Conselho Superior do CGIBS acolheu sugestões da PGFN e da Receita e alterou três artigos da 2ª versão do regulamento ligados às instituições financeiras; a 1ª entrega mensal da DeRE passou para 15/12/2026.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "Setores",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80929/ibs-comite-gestor-aprova-ajustes-para-o-setor-financeiro/"
+    },
     {
       "id": "senado-2026-11-17-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
       "data": "2026-11-17",
