@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T17:10:00-03:00",
+  "atualizado_em": "2026-11-17T17:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -53,10 +53,10 @@
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
     },
     {
-      "data": "2026-11-17",
+      "data": "2026-11-18",
       "titulo": "PLP 299/2026 (ajuste fiscal) — votação dos destaques no Senado",
-      "detalhe": "4 destaques, incl. restrição ao uso de créditos para compensar tributos e repasses da Lei Kandir; depois segue à Câmara",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado"
+      "detalhe": "Votação dos 4 destaques adiada por Davi Alcolumbre para quarta (18); incluem restrição ao uso de créditos para compensar tributos e repasses da Lei Kandir; depois segue à Câmara",
+      "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/11/17/votacao-do-projeto-do-ajuste-fiscal-fica-para-quarta-feira"
     },
     {
       "data": "2026-11-18",
@@ -150,6 +150,37 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-17-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T17:58:00-03:00",
+      "titulo": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+      "resumo": "Na CAE, Durigan estimou alíquota efetiva média de 8,5% para a CBS e lembrou que, sem resolução do Senado até 15/12, vale provisoriamente o índice de 11,3% do TCU. O relator Eduardo Braga cobrou os critérios técnicos e a comissão aprovou a cessão de dois servidores do TCU para analisar o cálculo.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo"
+    },
+    {
+      "id": "contabeis-2026-11-17-calculadora-rtc-github",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T17:58:00-03:00",
+      "titulo": "Portaria Cotec 342 abre no GitHub o código da calculadora de tributos da reforma",
+      "resumo": "A Receita publicou sob licença MIT três repositórios da Calculadora RTC (regime regular, Simples Nacional e gerador do DANFSe), com registro de hashes das versões iniciais; o código pode ser integrado a ERPs e usado por contadores para conferir os cálculos de CBS e IBS.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Simples Nacional"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80925/receita-libera-calculadora-de-tributos-da-reforma-tributaria-no-github/"
+    },
     {
       "id": "contabeis-2026-11-17-plp-303-veterinarios",
       "data": "2026-11-17",
