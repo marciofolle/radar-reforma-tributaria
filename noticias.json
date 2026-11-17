@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T11:58:00-03:00",
+  "atualizado_em": "2026-11-17T12:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -151,6 +151,36 @@
   ],
   "itens": [
     {
+      "id": "cnn-2026-11-17-durigan-cae-regimes-especiais-cbs-2028",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T12:58:00-03:00",
+      "titulo": "Na CAE, Durigan propõe rever regimes especiais para baixar a alíquota da CBS a partir de 2028",
+      "resumo": "Em audiência no Senado, o ministro da Fazenda defendeu revisar isenções e regimes diferenciados para reduzir a alíquota de referência da CBS em 2028. A Fazenda estima alíquota média efetiva de 8,5% ante o teto de 11,3% calculado pelo TCU; o Senado tem até 15/12 para decidir.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://cnnbrasil.com.br/economia/money/macroeconomia/durigan-defende-revisar-regimes-especiais-para-reduzir-cbs-em-2028"
+    },
+    {
+      "id": "receita-2026-11-17-api-emissao-rad",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T11:58:00-03:00",
+      "titulo": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+      "resumo": "Receita libera API do Recolhimento pelo Adquirente (RAD) para integrar sistemas de contribuintes e software houses: a primeira entrega permite consultar recolhimentos de CBS feitos como adquirente e gerar o DARF correspondente, agilizando a apropriação de créditos. Documentação em docs.receitafederal.gov.br/apuracao-cbs.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Split payment",
+        "Créditos"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel"
+    },
+    {
       "id": "infomoney-2026-11-17-durigan-cae-cbs-split-agosto",
       "data": "2026-11-17",
       "adicionado_em": "2026-11-17T10:54:00-03:00",
@@ -193,22 +223,6 @@
         "Alíquotas"
       ],
       "url": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/"
-    },
-    {
-      "id": "receita-2026-11-17-api-emissao-rad",
-      "data": "2026-11-17",
-      "adicionado_em": "2026-11-17T11:58:00-03:00",
-      "titulo": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
-      "resumo": "Receita libera API do Recolhimento pelo Adquirente (RAD) para integrar sistemas de contribuintes e software houses: a primeira entrega permite consultar recolhimentos de CBS feitos como adquirente e gerar o DARF correspondente, agilizando a apropriação de créditos. Documentação em docs.receitafederal.gov.br/apuracao-cbs.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Split payment",
-        "Créditos"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel"
     },
     {
       "id": "seudinheiro-2026-11-16-tereza-cristina-aliquota-cbs",
