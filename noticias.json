@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T20:58:00-03:00",
+  "atualizado_em": "2026-11-16T21:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-16-simples-2027-pedidos-indeferidos",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T21:54:00-03:00",
+      "titulo": "Pedido de Simples 2027 negado após regularização ainda pode ser revertido, diz Receita",
+      "resumo": "Pagamentos e parcelamentos feitos perto do prazo de 30/10 podem não ter sido processados, mantendo pedidos de opção pelo Simples Nacional para 2027 temporariamente indeferidos. O resultado definitivo sai a partir de 20/11 no Portal do Simples.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional"
+      ],
+      "url": "https://www.reformatributaria.com/governo/pedidos-indeferidos-do-simples-nacional-para-2027-ainda-podem-ser-analisados/"
+    },
+    {
+      "id": "camara-2026-11-16-orcamento-aberto-8-reforma",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-16T21:54:00-03:00",
+      "titulo": "Orçamento Aberto #8: Reforma tributária ainda testa alíquotas e começa a valer, gradualmente, a partir de janeiro",
+      "resumo": "Programa da Rádio Câmara lembra que o projeto de Orçamento de 2027 estima R$ 600 bilhões de arrecadação com a CBS e R$ 42 bilhões com o Imposto Seletivo, com base na alíquota de 11,3% que o Senado ainda precisa validar.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.camara.leg.br/radio/programas/1319639-orcamento-aberto-8-reforma-tributaria-ainda-testa-aliquotas-e-comeca-a-valer-gradualmente-a-partir-de-janeiro"
+    },
     {
       "id": "agencia-senado-2026-11-16-plenario-retoma-ajuste-fiscal",
       "data": "2026-11-16",
