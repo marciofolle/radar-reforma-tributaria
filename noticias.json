@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T14:53:53-03:00",
+  "atualizado_em": "2026-11-17T15:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,50 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-17-aliquota-cbs-divide-opinioes-cae",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T15:54:00-03:00",
+      "titulo": "Reforma tributária: alíquota da CBS divide opiniões em debate na CAE",
+      "resumo": "A CAE abriu nesta terça a série de audiências públicas sobre a alíquota de 11,3% da CBS calculada pelo TCU, acima da previsão inicial; a palavra final é do Senado, e a cobrança da contribuição começa em janeiro de 2027.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/11/reforma-tributaria-aliquota-da-cbs-divide-opinioes-em-debate-na-cae"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-correcao-simplificada-apuracao-assistida",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T15:54:00-03:00",
+      "titulo": "Barreirinhas promete piloto de correção simplificada da apuração assistida em dezembro",
+      "resumo": "Na CAE, o secretário da Receita disse que o Fisco quer lançar em dezembro um módulo piloto para corrigir em bloco dados da apuração assistida de IBS e CBS, já que empresas com milhares de notas levariam muito tempo revisando documento a documento.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/receita-quer-lancar-correcao-simplificada-da-apuracao-assistida-ate-dezembro/"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-cashback-10-bi-adiamento",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T15:54:00-03:00",
+      "titulo": "Receita diz na CAE que adiar a reforma tiraria R$ 10 bi de cashback dos mais pobres em 2027",
+      "resumo": "Barreirinhas argumentou no Senado que adiar a CBS por um ano eliminaria R$ 10 bilhões de devolução a famílias do CadÚnico com renda de até meio salário mínimo por pessoa; a resolução da alíquota deve ser aprovada até 15/12, com possível extensão a 22/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/governo/mais-pobres-perdem-r-10-bi-de-cashback-com-adiamento-da-reforma-diz-receita/"
+    },
     {
       "id": "agenciabrasil-2026-11-17-durigan-media-efetiva-cbs",
       "data": "2026-11-17",
