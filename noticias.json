@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T14:05:00-03:00",
+  "atualizado_em": "2026-11-17T14:53:53-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "agenciabrasil-2026-11-17-durigan-media-efetiva-cbs",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T14:53:53-03:00",
+      "titulo": "Na CAE, Durigan chama 11,3% de teto da CBS e estima alíquota média efetiva de 8,5%",
+      "resumo": "Em audiência no Senado, o ministro disse que a alíquota de referência só vale para quem não tem regime favorecido, que a média efetiva ficará em 8,5% e que a taxa será revista todo ano; o presidente do TCU atribuiu o percentual aos benefícios aprovados pelo Congresso.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-defende-aliquota-da-reforma-e-estima-media-efetiva-de-85"
+    },
     {
       "id": "cnn-2026-11-17-durigan-cae-regimes-especiais-cbs-2028",
       "data": "2026-11-17",
