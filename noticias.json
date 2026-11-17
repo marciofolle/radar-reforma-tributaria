@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T15:54:00-03:00",
+  "atualizado_em": "2026-11-17T17:10:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,50 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-17-plp-303-veterinarios",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T17:10:00-03:00",
+      "titulo": "PLP 303/2026 quer dobrar para 60% a redução de IBS e CBS sobre serviços veterinários",
+      "resumo": "Projeto do deputado Rodrigo Gambale (Pode-SP), apresentado em 13/11, altera a LC 214/2025 para levar serviços hospitalares, de atendimento e de prevenção para animais domésticos ao redutor de 60%. Banho, tosa, adestramento e hospedagem ficam de fora; até lá vale o corte atual de 30%.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80937/veterinarios-podem-ter-reducao-maior-de-ibs-e-cbs/"
+    },
+    {
+      "id": "infomoney-2026-11-17-adiamento-cashback-10-bi",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T17:10:00-03:00",
+      "titulo": "Barreirinhas diz na CAE que adiar a reforma um ano custaria R$ 10 bi em cashback às famílias pobres",
+      "resumo": "Na audiência da CAE, o secretário da Receita citou cálculo do TCU segundo o qual um adiamento impediria cerca de R$ 10 bilhões em devoluções de CBS a famílias de baixa renda em 2027. A Fazenda reiterou alíquota média efetiva abaixo de 8,5%.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/"
+    },
+    {
+      "id": "metropoles-2026-11-17-durigan-judiciario-aliquota",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T17:10:00-03:00",
+      "titulo": "Durigan diz na CAE que decisões judiciais que ampliam isenções pressionam a alíquota da CBS e do IBS",
+      "resumo": "O ministro da Fazenda afirmou que o Judiciário divide a responsabilidade pela alíquota: citou decisão do STF que ampliou isenções logo após a regulamentação e disse que cada nova desoneração reduz a base e exige compensação no cálculo, elevando a carga dos demais setores.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Alíquotas",
+        "CBS"
+      ],
+      "url": "https://www.metropoles.com/brasil/decisoes-do-judiciario-tambem-vao-impactar-aliquota-da-cbs-diz-durigan"
+    },
     {
       "id": "senado-2026-11-17-aliquota-cbs-divide-opinioes-cae",
       "data": "2026-11-17",
