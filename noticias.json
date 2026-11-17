@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-16T23:54:00-03:00",
+  "atualizado_em": "2026-11-17T09:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -72,9 +72,9 @@
     },
     {
       "data": "2026-11-30",
-      "titulo": "Cooperativas — opção pelo regime específico (em discussão)",
-      "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
+      "titulo": "Cooperativas — opção pelo regime específico (prazo em discussão / suspenso por liminar)",
+      "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11; liminar da Justiça do DF (OCB) suspendeu o prazo para as cooperativas do sistema OCB até a publicação dos atos pendentes",
+      "url": "https://www.reformatributaria.com/iva/justica-do-df-suspende-prazo-de-opcao-das-cooperativas-pelo-regime-do-ibs/"
     },
     {
       "data": "2026-12-14",
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-17-liminar-cooperativas-ocb",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T09:58:00-03:00",
+      "titulo": "Liminar da Justiça do DF suspende prazo de opção das cooperativas da OCB pelo regime específico do IBS/CBS",
+      "resumo": "Em mandado de segurança coletivo da OCB contra o presidente do CGIBS, a 6ª Vara da Fazenda Pública do DF suspendeu o prazo de 31/10; nova janela de igual duração só abre após o ato de créditos presumidos, a revisão do regulamento e a resolução do Senado sobre a alíquota.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "Setores"
+      ],
+      "url": "https://www.reformatributaria.com/iva/justica-do-df-suspende-prazo-de-opcao-das-cooperativas-pelo-regime-do-ibs/"
+    },
+    {
+      "id": "contabeis-2026-11-17-cae-debate-aliquota-cbs",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T09:58:00-03:00",
+      "titulo": "CAE ouve Durigan, Vital do Rêgo e Barreirinhas sobre a alíquota de 11,3468% da CBS",
+      "resumo": "Audiência pedida por Izalci, que vê CBS e IBS perto de 30%, acima da trava de 26,5%; CNI contesta a metodologia do TCU e a OAB pede adiar para 2028. Governo mantém o cronograma e a Receita estuda um mês extra opcional para fechar valores da CBS.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/"
+    },
     {
       "id": "reformatributaria-2026-11-16-simples-2027-pedidos-indeferidos",
       "data": "2026-11-16",
