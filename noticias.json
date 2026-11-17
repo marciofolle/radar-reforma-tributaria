@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T09:58:00-03:00",
+  "atualizado_em": "2026-11-17T10:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -151,6 +151,21 @@
   ],
   "itens": [
     {
+      "id": "infomoney-2026-11-17-durigan-cae-cbs-split-agosto",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T10:54:00-03:00",
+      "titulo": "CBS de 11,3% vai à CAE; Fazenda prepara prazo extra de 30 dias e Receita prevê split payment em agosto de 2027",
+      "resumo": "Durigan, Vital do Rêgo e Barreirinhas são ouvidos na CAE sobre a alíquota de referência, que não se aplica de forma uniforme; a Fazenda prepara PLP com 30 dias a mais para pagar a CBS em 2027 e a Receita estima o split payment funcionando em agosto.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Split payment"
+      ],
+      "url": "https://www.infomoney.com.br/politica/reforma-tributaria-durigan-vai-ao-senado-explicar-aliquota-de-113-para-a-cbs/"
+    },
+    {
       "id": "reformatributaria-2026-11-17-liminar-cooperativas-ocb",
       "data": "2026-11-17",
       "adicionado_em": "2026-11-17T09:58:00-03:00",
@@ -178,6 +193,20 @@
         "Alíquotas"
       ],
       "url": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/"
+    },
+    {
+      "id": "seudinheiro-2026-11-16-tereza-cristina-aliquota-cbs",
+      "data": "2026-11-16",
+      "adicionado_em": "2026-11-17T10:54:00-03:00",
+      "titulo": "Tereza Cristina diz que o Senado pode mexer nos 11,3% da CBS, mas não vê adiamento de 2027",
+      "resumo": "A senadora questiona a metodologia do TCU, lembra que se esperava algo perto de 9% e admite que baixar a alíquota exigirá rever benefícios setoriais; ela não acredita em adiar a CBS, pleito da CNI e da OAB.",
+      "fonte": "Seu Dinheiro",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.seudinheiro.com/2026/politica/senado-pode-reduzir-aliquota-de-113-da-reforma-tributaria-diz-tereza-cristina-entenda-o-que-esta-em-jogo-jcav/"
     },
     {
       "id": "reformatributaria-2026-11-16-simples-2027-pedidos-indeferidos",
