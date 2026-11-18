@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T16:54:00-03:00",
+  "atualizado_em": "2026-11-18T17:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "agencia-senado-2026-11-18-cae-sonegacao-aliquota-cbs",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T17:55:00-03:00",
+      "titulo": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
+      "resumo": "No segundo dia de audiências, CFC, OAB, Comitê Gestor e Hauly questionaram o hiato de conformidade usado no cálculo: 22,6% na Receita e 15,9% no TCU. A CAE aprovou requerimento para que TCU e Fazenda detalhem os cálculos; o Senado tem até 15/12 para fixar a alíquota.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs"
+    },
+    {
+      "id": "agencia-brasil-2026-11-18-cae-pede-explicacoes-tcu-cbs",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T17:55:00-03:00",
+      "titulo": "CAE aprova pedido ao TCU por estudos e atas que levaram à CBS de 11,3%",
+      "resumo": "Requerimento de Eduardo Braga pede ao TCU e à Fazenda metodologias e atas técnicas. O relator encomendou à consultoria do Senado simulações com hiato de 12,5%, 11% e 10%; nas audiências, Hauly estimou 8,62% a 10,91% e Miguel Abuhab, 10,3%.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs"
+    },
     {
       "id": "reformatributaria-2026-11-18-braga-hiato-conformidade-cbs",
       "data": "2026-11-18",
