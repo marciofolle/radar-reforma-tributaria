@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T20:53:43-03:00",
+  "atualizado_em": "2026-11-17T21:54:02-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "cnn-2026-11-17-tcu-atribui-cbs-113-excecoes",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-17T21:54:02-03:00",
+      "titulo": "Na CAE, presidente do TCU diz que exceções da reforma explicam a CBS de 11,3%",
+      "resumo": "Vital do Rêgo defendeu a metodologia do cálculo e afirmou que isenções, reduções e regimes específicos aprovados pelo Congresso elevaram a alíquota; o TCU deve propor a alíquota de 2028 no próximo ano e o PLOA 2027 prevê R$ 636,8 bi de arrecadação com a CBS.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidente-do-tcu-atribui-cbs-em-113-as-excecoes-da-reforma-tributaria/"
+    },
     {
       "id": "contabeis-2026-11-17-cgibs-ajustes-regulamento-ibs-setor-financeiro",
       "data": "2026-11-17",
