@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-17T23:54:13-03:00",
+  "atualizado_em": "2026-11-18T00:55:10-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "radiosenado-2026-11-17-destaques-ajuste-fiscal-adiados",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T00:55:10-03:00",
+      "titulo": "Votação dos destaques ao ajuste fiscal é adiada para quarta-feira",
+      "resumo": "Sem acordo, o Senado adiou para quarta (18) a análise dos destaques ao PLP 299/2026; um deles, da oposição, retira do governo a autorização para limitar o uso de créditos tributários pelas empresas na compensação de outros tributos federais. Depois, o texto segue para a Câmara.",
+      "fonte": "Rádio Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/11/17/votacao-dos-destaques-ao-ajuste-fiscal-e-adiada-para-quarta-feira"
+    },
     {
       "id": "cnn-2026-11-17-tcu-atribui-cbs-113-excecoes",
       "data": "2026-11-17",
