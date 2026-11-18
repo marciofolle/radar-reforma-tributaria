@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T08:53:47-03:00",
+  "atualizado_em": "2026-11-18T09:54:40-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,22 @@
     }
   ],
   "itens": [
+    {
+      "id": "agencia-senado-2026-11-18-governo-senadores-cbs-janeiro-sem-adiamento",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T09:54:40-03:00",
+      "titulo": "Governo e senadores defendem início da CBS em janeiro, sem adiamento",
+      "resumo": "Boletim da Rádio Senado sobre a audiência da CAE: Durigan e o TCU sustentaram a alíquota de 11,3% para preservar a arrecadação; o relator Eduardo Braga cobrou transparência e espaço para reduzi-la, e Izalci Lucas alertou para a adaptação das empresas. O Senado fixa a alíquota até 15/12.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/11/governo-e-senadores-defendem-inicio-da-cbs-em-janeiro-sem-adiamento"
+    },
     {
       "id": "conjur-2026-11-18-iss-base-ibs-cbs",
       "data": "2026-11-18",
