@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T10:54:27-03:00",
+  "atualizado_em": "2026-11-18T12:20:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -151,6 +151,21 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-18-api-apuracao-assistida-cbs-documentacao",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T12:20:00-03:00",
+      "titulo": "Documentação da API de apuração assistida da CBS prevê consulta ao RAD e emissão de DARF pelo adquirente",
+      "resumo": "A primeira entrega da API, cuja documentação a Receita publicou em 17/11, cobre consulta dos recolhimentos de CBS feitos como adquirente, geração de DARF e integração com ERPs; a API ainda não está liberada e o cronograma de testes será divulgado depois.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Split payment"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80961/receita-publica-documentacao-da-api-de-apuracao-assistida-da-cbs/"
+    },
+    {
       "id": "agencia-senado-2026-11-18-governo-senadores-cbs-janeiro-sem-adiamento",
       "data": "2026-11-18",
       "adicionado_em": "2026-11-18T09:54:40-03:00",
@@ -195,6 +210,21 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica"
+    },
+    {
+      "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T12:20:00-03:00",
+      "titulo": "Na CAE, Receita diz que ambiente de testes já processou 35 bilhões de documentos e que apuração assistida será aberta a todos",
+      "resumo": "Barreirinhas informou que mais de 70% dos documentos do ambiente de testes já destacam IBS e CBS, que a apuração assistida, hoje testada por 500 empresas, será liberada a todas nos próximos dias e que erros de boa-fé na adaptação não serão punidos.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe"
     },
     {
       "id": "reformatributaria-2026-11-17-base-2024-2025-cbs",
