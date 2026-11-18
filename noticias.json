@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T09:54:40-03:00",
+  "atualizado_em": "2026-11-18T10:54:27-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -180,6 +180,21 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
+    },
+    {
+      "id": "contabeis-2026-11-18-iss-ibs-cbs-justica",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T10:54:27-03:00",
+      "titulo": "Empresas vão à Justiça para tirar IBS e CBS da base do ISS após sinalização da Prefeitura de São Paulo",
+      "resumo": "Depois de a capital paulista indicar que incluiria IBS e CBS no cálculo do ISS a partir de janeiro de 2027, a ROIT obteve a primeira liminar conhecida afastando a inclusão, e o Sescon-SP impetrou mandado de segurança coletivo em favor dos associados.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica"
     },
     {
       "id": "reformatributaria-2026-11-17-base-2024-2025-cbs",
