@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T12:58:00-03:00",
+  "atualizado_em": "2026-11-18T14:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -218,6 +218,20 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
+    },
+    {
+      "id": "infomoney-2026-11-18-braga-nega-acordo-lei-kandir-trava-creditos",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T14:05:00-03:00",
+      "titulo": "Sem acordo sobre Lei Kandir, governo mantém trava à compensação cruzada de créditos no ajuste fiscal",
+      "resumo": "Antes da votação dos destaques do PLP 299/2026 no plenário do Senado, Eduardo Braga negou acordo com a oposição sobre a Lei Kandir, e Randolfe Rodrigues descartou abrir mão do limite ao uso de créditos de PIS/Cofins para pagar outros tributos, estimado em R$ 12,8 bi a R$ 18,3 bi em 2027.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.infomoney.com.br/politica/braga-nega-que-haja-acordo-com-oposicao-de-trecho-do-plp-que-trata-de-lei-kandir/"
     },
     {
       "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
