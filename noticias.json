@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T00:55:10-03:00",
+  "atualizado_em": "2026-11-18T01:54:40-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -91,7 +91,7 @@
     {
       "data": "2026-12-15",
       "titulo": "Senado fixa a alíquota de referência da CBS",
-      "detalhe": "Sem deliberação no prazo, prevalece o cálculo do TCU (11,3%)",
+      "detalhe": "Prazo pode ser estendido até 22/12; sem deliberação, prevalece provisoriamente o cálculo do TCU (11,3%)",
       "url": "https://noticias.iob.com.br/?p=90385"
     },
     {
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-17-base-2024-2025-cbs",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T01:54:40-03:00",
+      "titulo": "Barreirinhas diz na CAE que usar a base de 2024–2025 mudaria pouco a CBS de 11,3%",
+      "resumo": "O secretário da Receita afirmou que o TCU usou dados de 2023–2024 por falta de informação suficiente de 2025, que só chega em julho; executivos da ROIT estimam 9,8% com a base exigida em lei. O Senado tem até 15/12, prorrogável a 22/12, para fixar a alíquota.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/iva/base-de-2024-e-2025-nao-mudaria-tanto-a-aliquota-da-cbs-diz-receita/"
+    },
+    {
+      "id": "contabeis-2026-11-17-simples-hibrido-cbs-11-3",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T01:54:40-03:00",
+      "titulo": "Com CBS de 11,3%, contadores devem refazer simulações do Simples Híbrido antes de 20 de dezembro",
+      "resumo": "A alíquota calculada pelo TCU, acima dos 8,8% estimados em 2024, muda a conta de quem optou por recolher IBS e CBS no regime regular; a Resolução CGSN 194/2026 permite cancelar a opção entre 3/11 e 20/12, e a recomendação é fechar a decisão com o cliente até 18/12.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80869/simples-hibrido-calculo-da-cbs-em-11-3-exige-revisar-a-escolha-dos-clientes-ate-20-de-dezembro/"
+    },
     {
       "id": "radiosenado-2026-11-17-destaques-ajuste-fiscal-adiados",
       "data": "2026-11-17",
