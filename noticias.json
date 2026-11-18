@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T12:20:00-03:00",
+  "atualizado_em": "2026-11-18T12:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -57,12 +57,6 @@
       "titulo": "PLP 299/2026 (ajuste fiscal) — votação dos destaques no Senado",
       "detalhe": "Votação dos 4 destaques adiada por Davi Alcolumbre para quarta (18); incluem restrição ao uso de créditos para compensar tributos e repasses da Lei Kandir; depois segue à Câmara",
       "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/11/17/votacao-do-projeto-do-ajuste-fiscal-fica-para-quarta-feira"
-    },
-    {
-      "data": "2026-11-18",
-      "titulo": "Câmara (CFT) — audiência com o secretário da Receita sobre a regulamentação",
-      "detalhe": "Robinson Barreirinhas fala sobre a alíquota da CBS, a MP do Imposto Seletivo e as obrigações acessórias, às 10h",
-      "url": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria"
     },
     {
       "data": "2026-11-20",
@@ -151,6 +145,20 @@
   ],
   "itens": [
     {
+      "id": "diariodacapital-2026-11-18-braga-auditores-tcu-cbs",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T12:58:00-03:00",
+      "titulo": "Braga rejeita adiar a reforma e obtém na CAE a cessão de dois auditores que calcularam a CBS",
+      "resumo": "Relator da alíquota da CBS, Eduardo Braga aprovou na CAE o Requerimento 131/2026 para que dois auditores federais envolvidos no cálculo de 11,3% fiquem à disposição do Senado; ele se opôs ao adiamento e cobrou transparência ante projeções da Fazenda de 6,95% a 9,05%.",
+      "fonte": "Diário da Capital",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://diariodacapital.com/materias/braga-rejeita-adiamento-da-reforma-tributaria-e-cobra-transparencia/"
+    },
+    {
       "id": "contabeis-2026-11-18-api-apuracao-assistida-cbs-documentacao",
       "data": "2026-11-18",
       "adicionado_em": "2026-11-18T12:20:00-03:00",
@@ -164,6 +172,21 @@
         "Split payment"
       ],
       "url": "https://www.contabeis.com.br/noticias/80961/receita-publica-documentacao-da-api-de-apuracao-assistida-da-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-18-iss-ibs-cbs-justica",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T10:54:27-03:00",
+      "titulo": "Empresas vão à Justiça para tirar IBS e CBS da base do ISS após sinalização da Prefeitura de São Paulo",
+      "resumo": "Depois de a capital paulista indicar que incluiria IBS e CBS no cálculo do ISS a partir de janeiro de 2027, a ROIT obteve a primeira liminar conhecida afastando a inclusão, e o Sescon-SP impetrou mandado de segurança coletivo em favor dos associados.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica"
     },
     {
       "id": "agencia-senado-2026-11-18-governo-senadores-cbs-janeiro-sem-adiamento",
@@ -197,21 +220,6 @@
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
     },
     {
-      "id": "contabeis-2026-11-18-iss-ibs-cbs-justica",
-      "data": "2026-11-18",
-      "adicionado_em": "2026-11-18T10:54:27-03:00",
-      "titulo": "Empresas vão à Justiça para tirar IBS e CBS da base do ISS após sinalização da Prefeitura de São Paulo",
-      "resumo": "Depois de a capital paulista indicar que incluiria IBS e CBS no cálculo do ISS a partir de janeiro de 2027, a ROIT obteve a primeira liminar conhecida afastando a inclusão, e o Sescon-SP impetrou mandado de segurança coletivo em favor dos associados.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Judiciário",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80960/ibs-e-cbs-no-iss-empresas-questionam-cobranca-na-justica"
-    },
-    {
       "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
       "data": "2026-11-17",
       "adicionado_em": "2026-11-18T12:20:00-03:00",
@@ -225,6 +233,48 @@
         "Documentos fiscais"
       ],
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe"
+    },
+    {
+      "id": "jota-2026-11-17-destaques-lei-kandir-compensacao-plp-299",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T05:55:08-03:00",
+      "titulo": "Lei Kandir e trava à compensação de créditos são os pontos em disputa no Senado antes de o PLP 299 ir à Câmara",
+      "resumo": "Os destaques pendentes do pacote de ajuste fiscal (PLP 299/2026) concentram a disputa em dois temas: os repasses da Lei Kandir e a restrição ao uso de créditos para compensar tributos federais. Concluída a votação no Senado, o texto segue para a Câmara.",
+      "fonte": "JOTA",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.jota.info/legislativo/destaques-sobre-lei-kandir-e-compensacao-tributaria-concentram-disputas-no-senado-antes-de-pacote-fiscal-seguir-a-camara"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-barreirinhas-cbs-por-fora",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T02:54:38-03:00",
+      "titulo": "Barreirinhas diz na CAE que CBS de 11,3% \"por fora\" pesa pouco mais que os 9,25% de PIS/Cofins \"por dentro\"",
+      "resumo": "Na audiência da CAE, o secretário da Receita disse que a não cumulatividade e a queda da sonegação podem reduzir a carga atual e que a alíquota de 11,3% da CBS, calculada fora do preço, não fica muito acima dos 9,25% de PIS/Cofins calculados por dentro.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/governo/receita-conformidade-da-reforma-reduz-carga-tributaria-pornograficamente-alta-do-brasil/"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-tcu-nao-e-adequado-comparar",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T02:54:38-03:00",
+      "titulo": "Vital do Rêgo diz que comparar CBS de 11,3% com as estimativas de 9% não faz sentido; IVA total chegaria perto de 30%",
+      "resumo": "Para o presidente do TCU, as projeções de cerca de 9% ignoravam os regimes diferenciados e as reduções setoriais aprovadas pelo Congresso. Com IBS de referência próximo de 18,7%, uma CBS de 11,3% levaria o IVA a quase 30%; o Senado decide até 15/12, prorrogável a 22/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/iva/nao-e-adequado-comparar-diz-presidente-do-tcu-sobre-cbs-de-113-e-aliquota-esperada-pelas-empresas/"
     },
     {
       "id": "reformatributaria-2026-11-17-base-2024-2025-cbs",
@@ -505,48 +555,6 @@
         "Alíquotas"
       ],
       "url": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/"
-    },
-    {
-      "id": "reformatributaria-2026-11-17-barreirinhas-cbs-por-fora",
-      "data": "2026-11-17",
-      "adicionado_em": "2026-11-18T02:54:38-03:00",
-      "titulo": "Barreirinhas diz na CAE que CBS de 11,3% \"por fora\" pesa pouco mais que os 9,25% de PIS/Cofins \"por dentro\"",
-      "resumo": "Na audiência da CAE, o secretário da Receita disse que a não cumulatividade e a queda da sonegação podem reduzir a carga atual e que a alíquota de 11,3% da CBS, calculada fora do preço, não fica muito acima dos 9,25% de PIS/Cofins calculados por dentro.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.reformatributaria.com/governo/receita-conformidade-da-reforma-reduz-carga-tributaria-pornograficamente-alta-do-brasil/"
-    },
-    {
-      "id": "reformatributaria-2026-11-17-tcu-nao-e-adequado-comparar",
-      "data": "2026-11-17",
-      "adicionado_em": "2026-11-18T02:54:38-03:00",
-      "titulo": "Vital do Rêgo diz que comparar CBS de 11,3% com as estimativas de 9% não faz sentido; IVA total chegaria perto de 30%",
-      "resumo": "Para o presidente do TCU, as projeções de cerca de 9% ignoravam os regimes diferenciados e as reduções setoriais aprovadas pelo Congresso. Com IBS de referência próximo de 18,7%, uma CBS de 11,3% levaria o IVA a quase 30%; o Senado decide até 15/12, prorrogável a 22/12.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.reformatributaria.com/iva/nao-e-adequado-comparar-diz-presidente-do-tcu-sobre-cbs-de-113-e-aliquota-esperada-pelas-empresas/"
-    },
-    {
-      "id": "jota-2026-11-17-destaques-lei-kandir-compensacao-plp-299",
-      "data": "2026-11-17",
-      "adicionado_em": "2026-11-18T05:55:08-03:00",
-      "titulo": "Lei Kandir e trava à compensação de créditos são os pontos em disputa no Senado antes de o PLP 299 ir à Câmara",
-      "resumo": "Os destaques pendentes do pacote de ajuste fiscal (PLP 299/2026) concentram a disputa em dois temas: os repasses da Lei Kandir e a restrição ao uso de créditos para compensar tributos federais. Concluída a votação no Senado, o texto segue para a Câmara.",
-      "fonte": "JOTA",
-      "tipo": "imprensa",
-      "temas": [
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "https://www.jota.info/legislativo/destaques-sobre-lei-kandir-e-compensacao-tributaria-concentram-disputas-no-senado-antes-de-pacote-fiscal-seguir-a-camara"
     },
     {
       "id": "seudinheiro-2026-11-16-tereza-cristina-aliquota-cbs",
