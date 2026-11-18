@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T18:55:00-03:00",
+  "atualizado_em": "2026-11-18T19:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -53,16 +53,16 @@
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
     },
     {
-      "data": "2026-11-18",
-      "titulo": "PLP 299/2026 (ajuste fiscal) — votação dos destaques no Senado",
-      "detalhe": "Votação dos 4 destaques adiada por Davi Alcolumbre para quarta (18); incluem restrição ao uso de créditos para compensar tributos e repasses da Lei Kandir; depois segue à Câmara",
-      "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/11/17/votacao-do-projeto-do-ajuste-fiscal-fica-para-quarta-feira"
-    },
-    {
       "data": "2026-11-20",
       "titulo": "Simples Nacional 2027 — situação definitiva das opções",
       "detalhe": "Receita divulga o resultado final dos pedidos de ingresso no Simples para 2027",
       "url": "https://www.contabeis.com.br/noticias/80895/simples-nacional-2027-processamento-final-dos-pedidos-sai-nesta-sexta-20/"
+    },
+    {
+      "data": "2026-11-24",
+      "titulo": "PLP 299/2026 (ajuste fiscal) — votação na Câmara",
+      "detalhe": "Senado concluiu em 18/11 (destaques rejeitados; trava à compensação cruzada mantida; créditos de PIS/Cofins preservados para a CBS); relator Mauro Benevides prevê votar em 23 ou 24/11",
+      "url": "https://www.cnnbrasil.com.br/politica/senado-faz-acordo-sobre-lei-kandir-e-conclui-votacao-do-plp-ajuste-fiscal/"
     },
     {
       "data": "2026-11-30",
@@ -144,6 +144,66 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-18-ajuste-fiscal-concluido",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T19:55:00-03:00",
+      "titulo": "Ajuste fiscal",
+      "resumo": "O Plenário aprovou a versão final do PLP 299/2026, com cortes de despesas, aumento de arrecadação e revisão de benefícios fiscais, encerrando a votação dos destaques adiada desde terça. O texto segue agora para a Câmara dos Deputados.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/senado-agora/2026/11/18/ajuste-fiscal"
+    },
+    {
+      "id": "cnn-2026-11-18-senado-conclui-plp-299-creditos-pis-cofins",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T19:55:00-03:00",
+      "titulo": "Senado mantém trava à compensação cruzada e protege créditos de PIS/Cofins para uso na CBS",
+      "resumo": "Destaque que proibia restringir o uso de créditos para quitar tributos federais caiu por 49 a 31. Emenda de Tereza Cristina, aprovada em turno suplementar por 69 a 2, garante que créditos acumulados de PIS/Cofins possam pagar a CBS ou ser ressarcidos. Câmara deve votar em 23 ou 24/11.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.cnnbrasil.com.br/politica/senado-faz-acordo-sobre-lei-kandir-e-conclui-votacao-do-plp-ajuste-fiscal/"
+    },
+    {
+      "id": "agenciabrasil-2026-11-18-senado-aprova-ajuste-fiscal-sem-mudancas",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T19:55:00-03:00",
+      "titulo": "Senado rejeita destaques e envia o ajuste fiscal à Câmara com limite à compensação de créditos",
+      "resumo": "Plenário derrubou três destaques da oposição, entre eles o que retirava o limite à compensação de créditos tributários das empresas; acordo sobre a Lei Kandir elevou o repasse anual aos estados de R$ 1 bi para R$ 2 bi em 2028–2030. Efeito estimado: R$ 45,1 bi a R$ 56,1 bi em 2027.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo"
+    },
+    {
+      "id": "receita-2026-11-18-numeros-opcoes-simples-regime-regular",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T18:55:00-03:00",
+      "titulo": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Balanço registra 657.355 pedidos de opção pelo Simples para 2027 (376.551 deferidos e 280.804 indeferidos) e 1.090.080 opções pelo regime regular do IBS/CBS, das quais 30.370 já foram canceladas. A janela de cancelamento vai até 20/12.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
+    },
     {
       "id": "agencia-senado-2026-11-18-cae-sonegacao-aliquota-cbs",
       "data": "2026-11-18",
@@ -304,22 +364,6 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
-    },
-    {
-      "id": "receita-2026-11-18-numeros-opcoes-simples-regime-regular",
-      "data": "2026-11-18",
-      "adicionado_em": "2026-11-18T18:55:00-03:00",
-      "titulo": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
-      "resumo": "Balanço registra 657.355 pedidos de opção pelo Simples para 2027 (376.551 deferidos e 280.804 indeferidos) e 1.090.080 opções pelo regime regular do IBS/CBS, das quais 30.370 já foram canceladas. A janela de cancelamento vai até 20/12.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Simples Nacional",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
     },
     {
       "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
