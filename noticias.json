@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T04:53:35-03:00",
+  "atualizado_em": "2026-11-18T05:55:08-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -457,6 +457,20 @@
         "Alíquotas"
       ],
       "url": "https://www.reformatributaria.com/iva/nao-e-adequado-comparar-diz-presidente-do-tcu-sobre-cbs-de-113-e-aliquota-esperada-pelas-empresas/"
+    },
+    {
+      "id": "jota-2026-11-17-destaques-lei-kandir-compensacao-plp-299",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T05:55:08-03:00",
+      "titulo": "Lei Kandir e trava à compensação de créditos são os pontos em disputa no Senado antes de o PLP 299 ir à Câmara",
+      "resumo": "Os destaques pendentes do pacote de ajuste fiscal (PLP 299/2026) concentram a disputa em dois temas: os repasses da Lei Kandir e a restrição ao uso de créditos para compensar tributos federais. Concluída a votação no Senado, o texto segue para a Câmara.",
+      "fonte": "JOTA",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.jota.info/legislativo/destaques-sobre-lei-kandir-e-compensacao-tributaria-concentram-disputas-no-senado-antes-de-pacote-fiscal-seguir-a-camara"
     },
     {
       "id": "seudinheiro-2026-11-16-tereza-cristina-aliquota-cbs",
