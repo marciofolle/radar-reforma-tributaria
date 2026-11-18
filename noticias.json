@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T17:55:00-03:00",
+  "atualizado_em": "2026-11-18T18:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -304,6 +304,22 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
+    },
+    {
+      "id": "receita-2026-11-18-numeros-opcoes-simples-regime-regular",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T18:55:00-03:00",
+      "titulo": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "resumo": "Balanço registra 657.355 pedidos de opção pelo Simples para 2027 (376.551 deferidos e 280.804 indeferidos) e 1.090.080 opções pelo regime regular do IBS/CBS, das quais 30.370 já foram canceladas. A janela de cancelamento vai até 20/12.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs"
     },
     {
       "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
