@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T01:54:40-03:00",
+  "atualizado_em": "2026-11-18T02:54:38-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -429,6 +429,34 @@
         "Alíquotas"
       ],
       "url": "https://www.contabeis.com.br/noticias/80927/senado-debate-aliquota-de-11-3-da-cbs-para-2027/"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-barreirinhas-cbs-por-fora",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T02:54:38-03:00",
+      "titulo": "Barreirinhas diz na CAE que CBS de 11,3% \"por fora\" pesa pouco mais que os 9,25% de PIS/Cofins \"por dentro\"",
+      "resumo": "Na audiência da CAE, o secretário da Receita disse que a não cumulatividade e a queda da sonegação podem reduzir a carga atual e que a alíquota de 11,3% da CBS, calculada fora do preço, não fica muito acima dos 9,25% de PIS/Cofins calculados por dentro.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/governo/receita-conformidade-da-reforma-reduz-carga-tributaria-pornograficamente-alta-do-brasil/"
+    },
+    {
+      "id": "reformatributaria-2026-11-17-tcu-nao-e-adequado-comparar",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-18T02:54:38-03:00",
+      "titulo": "Vital do Rêgo diz que comparar CBS de 11,3% com as estimativas de 9% não faz sentido; IVA total chegaria perto de 30%",
+      "resumo": "Para o presidente do TCU, as projeções de cerca de 9% ignoravam os regimes diferenciados e as reduções setoriais aprovadas pelo Congresso. Com IBS de referência próximo de 18,7%, uma CBS de 11,3% levaria o IVA a quase 30%; o Senado decide até 15/12, prorrogável a 22/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/iva/nao-e-adequado-comparar-diz-presidente-do-tcu-sobre-cbs-de-113-e-aliquota-esperada-pelas-empresas/"
     },
     {
       "id": "seudinheiro-2026-11-16-tereza-cristina-aliquota-cbs",
