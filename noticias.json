@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-18T19:55:00-03:00",
+  "atualizado_em": "2026-11-18T20:54:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-18-vice-tcu-divergencia-judicial-ibs-cbs",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T20:54:00-03:00",
+      "titulo": "Vice do TCU vê risco concreto de decisões opostas para IBS e CBS sobre a mesma operação",
+      "resumo": "No fórum da Ajufe, Jorge Oliveira citou exportações indiretas: a Justiça do DF afastou o IBS e a Justiça Federal manteve a CBS. Ele defendeu cooperação judicial e mencionou a proposta do STF de ação única, com mudança no art. 109 da Constituição.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/justica/ha-risco-real-de-divergencia-judicial-entre-ibs-e-cbs-diz-vice-do-tcu/"
+    },
+    {
+      "id": "conjur-2026-11-18-custos-mao-de-obra-reforma",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-18T20:54:00-03:00",
+      "titulo": "Artigo: folha de salários sem crédito pode elevar a carga de IBS e CBS sobre empresas de serviços",
+      "resumo": "Advogados do RVC apontam que prestadores de serviços intensivos em mão de obra tendem a ter carga maior, porque salários não geram crédito. Terceirizar ou migrar trabalhadores para MEI não garante economia e exige análise financeira e jurídica por atividade.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Setores"
+      ],
+      "url": "https://conjur.com.br/2026-nov-18/os-custos-da-mao-de-obra-na-reforma-tributaria/"
+    },
     {
       "id": "senado-2026-11-18-ajuste-fiscal-concluido",
       "data": "2026-11-18",
