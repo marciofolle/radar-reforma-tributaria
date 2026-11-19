@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T15:54:42-03:00",
+  "atualizado_em": "2026-11-19T16:55:34-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -145,6 +145,65 @@
   ],
   "itens": [
     {
+      "id": "reformatributaria-2026-11-19-vice-tcu-flexibilizacoes-litigios",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T16:55:34-03:00",
+      "titulo": "Vice-presidente do TCU alerta que as flexibilizações da reforma ampliam o espaço para litígios",
+      "resumo": "Em fórum da Ajufe, Jorge Oliveira disse que as flexibilizações anunciadas para 2027 e a possibilidade de o Senado revisar, com justificativa, a CBS de referência de 11,3% calculada pelo TCU tendem a gerar mais disputas judiciais sobre IBS e CBS.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Alíquotas",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/justica/flexibilizacoes-da-reforma-abrem-espaco-para-mais-litigios-diz-vice-do-tcu/"
+    },
+    {
+      "id": "contabeis-2026-11-19-simples-657-mil-pedidos-2027",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T16:55:34-03:00",
+      "titulo": "Simples Nacional 2027 tem 657 mil pedidos de ingresso, com 376,5 mil deferidos e 280,8 mil indeferidos",
+      "resumo": "Balanço da Receita mostra 657.355 pedidos de opção pelo Simples para 2027 e 1.090.080 pedidos de regime regular do IBS/CBS; até agora houve 30.370 cancelamentos da opção híbrida e 399 do Simples, com janela aberta até 20 de dezembro.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81002/simples-nacional-registra-657-mil-pedidos-de-opcao-para-2027/"
+    },
+    {
+      "id": "reformatributaria-2026-11-19-simples-hibrido-1-09-milhao",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T15:54:42-03:00",
+      "titulo": "Simples Híbrido soma 1,09 milhão de pedidos de regime regular do IBS/CBS, com 30 mil cancelamentos",
+      "resumo": "Balanço da Receita mostra 1,09 milhão de opções pelo regime regular de IBS e CBS no Simples, das quais 30.370 já foram canceladas; o saldo de 1,06 milhão equivale a cerca de 15% das empresas do regime. No Simples, foram 657,3 mil pedidos para 2027.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/iva/receita-recebe-109-milhao-de-solicitacoes-pelo-simples-hibrido-mas-30-000-pediram-cancelamento/"
+    },
+    {
+      "id": "reformatributaria-2026-11-19-nfse-homologacoes-reforma",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T15:54:42-03:00",
+      "titulo": "Comitê Gestor da NFS-e testa em BH novas funcionalidades do emissor nacional para a reforma",
+      "resumo": "Rodada de homologações de 16 a 19/11 no Serpro, com Receita e municípios como São Paulo e Rio, testa novos fatos geradores (códigos 99.02 a 99.05, incluindo condomínios), ajustes no DANFSE, série da DPS no identificador da nota e mudanças na NFS-e Via.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-tem-rodada-de-homologacoes-de-novas-funcionalidades-para-adequacao-a-reforma-tributaria/"
+    },
+    {
       "id": "contabeis-2026-11-19-receita-mapeia-empresas-sem-cbs-notas",
       "data": "2026-11-19",
       "adicionado_em": "2026-11-19T12:55:03-03:00",
@@ -187,35 +246,6 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
-    },
-    {
-      "id": "reformatributaria-2026-11-19-simples-hibrido-1-09-milhao",
-      "data": "2026-11-19",
-      "adicionado_em": "2026-11-19T15:54:42-03:00",
-      "titulo": "Simples Híbrido soma 1,09 milhão de pedidos de regime regular do IBS/CBS, com 30 mil cancelamentos",
-      "resumo": "Balanço da Receita mostra 1,09 milhão de opções pelo regime regular de IBS e CBS no Simples, das quais 30.370 já foram canceladas; o saldo de 1,06 milhão equivale a cerca de 15% das empresas do regime. No Simples, foram 657,3 mil pedidos para 2027.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Simples Nacional",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.reformatributaria.com/iva/receita-recebe-109-milhao-de-solicitacoes-pelo-simples-hibrido-mas-30-000-pediram-cancelamento/"
-    },
-    {
-      "id": "reformatributaria-2026-11-19-nfse-homologacoes-reforma",
-      "data": "2026-11-19",
-      "adicionado_em": "2026-11-19T15:54:42-03:00",
-      "titulo": "Comitê Gestor da NFS-e testa em BH novas funcionalidades do emissor nacional para a reforma",
-      "resumo": "Rodada de homologações de 16 a 19/11 no Serpro, com Receita e municípios como São Paulo e Rio, testa novos fatos geradores (códigos 99.02 a 99.05, incluindo condomínios), ajustes no DANFSE, série da DPS no identificador da nota e mudanças na NFS-e Via.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Documentos fiscais",
-        "Obrigações acessórias"
-      ],
-      "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-tem-rodada-de-homologacoes-de-novas-funcionalidades-para-adequacao-a-reforma-tributaria/"
     },
     {
       "id": "reformatributaria-2026-11-18-apuracao-assistida-aberta-todas-empresas",
