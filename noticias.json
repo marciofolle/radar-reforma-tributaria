@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T16:55:34-03:00",
+  "atualizado_em": "2026-11-19T17:54:31-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,37 @@
     }
   ],
   "itens": [
+    {
+      "id": "receita-2026-11-19-cfc-orienta-25-mil-contadores-destaque-cbs-ibs",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T17:54:31-03:00",
+      "titulo": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
+      "resumo": "Com base nos DF-e dos 30 dias anteriores a 15/11, a Receita identificou cerca de 25 mil contadores responsáveis por 72 mil empresas com mais de 150 notas sem destaque ou com preenchimento abaixo de 86%; CFC e CRCs farão a orientação, de caráter preventivo.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "Documentos fiscais",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais"
+    },
+    {
+      "id": "migalhas-2026-11-19-abat-propoe-stf-contencioso-ibs-cbs",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T17:54:31-03:00",
+      "titulo": "ABAT leva ao grupo do STF propostas para o contencioso de IBS e CBS, como compensação cruzada e CGIBS como substituto processual",
+      "resumo": "Advogados tributaristas sugerem manter CBS na Justiça Federal e IBS na estadual, dispensar a prova de não repasse na restituição, compensar créditos de IBS com débitos de CBS e tirar bancos do polo passivo de ações sobre split payment.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Split payment",
+        "Créditos"
+      ],
+      "url": "https://www.migalhas.com.br/quentes/468992/abat-propoe-medidas-ao-stf-para-disputas-da-reforma-tributaria"
+    },
     {
       "id": "reformatributaria-2026-11-19-vice-tcu-flexibilizacoes-litigios",
       "data": "2026-11-19",
