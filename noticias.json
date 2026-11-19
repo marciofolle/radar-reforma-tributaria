@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T08:54:20-03:00",
+  "atualizado_em": "2026-11-19T09:55:10-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -157,6 +157,20 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
+    },
+    {
+      "id": "reformatributaria-2026-11-18-confaz-convenios-beneficios-icms-reforma",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-19T09:55:10-03:00",
+      "titulo": "Confaz publica oito convênios; dois adaptam benefícios de ICMS à transição para a CBS",
+      "resumo": "Aprovados na 436ª reunião extraordinária, o Convênio 132 considera cumpridas, pela situação de 31/12/2026, condições de benefícios ligadas a PIS/Cofins e IPI, e o Convênio 133 prorroga até 31/12/2027 incentivos de ICMS de 26 convênios durante a transição federal.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/economia-reforma-tributaria-impactos/confaz-publica-convenios-que-adaptam-beneficios-de-icms-a-reforma-tributaria/"
     },
     {
       "id": "contabeis-2026-11-18-entidades-pedem-adiamento-cbs-2027",
