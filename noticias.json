@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T00:54:00-03:00",
+  "atualizado_em": "2026-11-19T02:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -424,6 +424,21 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
+    },
+    {
+      "id": "camara-2026-11-17-relator-defende-ajuste-fiscal-sem-mudancas",
+      "data": "2026-11-17",
+      "adicionado_em": "2026-11-19T02:05:00-03:00",
+      "titulo": "Relator defende aprovação do ajuste fiscal sem mudanças para evitar retorno ao Senado",
+      "resumo": "Mauro Benevides Filho (União-CE), relator do PLP 299/2026 na Câmara, quer votar o texto do Senado sem alterações para evitar nova rodada no Senado; o pacote revisa incentivos tributários, que somam cerca de R$ 800 bilhões, e inclui a trava à compensação cruzada de créditos.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Legislação",
+        "Créditos"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1320366-relator-defende-aprovacao-do-ajuste-fiscal-sem-mudancas-para-evitar-retorno-ao-senado"
     },
     {
       "id": "agenciabrasil-2026-11-17-receita-35-bilhoes-documentos-apuracao-assistida",
