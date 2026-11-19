@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T11:55:05-03:00",
+  "atualizado_em": "2026-11-19T12:55:03-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-19-receita-mapeia-empresas-sem-cbs-notas",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T12:55:03-03:00",
+      "titulo": "Receita vai apontar aos contadores as empresas do regime regular que ainda emitem notas sem destaque da CBS",
+      "resumo": "Na 2ª reunião da Sala de Situação com CFC e Fenacon (18/11), a Receita disse que repassará os casos aos contadores via CFC. Em outubro, 86% dos documentos já traziam a CBS (3,7 bi com e 600 mi sem); dúvidas vão para a plataforma rtc.cfc.org.br.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Documentos fiscais",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81003/receita-vai-mapear-falhas-na-emissao-de-notas-com-cbs/"
+    },
+    {
+      "id": "infomoney-2026-11-19-ifi-cbs-imposto-seletivo-riscos-receita",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T12:55:03-03:00",
+      "titulo": "IFI vê risco de R$ 50 bi na CBS e de R$ 46,8 bi se a MP do Imposto Seletivo não virar lei até 31/12",
+      "resumo": "A IFI do Senado diz que a CBS de 11,3% supõe queda de sonegação que pode não ocorrer em 2027, com frustração de cerca de R$ 50 bi; sem conversão da MP 1.399, a União perde R$ 46,8 bi, e a noventena já custa R$ 4,2 bi sem a PEC 22.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Alíquotas"
+      ],
+      "url": "https://www.infomoney.com.br/economia/plp-299-2026-ifi-orcamento-2027-receitas-incertas/"
+    },
     {
       "id": "conjur-2026-11-19-cbs-base-icms-guerra-de-teses",
       "data": "2026-11-19",
