@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T02:05:00-03:00",
+  "atualizado_em": "2026-11-19T03:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -144,6 +144,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-18-entidades-pedem-adiamento-cbs-2027",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-19T03:05:00-03:00",
+      "titulo": "Entidades de empresas, contadores e desenvolvedores de software pedem adiar a cobrança da CBS prevista para janeiro",
+      "resumo": "Os setores alegam que a segunda versão do regulamento da CBS e atos complementares só sairão até o início de dezembro, e a apuração assistida abre a todos no fim de novembro, deixando pouco tempo de adaptação; a Receita mantém o cronograma.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80951/cbs-em-2027-empresas-pedem-mais-prazo-para-adaptacao/"
+    },
     {
       "id": "rfb-2026-11-18-rfb-cgibs-alinham-proximos-passos",
       "data": "2026-11-18",
