@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T12:55:03-03:00",
+  "atualizado_em": "2026-11-19T15:54:42-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -187,6 +187,35 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
+    },
+    {
+      "id": "reformatributaria-2026-11-19-simples-hibrido-1-09-milhao",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T15:54:42-03:00",
+      "titulo": "Simples Híbrido soma 1,09 milhão de pedidos de regime regular do IBS/CBS, com 30 mil cancelamentos",
+      "resumo": "Balanço da Receita mostra 1,09 milhão de opções pelo regime regular de IBS e CBS no Simples, das quais 30.370 já foram canceladas; o saldo de 1,06 milhão equivale a cerca de 15% das empresas do regime. No Simples, foram 657,3 mil pedidos para 2027.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/iva/receita-recebe-109-milhao-de-solicitacoes-pelo-simples-hibrido-mas-30-000-pediram-cancelamento/"
+    },
+    {
+      "id": "reformatributaria-2026-11-19-nfse-homologacoes-reforma",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-19T15:54:42-03:00",
+      "titulo": "Comitê Gestor da NFS-e testa em BH novas funcionalidades do emissor nacional para a reforma",
+      "resumo": "Rodada de homologações de 16 a 19/11 no Serpro, com Receita e municípios como São Paulo e Rio, testa novos fatos geradores (códigos 99.02 a 99.05, incluindo condomínios), ajustes no DANFSE, série da DPS no identificador da nota e mudanças na NFS-e Via.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-tem-rodada-de-homologacoes-de-novas-funcionalidades-para-adequacao-a-reforma-tributaria/"
     },
     {
       "id": "reformatributaria-2026-11-18-apuracao-assistida-aberta-todas-empresas",
