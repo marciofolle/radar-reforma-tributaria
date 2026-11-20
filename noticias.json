@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-20T06:53:37-03:00",
+  "atualizado_em": "2026-11-20T07:54:05-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -139,6 +139,35 @@
         "Judiciário"
       ],
       "url": "https://conjur.com.br/2026-nov-20/reforma-tributaria-nao-pode-restringir-autonomia-federativa/"
+    },
+    {
+      "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-20T07:54:05-03:00",
+      "titulo": "Receita e Comitê Gestor do IBS combinam programa de conformidade e materiais de apoio para a transição",
+      "resumo": "Em reunião no dia 18, Receita Federal e CGIBS discutiram a governança conjunta do IVA dual e a criação de um programa de conformidade com manuais, documentos explicativos e perguntas e respostas para orientar contribuintes; não foram anunciados prazos nem datas.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81004/orgaos-discutem-acoes-conjuntas-para-implementar-a-reforma-tributaria/"
+    },
+    {
+      "id": "migalhas-2026-11-19-reforma-mesa-de-negociacao",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-20T05:53:43-03:00",
+      "titulo": "Artigo: troca do PIS/Cofins pela CBS em 2027 transforma o reajuste de preços dos contratos em disputa pelo ganho econômico",
+      "resumo": "Autores mostram que a mesma regra tributária gera resultados muito diferentes conforme o preço é reestruturado, alertam que retenções de IRRF e CSLL não devem ser abatidas do preço-base e lembram que contratos privados não têm reequilíbrio automático.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Créditos"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/468870/quando-a-reforma-tributaria-chega-a-mesa-de-negociacao"
     },
     {
       "id": "reformatributaria-2026-11-19-cnpj-tecnico-tac-produtor-rural-2028",
@@ -302,20 +331,6 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
-    },
-    {
-      "id": "migalhas-2026-11-19-reforma-mesa-de-negociacao",
-      "data": "2026-11-19",
-      "adicionado_em": "2026-11-20T05:53:43-03:00",
-      "titulo": "Artigo: troca do PIS/Cofins pela CBS em 2027 transforma o reajuste de preços dos contratos em disputa pelo ganho econômico",
-      "resumo": "Autores mostram que a mesma regra tributária gera resultados muito diferentes conforme o preço é reestruturado, alertam que retenções de IRRF e CSLL não devem ser abatidas do preço-base e lembram que contratos privados não têm reequilíbrio automático.",
-      "fonte": "Migalhas",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Créditos"
-      ],
-      "url": "https://www.migalhas.com.br/depeso/468870/quando-a-reforma-tributaria-chega-a-mesa-de-negociacao"
     },
     {
       "id": "cgibs-2026-11-18-ato-conjunto-8-dispensa-cnpj-tac-produtor-rural",
