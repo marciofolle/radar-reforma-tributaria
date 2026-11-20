@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T23:55:16-03:00",
+  "atualizado_em": "2026-11-20T00:53:35-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -28,24 +28,6 @@
     }
   ],
   "prazos": [
-    {
-      "data": "2026-11-16",
-      "titulo": "NF-e: NT 2025.002 (v1.50–1.53) e NT 2026.007 v1.11 em produção",
-      "detalhe": "Combustíveis monofásicos, documentos referenciados/devolução e emissão sem IE por contribuinte exclusivo de IBS/CBS; rejeição 1115 não será ativada",
-      "url": "https://www.contabeis.com.br/noticias/80863/nf-e-e-ct-e-o-que-muda-em-16-11-e-o-que-fica-para-dezembro/"
-    },
-    {
-      "data": "2026-11-16",
-      "titulo": "STF — fim da 2ª fase da consulta sobre o contencioso do IBS/CBS",
-      "detalhe": "Edital 05/2026 do CESTF: instituições enviam sugestões até 23h59; proposta prevê ação única para IBS e CBS da mesma operação",
-      "url": "https://www.reformatributaria.com/justica/proposta-em-consulta-no-stf-preve-um-unico-processo-para-acoes-do-ibs-e-da-cbs/"
-    },
-    {
-      "data": "2026-11-16",
-      "titulo": "Split payment — inscrição dos demais PSPs nos testes",
-      "detalhe": "Formulários disponíveis a partir de 13/11; envio direto à RFB/CGIBS, sem intermediação de associações",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5"
-    },
     {
       "data": "2026-11-17",
       "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
