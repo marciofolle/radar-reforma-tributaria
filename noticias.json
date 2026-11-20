@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-19T20:54:38-03:00",
+  "atualizado_em": "2026-11-19T21:55:03-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -616,6 +616,22 @@
         "IBS"
       ],
       "url": "https://conjur.com.br/2026-nov-18/saga-da-reforma-tributaria-agora-o-iss-e-o-novo-susto-dos-contribuintes/"
+    },
+    {
+      "id": "cgibs-2026-11-18-ato-conjunto-8-dispensa-cnpj-tac-produtor-rural",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-19T21:55:03-03:00",
+      "titulo": "Ato Conjunto RFB/CGIBS nº 8, de 13 de novembro de 2026 — dispensa temporária de inscrição no CNPJ para o produtor rural pessoa física e o transportador autônomo de carga não contribuintes do IBS e da CBS",
+      "resumo": "Publicado em 18/11, o ato formaliza que o produtor rural pessoa física e o TAC que não optaram pelo regime regular ficam dispensados do CNPJ (cadastro com identificação única) de 1º/1/2027 a 31/12/2028, podendo seguir operando com CPF.",
+      "fonte": "Comitê Gestor do IBS",
+      "orgao": "RFB/CGIBS",
+      "tipo": "oficial",
+      "temas": [
+        "Transporte",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.cgibs.gov.br/upload/arquivos/202611/18223257-ato-conjunto-n-8-2026-dispensa-cnpj-pf-2028-e-tac-assinado-1.pdf"
     },
     {
       "id": "fenacon-2026-11-17-cbs-2027-escritorios-de-advocacia",
