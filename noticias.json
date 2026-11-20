@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-20T16:53:56-03:00",
+  "atualizado_em": "2026-11-20T17:54:10-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -139,6 +139,21 @@
         "Judiciário"
       ],
       "url": "https://conjur.com.br/2026-nov-20/reforma-tributaria-nao-pode-restringir-autonomia-federativa/"
+    },
+    {
+      "id": "reformatributaria-2026-11-20-flexibilizacoes-especialistas",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-20T17:54:10-03:00",
+      "titulo": "Especialistas aprovam alívio a erros de boa-fé e CBS paga no 2º mês, mas cobram definição de regras",
+      "resumo": "Tributaristas veem como positivas as medidas anunciadas pela Receita em 11/11 — dispensa de multa para quem errar de boa-fé e recolhimento definitivo da CBS no segundo mês, com estimativa no primeiro —, mas lembram que dependem de regulamentação e de PLP e não adiam a reforma.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/governo/flexibilizacoes-da-reforma-sao-bem-vistas-por-especialistas-mas-ainda-ha-ressalvas/"
     },
     {
       "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
