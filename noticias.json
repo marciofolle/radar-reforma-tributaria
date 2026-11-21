@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-21T14:53:30-03:00",
+  "atualizado_em": "2026-11-21T15:53:58-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -120,6 +120,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "conjur-2026-11-21-locacao-pessoas-fisicas-ibs-cbs",
+      "data": "2026-11-21",
+      "adicionado_em": "2026-11-21T15:53:58-03:00",
+      "titulo": "Artigo: maioria dos pequenos locadores pessoa física fica fora de IBS e CBS; grandes devem migrar para holdings",
+      "resumo": "Advogado lembra que a pessoa física só vira contribuinte com mais de três imóveis e receita de aluguel acima de R$ 240 mil; com CBS de 11,3%, estima carga de cerca de 3,4% na locação longa e 6,8% na de curta temporada.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Setores"
+      ],
+      "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/"
+    },
     {
       "id": "conjur-2026-11-20-autonomia-federativa-ibs",
       "data": "2026-11-20",
