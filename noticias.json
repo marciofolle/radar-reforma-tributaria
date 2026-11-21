@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-20T23:53:08-03:00",
+  "atualizado_em": "2026-11-21T00:53:27-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -28,12 +28,6 @@
     }
   ],
   "prazos": [
-    {
-      "data": "2026-11-17",
-      "titulo": "CAE do Senado — audiências sobre a alíquota da CBS",
-      "detalhe": "Durigan, Vital do Rêgo (TCU) e Barreirinhas (Receita) na terça (17), às 10h; FGV, OAB e especialistas no dia 18; relator Eduardo Braga",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira"
-    },
     {
       "data": "2026-11-20",
       "titulo": "Simples Nacional 2027 — situação definitiva das opções",
