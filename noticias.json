@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-21T13:55:09-03:00",
+  "atualizado_em": "2026-11-21T14:53:30-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -192,6 +192,20 @@
         "Alíquotas"
       ],
       "url": "https://www.correiobraziliense.com.br/cbradar/durigan-sobre-a-reforma-tributaria-impacto-na-inflacao-deve-ser-pequeno/"
+    },
+    {
+      "id": "reformatributaria-2026-11-20-locacao-nfse-nao-antecipa-ibs-cbs",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-21T14:53:30-03:00",
+      "titulo": "Artigo: emissão de NFS-e na locação não antecipa IBS e CBS, defendem advogados",
+      "resumo": "Para Fernanda Lains e Matheus Bueno, o fato gerador do IBS e da CBS na locação de imóveis ocorre só no pagamento do aluguel; a NFS-e apenas documenta o período coberto e não basta, sozinha, para antecipar a cobrança.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "Setores"
+      ],
+      "url": "https://www.reformatributaria.com/opiniao/locacao-de-imoveis-a-nota-fiscal-antecipou-o-tributo/"
     },
     {
       "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
