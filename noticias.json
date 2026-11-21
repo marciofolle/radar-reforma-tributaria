@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-20T20:53:22-03:00",
+  "atualizado_em": "2026-11-20T21:54:12-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -154,6 +154,50 @@
         "Legislação"
       ],
       "url": "https://www.reformatributaria.com/governo/flexibilizacoes-da-reforma-sao-bem-vistas-por-especialistas-mas-ainda-ha-ressalvas/"
+    },
+    {
+      "id": "receita-2026-11-20-piloto-cbs-producao-restrita-aberto",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-20T21:54:12-03:00",
+      "titulo": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+      "resumo": "Qualquer pessoa jurídica que cumpra os requisitos operacionais pode testar os serviços da reforma em piloto-cbs.tributos.gov.br, sem indicação de entidade nem pedido prévio; basta procuração digital específica. O piloto, antes restrito a cerca de 500 empresas, inclui a DeRE e não gera documentos com validade jurídica.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs"
+    },
+    {
+      "id": "conjur-2026-11-20-abraham-justica-competente-ibs-cbs",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-20T21:54:12-03:00",
+      "titulo": "Desembargador do TRF-2 alerta que ainda não se sabe qual Justiça julgará disputas de IBS e CBS",
+      "resumo": "Em fórum em Buenos Aires, Marcus Abraham disse que o IVA dual pode exigir duas ações, multiplicar execuções e custas e complicar o cumprimento de liminares no split payment; ele também criticou a fixação do Imposto Seletivo por MP e projetou alíquota conjunta perto de 30%.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-20/indefinicao-sobre-justica-competente-para-ibs-e-cbs-preocupa-desembargador/"
+    },
+    {
+      "id": "correiobraziliense-2026-11-20-durigan-inflacao-cbs",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-20T21:54:12-03:00",
+      "titulo": "Durigan admite efeito inflacionário pequeno e temporário na largada da CBS",
+      "resumo": "Segundo o ministro da Fazenda, o impacto nos preços deve se diluir à medida que as empresas ajustarem a precificação com créditos plenos; ele estima peso médio abaixo de 8,5% ao consumidor, descarta adiar para 2028 e prevê cerca de R$ 10 bilhões em cashback ao CadÚnico em 2027.",
+      "fonte": "Correio Braziliense",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.correiobraziliense.com.br/cbradar/durigan-sobre-a-reforma-tributaria-impacto-na-inflacao-deve-ser-pequeno/"
     },
     {
       "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
