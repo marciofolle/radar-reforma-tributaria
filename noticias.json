@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-21T17:54:00-03:00",
+  "atualizado_em": "2026-11-21T18:54:04-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -148,6 +148,21 @@
         "Setores"
       ],
       "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/"
+    },
+    {
+      "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
+      "data": "2026-11-21",
+      "adicionado_em": "2026-11-21T18:54:04-03:00",
+      "titulo": "Guia lista o que muda na rotina dos escritórios contábeis em 2027 com a CBS",
+      "resumo": "Com a CBS no lugar de PIS/Cofins, escritórios terão NFS-e com IBS/CBS em 1º/1 e 1º/3/2027 (Ato Conjunto 7), PGDAS-D por competência exigindo a folha de 12 meses (FS12) e EFD-Contribuições mantida para créditos acumulados até 31/12/2026.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "Simples Nacional",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/"
     },
     {
       "id": "reformatributaria-2026-11-20-locacao-nfse-nao-antecipa-ibs-cbs",
