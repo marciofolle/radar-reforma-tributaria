@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-21T03:55:14-03:00",
+  "atualizado_em": "2026-11-21T04:54:12-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -384,6 +384,22 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
+    },
+    {
+      "id": "setcesp-2026-11-18-painel-fenatran-reforma",
+      "data": "2026-11-18",
+      "adicionado_em": "2026-11-21T04:54:12-03:00",
+      "titulo": "Na Fenatran, SETCESP promove painel para discutir os impactos da Reforma Tributária no transporte",
+      "resumo": "No painel \"Reforma Tributária 2027\" na Fenatran, o Setcesp orientou transportadoras a se antecipar e negociar com clientes os créditos de CBS, lembrou a troca de PIS/Cofins/IPI pela CBS em janeiro de 2027 e reforçou que todo documento fiscal do transporte deve ser emitido antes do início da viagem.",
+      "fonte": "Setcesp",
+      "orgao": "Setcesp",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "CBS",
+        "Documentos fiscais"
+      ],
+      "url": "https://setcesp.org.br/noticias/na-fenatran-setcesp-promove-painel-para-discutir-os-impactos-da-reforma-tributaria-no-transporte/"
     },
     {
       "id": "cgibs-2026-11-18-ato-conjunto-8-dispensa-cnpj-tac-produtor-rural",
