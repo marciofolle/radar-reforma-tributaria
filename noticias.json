@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-22T08:53:20-03:00",
+  "atualizado_em": "2026-11-22T09:54:38-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -121,6 +121,21 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
+      "data": "2026-11-21",
+      "adicionado_em": "2026-11-21T18:54:04-03:00",
+      "titulo": "Guia lista o que muda na rotina dos escritórios contábeis em 2027 com a CBS",
+      "resumo": "Com a CBS no lugar de PIS/Cofins, escritórios terão NFS-e com IBS/CBS em 1º/1 e 1º/3/2027 (Ato Conjunto 7), PGDAS-D por competência exigindo a folha de 12 meses (FS12) e EFD-Contribuições mantida para créditos acumulados até 31/12/2026.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Obrigações acessórias",
+        "Simples Nacional",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/"
+    },
+    {
       "id": "conjur-2026-11-21-credito-presumido-produtor-rural-mudanca-condicao",
       "data": "2026-11-21",
       "adicionado_em": "2026-11-21T16:58:00-03:00",
@@ -150,19 +165,18 @@
       "url": "https://conjur.com.br/2026-nov-21/a-tributacao-da-locacao-de-imoveis-por-pessoas-fisicas-na-reforma-tributaria-e-o-impacto-no-mercado-imobiliario/"
     },
     {
-      "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
-      "data": "2026-11-21",
-      "adicionado_em": "2026-11-21T18:54:04-03:00",
-      "titulo": "Guia lista o que muda na rotina dos escritórios contábeis em 2027 com a CBS",
-      "resumo": "Com a CBS no lugar de PIS/Cofins, escritórios terão NFS-e com IBS/CBS em 1º/1 e 1º/3/2027 (Ato Conjunto 7), PGDAS-D por competência exigindo a folha de 12 meses (FS12) e EFD-Contribuições mantida para créditos acumulados até 31/12/2026.",
-      "fonte": "Contábeis",
+      "id": "migalhas-2026-11-20-quem-tem-medo-da-reforma",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-21T21:56:01-03:00",
+      "titulo": "Artigo: o risco da reforma está na implementação instável, não no modelo do IBS e da CBS",
+      "resumo": "Para o tributarista Alessandro Rostagno, o temor das empresas vem de normas que mudam após o fato, prazos adiados na última hora e interpretações divergentes. Ele cita a LC 227 sancionada já no ano de teste e a fase 2 da DeRE adiada para 15/12, e propõe estabilidade normativa e harmonização entre a Receita e o Comitê Gestor.",
+      "fonte": "Migalhas",
       "tipo": "imprensa",
       "temas": [
-        "Obrigações acessórias",
-        "Simples Nacional",
-        "CBS"
+        "Legislação",
+        "Obrigações acessórias"
       ],
-      "url": "https://www.contabeis.com.br/noticias/80949/reforma-tributaria-veja-o-que-muda-na-rotina-dos-escritorios-contabeis-em-2027/"
+      "url": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria"
     },
     {
       "id": "reformatributaria-2026-11-20-locacao-nfse-nao-antecipa-ibs-cbs",
@@ -252,18 +266,35 @@
       "url": "https://conjur.com.br/2026-nov-20/reforma-tributaria-nao-pode-restringir-autonomia-federativa/"
     },
     {
-      "id": "migalhas-2026-11-20-quem-tem-medo-da-reforma",
-      "data": "2026-11-20",
-      "adicionado_em": "2026-11-21T21:56:01-03:00",
-      "titulo": "Artigo: o risco da reforma está na implementação instável, não no modelo do IBS e da CBS",
-      "resumo": "Para o tributarista Alessandro Rostagno, o temor das empresas vem de normas que mudam após o fato, prazos adiados na última hora e interpretações divergentes. Ele cita a LC 227 sancionada já no ano de teste e a fase 2 da DeRE adiada para 15/12, e propõe estabilidade normativa e harmonização entre a Receita e o Comitê Gestor.",
-      "fonte": "Migalhas",
+      "id": "cnn-2026-11-19-relator-ajuste-fiscal-camara-mantem-texto",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-22T09:54:38-03:00",
+      "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado e diz que créditos de PIS/Cofins seguem usáveis na CBS",
+      "resumo": "Mauro Benevides Filho apresentou parecer sem alterações ao PLP 299/2026. Segundo ele, mesmo com limites à compensação cruzada, créditos acumulados de PIS/Cofins poderão abater a CBS ou ser restituídos em dinheiro, conforme emenda de Tereza Cristina aprovada no Senado.",
+      "fonte": "CNN Brasil",
       "tipo": "imprensa",
       "temas": [
-        "Legislação",
-        "Obrigações acessórias"
+        "Créditos",
+        "CBS",
+        "Legislação"
       ],
-      "url": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria"
+      "url": "https://www.cnnbrasil.com.br/politica/relator-do-ajuste-fiscal-na-camara-mantem-texto-aprovado-pelo-senado/"
+    },
+    {
+      "id": "setcesp-2026-11-19-senado-ajuste-fiscal-creditos-pis-cofins",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-21T21:56:01-03:00",
+      "titulo": "Senado aprova mudanças no pacote de ajuste fiscal e preserva créditos de PIS/Cofins",
+      "resumo": "Texto da CNT reproduzido pelo SETCESP: a emenda de Tereza Cristina mantém os créditos de PIS/Cofins não aproveitados, que poderão compensar a CBS ou ser ressarcidos em dinheiro. A CPRB ficou fora dos cortes de benefícios, o que preserva a desoneração da folha do transporte. O PLP 299/2026 segue para a Câmara.",
+      "fonte": "Setcesp",
+      "orgao": "SETCESP / CNT",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "http://setcesp.org.br/noticias/senado-aprova-mudancas-no-pacote-de-ajuste-fiscal-e-preserva-creditos-de-pis-cofins/"
     },
     {
       "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
@@ -456,22 +487,6 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
-    },
-    {
-      "id": "setcesp-2026-11-19-senado-ajuste-fiscal-creditos-pis-cofins",
-      "data": "2026-11-19",
-      "adicionado_em": "2026-11-21T21:56:01-03:00",
-      "titulo": "Senado aprova mudanças no pacote de ajuste fiscal e preserva créditos de PIS/Cofins",
-      "resumo": "Texto da CNT reproduzido pelo SETCESP: a emenda de Tereza Cristina mantém os créditos de PIS/Cofins não aproveitados, que poderão compensar a CBS ou ser ressarcidos em dinheiro. A CPRB ficou fora dos cortes de benefícios, o que preserva a desoneração da folha do transporte. O PLP 299/2026 segue para a Câmara.",
-      "fonte": "Setcesp",
-      "orgao": "SETCESP / CNT",
-      "tipo": "entidade",
-      "temas": [
-        "Transporte",
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "http://setcesp.org.br/noticias/senado-aprova-mudancas-no-pacote-de-ajuste-fiscal-e-preserva-creditos-de-pis-cofins/"
     },
     {
       "id": "setcesp-2026-11-18-painel-fenatran-reforma",
