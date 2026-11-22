@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-21T20:54:17-03:00",
+  "atualizado_em": "2026-11-21T21:56:01-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -252,6 +252,20 @@
       "url": "https://conjur.com.br/2026-nov-20/reforma-tributaria-nao-pode-restringir-autonomia-federativa/"
     },
     {
+      "id": "migalhas-2026-11-20-quem-tem-medo-da-reforma",
+      "data": "2026-11-20",
+      "adicionado_em": "2026-11-21T21:56:01-03:00",
+      "titulo": "Artigo: o risco da reforma está na implementação instável, não no modelo do IBS e da CBS",
+      "resumo": "Para o tributarista Alessandro Rostagno, o temor das empresas vem de normas que mudam após o fato, prazos adiados na última hora e interpretações divergentes. Ele cita a LC 227 sancionada já no ano de teste e a fase 2 da DeRE adiada para 15/12, e propõe estabilidade normativa e harmonização entre a Receita e o Comitê Gestor.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/468943/quem-tem-medo-da-reforma-tributaria"
+    },
+    {
       "id": "contabeis-2026-11-19-rfb-cgibs-acoes-conjuntas",
       "data": "2026-11-19",
       "adicionado_em": "2026-11-20T07:54:05-03:00",
@@ -442,6 +456,22 @@
         "CBS"
       ],
       "url": "https://conjur.com.br/2026-nov-19/reforma-tributaria-o-inicio-de-uma-nova-guerra-judicial-de-teses/"
+    },
+    {
+      "id": "setcesp-2026-11-19-senado-ajuste-fiscal-creditos-pis-cofins",
+      "data": "2026-11-19",
+      "adicionado_em": "2026-11-21T21:56:01-03:00",
+      "titulo": "Senado aprova mudanças no pacote de ajuste fiscal e preserva créditos de PIS/Cofins",
+      "resumo": "Texto da CNT reproduzido pelo SETCESP: a emenda de Tereza Cristina mantém os créditos de PIS/Cofins não aproveitados, que poderão compensar a CBS ou ser ressarcidos em dinheiro. A CPRB ficou fora dos cortes de benefícios, o que preserva a desoneração da folha do transporte. O PLP 299/2026 segue para a Câmara.",
+      "fonte": "Setcesp",
+      "orgao": "SETCESP / CNT",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "http://setcesp.org.br/noticias/senado-aprova-mudancas-no-pacote-de-ajuste-fiscal-e-preserva-creditos-de-pis-cofins/"
     },
     {
       "id": "setcesp-2026-11-18-painel-fenatran-reforma",
