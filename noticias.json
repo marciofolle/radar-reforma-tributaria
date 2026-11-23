@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T11:54:08-03:00",
+  "atualizado_em": "2026-11-23T12:18:16-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -4072,6 +4072,22 @@
         "CBS"
       ],
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs"
+    },
+    {
+      "id": "planalto-2026-10-09-decreto-13133-aliquotas-cbs-combustiveis",
+      "data": "2026-10-09",
+      "adicionado_em": "2026-11-23T12:18:16-03:00",
+      "titulo": "Decreto nº 13.133, de 9 de outubro de 2026: delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre os combustíveis que especifica",
+      "resumo": "O ministro da Fazenda passa a divulgar, a partir de 2027, as alíquotas da CBS sobre gasolina, etanol, diesel, biodiesel, GLP, querosene de aviação e óleo combustível, nos limites dos arts. 174 e 175 da LC 214/2025. O decreto altera o Decreto 12.955/2026: biocombustíveis terão de 40% a 90% da alíquota do fóssil.",
+      "fonte": "Planalto",
+      "orgao": "Presidência da República",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13133.htm"
     },
     {
       "id": "rfb-2026-10-07-dere130",
