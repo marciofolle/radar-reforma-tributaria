@@ -1,7 +1,37 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T11:06:40-03:00",
+  "atualizado_em": "2026-11-23T11:16:05-03:00",
   "itens": [
+    {
+      "id": "20261123-111343-217ff6",
+      "pergunta": "Como vai funcionar o recolhimento pelo adquirente (RAD) de IBS e CBS para empresas optantes pelo Simples Nacional?",
+      "resposta": "Para o optante do Simples, o efeito do RAD depende de como a empresa vai recolher IBS e CBS em 2027: dentro do DAS ou no regime regular (o chamado Simples híbrido). Também depende de a empresa estar comprando ou vendendo. Até agora, as fontes oficiais que consultamos não trazem regra específica do RAD para o Simples. Por isso, os pontos abaixo devem ser lidos com essa ressalva.\n\nRAD é a sigla de Recolhimento pelo Adquirente, modalidade opcional prevista na LC 214/2025. Nela, quem compra recolhe a CBS e o IBS da operação. O valor pago é abatido do débito do fornecedor e garante o crédito de quem comprou. A Receita Federal liberou em 17 de novembro a API do RAD. Nessa primeira etapa, ela permite consultar os recolhimentos de CBS feitos como adquirente e gerar o DARF correspondente. Segundo a imprensa, a Receita recomenda o RAD até o split payment estar consolidado, o que está previsto para outubro de 2027.\n\nA empresa do Simples que optou pelo regime regular do IBS e da CBS apura esses tributos fora do DAS, com débitos e créditos. Nesse caso, a lógica do RAD tende a ser a mesma das demais empresas do regime regular, tanto na compra quanto na venda. Essa opção pode ser cancelada até 20 de dezembro de 2026 (Resolução CGSN 194/2026), e o cancelamento não pode ser desfeito.\n\nA empresa que continua recolhendo IBS e CBS pelo DAS não aproveita créditos desses tributos nas compras. Por isso, na posição de compradora, o RAD não traz a vantagem que é o principal motivo de usá-lo. Na venda, o cliente do regime regular recebe crédito conforme o valor recolhido pelo Simples. Ainda não está confirmado se o RAD pode ser aplicado a compras de fornecedores que recolhem pelo DAS, nem como isso seria tratado.\n\nPara orientar um caso concreto, é preciso saber o regime de recolhimento escolhido para 2027, o tipo de operação e o perfil dos clientes e fornecedores.\n\nSituação em 23 de novembro de 2026.",
+      "fontes": [
+        {
+          "titulo": "Receita Federal: Virando a Chave para a Reforma Tributária – API para emissão do RAD já está disponível",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel"
+        },
+        {
+          "titulo": "Receita orienta empresas a começar já a usar o recolhimento pelo adquirente (RAD)",
+          "url": "https://www.reformatributaria.com/governo/receita-recomenda-que-empresas-iniciem-uso-do-rad-entenda/"
+        },
+        {
+          "titulo": "CRC-SP: CGSN altera prazos para opção pelo Simples Nacional e pelo regime regular do IBS e da CBS para 2027",
+          "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355"
+        },
+        {
+          "titulo": "Lei Complementar nº 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+        }
+      ],
+      "temas": [
+        "Simples Nacional",
+        "Split payment",
+        "Créditos"
+      ],
+      "publicada_em": "2026-11-23T14:15:26.632Z",
+      "atualizada_em": "2026-11-23T14:15:26.632Z"
+    },
     {
       "id": "20261123-103813-5dc7f9",
       "pergunta": "Uma transportadora optante pelo lucro presumido que contrata transportador autônomo de carga (TAC) terá direito a crédito de CBS em 2027?",
