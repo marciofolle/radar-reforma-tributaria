@@ -1,7 +1,41 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T11:43:59-03:00",
+  "atualizado_em": "2026-11-23T13:59:44-03:00",
   "itens": [
+    {
+      "id": "20261123-114425-91e519",
+      "pergunta": "O crédito de CBS na aquisição de diesel B deve ser calculado proporcionalmente, considerando as alíquotas específicas do diesel fóssil e do biodiesel, ou deve seguir uma única alíquota conforme o NCM do combustível comercializado?",
+      "resposta": "Pela lógica do regime monofásico, quem compra diesel B para uso próprio não recalcula a CBS pelo NCM do produto. O crédito, quando permitido, corresponde ao valor de CBS cobrado na cadeia e informado no documento fiscal de aquisição. Como o diesel B é uma mistura de diesel fóssil com biodiesel, e cada um tem alíquota específica, esse valor tende a refletir a proporção dos dois componentes. Ainda não consegui confirmar a regra exata de cálculo da mistura na lei e no regulamento.\n\nNa LC 214/2025, os combustíveis estão sujeitos à incidência única de IBS e CBS, com alíquotas fixas por unidade de medida. A Portaria MF nº 3.074/2026 divulgou as alíquotas da CBS: R$ 0,3515 por litro de diesel e R$ 0,1480 por litro de biodiesel B100, com efeitos a partir de janeiro de 2027. O Decreto 13.133/2026 delegou essa divulgação ao Ministro da Fazenda, dentro dos limites dos arts. 174 e 175 da LC 214/2025, e definiu que os biocombustíveis terão de 40% a 90% da alíquota do combustível fóssil.\n\nApenas para ilustrar: num diesel B hipotético com 15% de biodiesel, a média ponderada daria cerca de R$ 0,3210 por litro (0,85 × 0,3515 + 0,15 × 0,1480). Já aplicar só a alíquota do diesel a todo o volume daria R$ 0,3515 por litro. A diferença é relevante para quem consome muito combustível, como os transportadores.\n\nNa prática, o mais seguro é apropriar como crédito o valor de CBS informado na NF-e do fornecedor, nos campos da tributação monofásica, e não um valor recalculado pelo comprador. Também é preciso verificar se a atividade dá direito a crédito: a lei restringe o crédito na aquisição de combustível para revenda. A resposta depende do uso do combustível (consumo próprio ou revenda), do regime de apuração da empresa e do que constar no documento fiscal.\n\nSituação em 23 de novembro de 2026.",
+      "fontes": [
+        {
+          "titulo": "Lei Complementar nº 214/2025 (Planalto)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+        },
+        {
+          "titulo": "Decreto nº 13.133/2026: delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre combustíveis",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13133.htm"
+        },
+        {
+          "titulo": "Portaria MF nº 3.074/2026: alíquotas da CBS sobre combustíveis",
+          "url": "https://www.in.gov.br/web/dou/-/portaria-mf-n-3.074-de-9-de-outubro-de-2026-737756370"
+        },
+        {
+          "titulo": "NT 2025.002 v1.50: novo leiaute da tributação monofásica de combustíveis (TOTVS)",
+          "url": "https://www.totvs.com/blog/fiscal-clientes/reforma-tributaria-nt-2025-002-v1-50-com-novo-leiaute-da-tributacao-monofasica-de-combustiveis/"
+        },
+        {
+          "titulo": "Receita Federal: Reforma Tributária do Consumo",
+          "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo"
+        }
+      ],
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Setores"
+      ],
+      "publicada_em": "2026-11-23T16:59:18.857Z",
+      "atualizada_em": "2026-11-23T16:59:18.857Z"
+    },
     {
       "id": "20261123-113944-440833",
       "pergunta": "O ITCMD vai aumentar no Paraná? Ainda pode haver aumento em 2026?",
