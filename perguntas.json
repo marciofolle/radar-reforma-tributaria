@@ -1,5 +1,28 @@
 {
   "versao": 1,
-  "atualizado_em": null,
-  "itens": []
+  "atualizado_em": "2026-11-23T09:48:01-03:00",
+  "itens": [
+    {
+      "id": "manual-20261123-092531-mzlx",
+      "pergunta": "Que documento fiscal o Transportador Autônomo de Cargas (TAC) vai precisar emitir com a reforma tributária?",
+      "resposta": "Depende de como o TAC está enquadrado. Na regra geral, o TAC pessoa física que não é contribuinte do IBS e da CBS não passa a ser obrigado a emitir CT-e por causa da reforma. Já o TAC que opta pelo MEI ou que atua como empresa continua emitindo os documentos fiscais exigidos para o seu enquadramento. Nesses documentos passam a constar também os campos de IBS e CBS.\n\nA LC 214/2025 trata o transportador autônomo de carga pessoa física de forma própria. Quando ele não se inscreve como contribuinte do IBS e da CBS, não recolhe esses tributos sobre o frete. Para compensar, a lei prevê um crédito presumido para a empresa do regime regular que contrata o serviço. Por isso, na prática, a documentação da operação tende a ficar com quem contrata, seja a transportadora, seja o embarcador. Isso inclui o CT-e e o MDF-e, quando exigidos, além dos registros do contrato de frete.\n\nO MEI transportador e o TAC constituído como empresa (inclusive no Simples Nacional) continuam usando o CT-e no transporte intermunicipal e interestadual e a NFS-e no transporte dentro do mesmo município, conforme as regras de cada caso. O MDF-e segue as regras próprias de emissão.\n\nNão consegui confirmar, nas notícias recentes, se alguma nota técnica de CT-e ou algum regulamento de 2026 mudou a forma de documentar a contratação de TAC pessoa física. Também não confirmei se surgiu um documento novo, emitido por quem contrata, para dar suporte ao crédito presumido. Antes de mudar qualquer rotina, vale checar com o seu contador e com a Secretaria da Fazenda do seu estado.\n\nPara uma resposta exata, é preciso saber: se você atua como pessoa física, MEI ou empresa; se faz transporte municipal, intermunicipal ou interestadual; e se presta o serviço diretamente ao embarcador ou subcontratado por uma transportadora.\n\nSituação em 23 de novembro de 2026.",
+      "fontes": [
+        {
+          "titulo": "Lei Complementar nº 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+        },
+        {
+          "titulo": "Receita Federal: Reforma Tributária do Consumo",
+          "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo"
+        }
+      ],
+      "temas": [
+        "Transporte",
+        "Documentos fiscais",
+        "Créditos"
+      ],
+      "publicada_em": "2026-11-23T12:26:49.523Z",
+      "atualizada_em": "2026-11-23T12:30:55.590Z"
+    }
+  ]
 }

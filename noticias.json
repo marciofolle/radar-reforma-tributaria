@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T08:54:17-03:00",
+  "atualizado_em": "2026-11-23T09:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -39,6 +39,12 @@
       "titulo": "PLP 299/2026 (ajuste fiscal) — votação na Câmara",
       "detalhe": "Discussão começa na sessão de segunda (23); votação prevista para terça (24), a depender do fim da discussão. Senado concluiu em 18/11 (trava à compensação cruzada mantida; créditos de PIS/Cofins preservados para a CBS); relator Mauro Benevides Filho não fará mudanças, e o texto segue à sanção",
       "url": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
+    },
+    {
+      "data": "2026-11-24",
+      "titulo": "Câmara (CFT) — audiência pública sobre a alíquota de 11,3% da CBS",
+      "detalhe": "Comissão de Finanças e Tributação, 14h; pedido do dep. Hildo Rocha para examinar estudos e projeções do cálculo",
+      "url": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos"
     },
     {
       "data": "2026-11-30",
@@ -120,6 +126,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "camara-2026-11-23-comissao-debate-aliquota-base-cbs",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T09:58:00-03:00",
+      "titulo": "Comissão debate alíquota-base da Contribuição sobre Bens e Serviços",
+      "resumo": "A Comissão de Finanças e Tributação da Câmara faz audiência pública na terça (24/11), às 14h, sobre a alíquota de 11,3% da CBS. O pedido do deputado Hildo Rocha (MDB-MA) quer checar estudos técnicos, projeções de arrecadação e neutralidade, além de efeitos setoriais e nos preços.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos"
+    },
+    {
+      "id": "agenciabrasil-2026-11-23-portaria-rfb-763-piloto-cbs",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T09:58:00-03:00",
+      "titulo": "Portaria RFB 763 abre o piloto da CBS a qualquer empresa com CNPJ, sem indicação de entidades",
+      "resumo": "Publicada nesta segunda (23), a Portaria RFB nº 763/2026 dispensa indicação ou pedido prévio para o piloto da CBS; basta cumprir requisitos operacionais e de segurança e outorgar procuração digital. A Receita pode limitar acesso por volume, e a gestão passa à Cotec em janeiro de 2027.",
+      "fonte": "Agência Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias",
+        "Legislação"
+      ],
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas"
+    },
     {
       "id": "camara-2026-11-23-camara-deve-votar-ajuste-fiscal",
       "data": "2026-11-23",
