@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T07:54:35-03:00",
+  "atualizado_em": "2026-11-23T08:54:17-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -37,8 +37,8 @@
     {
       "data": "2026-11-24",
       "titulo": "PLP 299/2026 (ajuste fiscal) — votação na Câmara",
-      "detalhe": "Motta convocou sessão extraordinária na segunda (23) para a discussão; votação conclusiva prevista para terça (24). Senado concluiu em 18/11 (trava à compensação cruzada mantida; créditos de PIS/Cofins preservados para a CBS); relator Mauro Benevides Filho",
-      "url": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira"
+      "detalhe": "Discussão começa na sessão de segunda (23); votação prevista para terça (24), a depender do fim da discussão. Senado concluiu em 18/11 (trava à compensação cruzada mantida; créditos de PIS/Cofins preservados para a CBS); relator Mauro Benevides Filho não fará mudanças, e o texto segue à sanção",
+      "url": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
     },
     {
       "data": "2026-11-30",
@@ -120,6 +120,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "camara-2026-11-23-camara-deve-votar-ajuste-fiscal",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T08:54:17-03:00",
+      "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+      "resumo": "A Câmara inicia nesta segunda (23) a discussão do PLP 299/26, já aprovado pelo Senado, que corta incentivos tributários e limita a compensação de créditos contra o Fisco; o relator Mauro Benevides Filho não fará mudanças e o texto segue à sanção se aprovado.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
+    },
     {
       "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
       "data": "2026-11-21",
