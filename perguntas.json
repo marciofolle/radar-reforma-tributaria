@@ -1,7 +1,37 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T09:48:01-03:00",
+  "atualizado_em": "2026-11-23T11:06:40-03:00",
   "itens": [
+    {
+      "id": "20261123-103813-5dc7f9",
+      "pergunta": "Uma transportadora optante pelo lucro presumido que contrata transportador autônomo de carga (TAC) terá direito a crédito de CBS em 2027?",
+      "resposta": "Sim. A partir de 1º de janeiro de 2027, a transportadora do regime regular do IBS e da CBS que contrata frete de transportador autônomo de carga (TAC) pessoa física não contribuinte, ou inscrito como MEI, pode apropriar crédito presumido de CBS (e também de IBS) sobre esse serviço. O lucro presumido é regime do Imposto de Renda; para a CBS, a empresa fora do Simples Nacional fica no regime regular.\n\nA regra está no art. 169 da LC 214/2025. O crédito vale para quem contrata o serviço e suporta o custo do frete; não vale quando o frete já integra o valor de outra operação. O crédito presumido de CBS só pode ser usado para abater a CBS devida pela própria empresa.\n\nO valor depende de um percentual definido todo ano por ato conjunto do Ministro da Fazenda e do Comitê Gestor do IBS, calculado com base nos dados do ano anterior. Nas buscas feitas hoje não encontramos a publicação do percentual que valerá em 2027, então ainda não dá para projetar o valor exato do crédito.\n\nNa parte operacional, o documento fiscal precisa discriminar o valor da operação, o valor do crédito presumido e o valor líquido. No CT-e, o tomador registra o crédito por um evento próprio, previsto na NT 2026.004, cuja entrada em produção está marcada para 14 de dezembro de 2026. Além disso, o TAC pessoa física não contribuinte poderá operar só com CPF, sem CNPJ, até o fim de 2028.\n\nSe o TAC optar pelo regime regular do IBS e da CBS, ele deixa de se enquadrar nessa hipótese, e a transportadora passa a se creditar do tributo cobrado no documento dele, pelas regras gerais de crédito.\n\nPara confirmar o seu caso, é preciso saber como o TAC está enquadrado (pessoa física não contribuinte, MEI ou regime regular) e se a transportadora paga o frete diretamente.\n\nSituação em 23 de novembro de 2026.",
+      "fontes": [
+        {
+          "titulo": "Lei Complementar nº 214/2025 (art. 169)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm"
+        },
+        {
+          "titulo": "Portal DF-e SVRS: Tabela de Crédito Presumido (código 2, TAC)",
+          "url": "https://dfe-portal.svrs.rs.gov.br/CFF/TabelaCreditoPresumido"
+        },
+        {
+          "titulo": "Ato Conjunto RFB/CGIBS nº 8/2026 (dispensa de CNPJ para TAC)",
+          "url": "https://www.cgibs.gov.br/upload/arquivos/202611/18223257-ato-conjunto-n-8-2026-dispensa-cnpj-pf-2028-e-tac-assinado-1.pdf"
+        },
+        {
+          "titulo": "Contábeis: CT-e corrige schemas das NTs 2026.004 e 2026.005",
+          "url": "https://www.contabeis.com.br/noticias/80860/ct-e-corrige-schemas-das-nts-2026-004-e-2026-005/"
+        }
+      ],
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "CBS"
+      ],
+      "publicada_em": "2026-11-23T14:06:18.042Z",
+      "atualizada_em": "2026-11-23T14:06:18.042Z"
+    },
     {
       "id": "manual-20261123-092531-mzlx",
       "pergunta": "Que documento fiscal o Transportador Autônomo de Cargas (TAC) vai precisar emitir com a reforma tributária?",
