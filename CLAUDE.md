@@ -3,8 +3,8 @@
 Este repositório é o site https://www.radardareformatributaria.info (GitHub Pages, branch `main`).
 Quando pedirem para **atualizar o radar**, siga este procedimento sem fazer perguntas.
 
-Arquivos que a rotina altera: `noticias.json` e o bloco `<script type="application/json" id="seed">` do `index.html`.
-Não altere: layout do `index.html`, `CNAME`, `.nojekyll`, `og-image.png`, `favicon.svg`, `robots.txt`, `sitemap.xml`, `README.md`, este arquivo.
+Arquivos que a rotina altera: `noticias.json`, o bloco `<script type="application/json" id="seed">` do `index.html` e `perguntas.json` (seção 6).
+Não altere: layout do `index.html`, `perguntas.html`, `scripts/`, `apps-script/`, `CNAME`, `.nojekyll`, `og-image.png`, `favicon.svg`, `robots.txt`, `sitemap.xml`, `README.md`, este arquivo.
 
 ## 1. Estado atual
 - Leia `noticias.json` e anote `atualizado_em` (última atualização).
@@ -62,13 +62,46 @@ Se uma página não abrir, use WebSearch com `allowed_domains` do domínio.
 1. Insira os itens, ordene por data desc., descarte > 120 dias, limite 300. `atualizado_em` = agora (ISO -03:00). Remova o campo `publicacao` se existir.
 2. Valide com python (`json.load`; todo item com data, titulo, url http(s), tipo válido, temas).
 3. Grave `noticias.json` (indent=2, ensure_ascii=False) e substitua só o conteúdo do `<script type="application/json" id="seed">` no `index.html` pelo JSON minificado (`separators=(',',':')`, trocando `</` por `<\/`).
-4. Commit e push:
+4. Faça a seção 6 (Perguntas e respostas) antes do commit, para que `perguntas.json` entre no mesmo commit.
+5. Commit e push:
    ```
-   git add noticias.json index.html
+   git add noticias.json index.html perguntas.json
    git -c user.name="Radar Funcional (Claude)" -c user.email="noreply@anthropic.com" commit -m "Atualiza radar: <AAAA-MM-DD HH:MM> (<n> novos, <b> buscas)"
    git fetch origin main:refs/remotes/origin/main && git rebase origin/main
    git push origin HEAD:main
    git ls-remote origin refs/heads/main   # deve mostrar o hash do seu commit
    ```
-5. Se as ferramentas de artifact estiverem disponíveis, publique os mesmos dados no artifact `3fd9514b-0dc3-4875-97e6-54bc70be7075` (publish_files, mode "patch", noticias.json + index.html do artifact com o seed atualizado; não use o index.html deste repositório lá).
-6. Encerre com um resumo curto: itens novos (oficiais/imprensa/entidades e quantos de Transporte), destaques, mudanças em indicadores/prazos e o hash do commit.
+   Se houve mudança em `perguntas.json`, acrescente ao fim da mensagem do commit `, <p> perguntas publicadas`.
+6. Depois do push confirmado, termine a seção 6 (passo 6.5).
+7. Se as ferramentas de artifact estiverem disponíveis, publique os mesmos dados no artifact `3fd9514b-0dc3-4875-97e6-54bc70be7075` (publish_files, mode "patch", noticias.json + index.html do artifact com o seed atualizado; não use o index.html deste repositório lá).
+8. Encerre com um resumo curto: itens novos (oficiais/imprensa/entidades e quantos de Transporte), destaques, mudanças em indicadores/prazos, perguntas (importadas, rascunhadas, publicadas no site) e o hash do commit.
+
+## 6. Perguntas e respostas
+O site tem `perguntas.html`, que lista as respostas de `perguntas.json` e envia perguntas novas a um receptor no Google Apps Script. A equipe revisa e publica as respostas no **Painel de Perguntas**, um artifact com banco de dados: `https://claude.ai/artifact/EBhjK27ztZ1VRmWZshdcGS` (abaixo, PAINEL). O banco do PAINEL é lido e gravado com a ferramenta `ArtifactData` (carregue com ToolSearch `select:ArtifactData`). Se `ArtifactData` não existir nesta sessão, pule a seção inteira e diga isso no resumo.
+
+Documento `perguntas/<id>`: `texto` (original), `pergunta` (versão para publicar), `nome`, `email`, `origem`, `recebidaEm`, `status` ("nova" | "rascunho" | "publicada" | "arquivada"), `resposta`, `fontes` [{titulo,url}], `temas`, `rascunho` {origem, em, pontos[]}, `editadoEm`, `editadoPor`, `publicadaEm`, `noSiteEm`. Datas gravadas pela rotina em ISO **UTC com Z** (ex.: `2026-11-23T12:30:00Z`), o mesmo formato que o painel usa, porque o painel compara essas datas como texto.
+
+Pasta de trabalho: `$W` = o scratchpad da sessão (nunca dentro do repositório). Nunca grave `nome` ou `email` em arquivo do repositório nem no resumo.
+
+**6.1 Ler o painel.** `ArtifactData` action "list", collection "perguntas", `query.limit` 1000, `out_dir` `$W/painel`. Anote o `version` de cada documento que a listagem informa (os arquivos salvos não trazem a versão).
+
+**6.2 Importar perguntas novas do site.** O endereço do receptor é a constante `ENDPOINT` em `perguntas.html`. A chave de leitura vem no prompt da rotina, como `CHAVE_PERGUNTAS`. Se `ENDPOINT` estiver vazio ou a chave não vier no prompt, pule este passo.
+   ```
+   curl -sL "<ENDPOINT>?chave=<CHAVE_PERGUNTAS>" -o $W/recebidas.json
+   python3 scripts/perguntas_sync.py importar $W/recebidas.json $W/painel/perguntas $W/novas
+   ```
+   Para os ids listados em `novas`, faça um `ArtifactData` "batch" com uma entrada `{op:"set", collection:"perguntas", doc_id:<id>, file_path:"$W/novas/<id>.json"}` por pergunta, sem `if_version` (até 50 por batch). Se o curl falhar ou a resposta não tiver `"ok":true`, registre no resumo e siga.
+
+**6.3 Rascunho pesquisado (no máximo 3 por rodada, as mais antigas primeiro).** Para cada documento com `status` "nova" e `resposta` vazia, incluindo os recém-importados:
+   - Pesquise com WebSearch/WebFetch, priorizando fontes oficiais (Planalto, Receita Federal, CGIBS, CGSN, portais NF-e/CT-e) e depois as notícias de `noticias.json`. Toda URL citada precisa ter vindo de um resultado de ferramenta. Nunca invente URL, artigo, alíquota ou data.
+   - Escreva a `resposta`: português do Brasil, 120 a 350 palavras, parágrafos de texto puro separados por linha em branco, sem markdown. Comece respondendo em uma ou duas frases. Cite dispositivos legais (ex.: "art. 169 da LC 214/2025") só quando tiver confirmado. Se depender de detalhes do caso, diga quais. Feche com "Situação em <data de hoje por extenso>."
+   - `pergunta`: reescreva o texto sem nomes de pessoas ou empresas, CNPJ ou dados pessoais, mantendo o sentido.
+   - `fontes`: 1 a 4 links usados. `temas`: 1 a 3 da lista da seção 3 (frete/CT-e/TAC ⇒ "Transporte").
+   - Se a pergunta for spam, ofensiva ou fora do tema, não rascunhe: deixe `resposta` vazia e ponha em `rascunho.pontos` a sugestão de arquivar.
+   - Grave com `ArtifactData` "update" e `if_version` igual à versão lida: `{pergunta, resposta, fontes, temas, rascunho:{origem:"pesquisa-rotina", em:<agora UTC Z>, pontos:[o que o revisor deve conferir]}}`. **Não mude `status`**: a pergunta continua "nova" até alguém da equipe revisar. Se o `if_version` falhar, alguém editou: deixe como está.
+
+**6.4 Atualizar o site.** Releia o painel como em 6.1 (anote de novo as versões, que mudaram com as gravações de 6.2 e 6.3) e rode `python3 scripts/perguntas_sync.py site $W/painel/perguntas`. O script regrava `perguntas.json` só com as perguntas de status "publicada" (sem nome nem e-mail). Ele informa `mudou`, quantas estão publicadas e a lista `marcar_no_site`. Se `mudou` for true, `perguntas.json` entra no commit da seção 5. Perguntas despublicadas ou arquivadas saem do site automaticamente.
+
+**6.5 Depois do push confirmado.**
+   - Para cada id em `marcar_no_site`: `ArtifactData` "update" `{noSiteEm:<agora UTC Z>}`, com o `if_version` da releitura de 6.4. Isso faz o painel mostrar "no site desde…". Se o `if_version` falhar, deixe para a próxima rodada.
+   - Atualize a base de consulta do Claude no painel: `python3 scripts/perguntas_sync.py contexto $W/contexto.json` e `ArtifactData` "set" collection "contexto", doc_id "noticias", `file_path` `$W/contexto.json`. Leia antes o documento (action "get") para obter o `if_version`; se ele não existir, grave sem `if_version`.
