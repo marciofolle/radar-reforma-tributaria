@@ -1,7 +1,23 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T11:16:05-03:00",
+  "atualizado_em": "2026-11-23T11:43:59-03:00",
   "itens": [
+    {
+      "id": "20261123-113944-440833",
+      "pergunta": "O ITCMD vai aumentar no Paraná? Ainda pode haver aumento em 2026?",
+      "resposta": "Um aumento do ITCMD no Paraná valendo ainda em 2026 não é juridicamente possível. A Constituição só permite cobrar um tributo majorado no ano seguinte ao da lei que o aumentou. Se 2027 terá aumento depende do que a Assembleia Legislativa aprovar até o fim deste ano, e eu não consegui confirmar a existência de projeto nesse sentido.\n\nO ITCMD é o imposto estadual sobre herança e doação. Ele segue as regras de anterioridade do art. 150, III, \"b\" e \"c\", da Constituição. A lei que aumenta o imposto só produz efeito a partir de 1º de janeiro do ano seguinte ao da sua publicação, e precisa respeitar também um prazo mínimo de 90 dias. Assim, um aumento cobrado em 2026 precisaria de lei publicada até 2025. Uma lei publicada agora, no fim de novembro, só valeria a partir do fim de fevereiro de 2027, quando se completam os 90 dias.\n\nO ponto de atenção vem da EC 132/2023. Ela alterou o art. 155, § 1º, da Constituição e passou a exigir que o ITCMD seja progressivo conforme o valor da herança ou da doação. Na prática, estados com alíquota única precisam criar faixas. Isso pode significar alíquotas maiores para patrimônios mais altos, sempre limitadas pelo teto fixado pelo Senado Federal. Por isso, vários estados revisaram suas leis desde 2024. Nas fontes consultadas, não encontrei notícia de lei ou projeto recente do Paraná sobre o tema.\n\nQuem planeja doação ou sucessão deve acompanhar o Diário Oficial do Estado e a Assembleia Legislativa até 31 de dezembro. Uma lei publicada até essa data pode valer em 2027, depois do prazo de 90 dias. A análise de cada caso depende do valor dos bens, da natureza dos bens (imóveis, quotas, aplicações) e da data prevista para a transmissão. Lembramos que o ITCMD não faz parte da reforma do consumo (IBS, CBS e Imposto Seletivo), embora tenha sido alterado pela mesma emenda.\n\nSituação em 23 de novembro de 2026.",
+      "fontes": [
+        {
+          "titulo": "Emenda Constitucional nº 132/2023",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm"
+        }
+      ],
+      "temas": [
+        "Legislação"
+      ],
+      "publicada_em": "2026-11-23T14:43:37.749Z",
+      "atualizada_em": "2026-11-23T14:43:37.749Z"
+    },
     {
       "id": "20261123-111343-217ff6",
       "pergunta": "Como vai funcionar o recolhimento pelo adquirente (RAD) de IBS e CBS para empresas optantes pelo Simples Nacional?",
