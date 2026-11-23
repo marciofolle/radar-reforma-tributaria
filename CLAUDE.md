@@ -104,4 +104,19 @@ Pasta de trabalho: `$W` = o scratchpad da sessão (nunca dentro do repositório)
 
 **6.5 Depois do push confirmado.**
    - Para cada id em `marcar_no_site`: `ArtifactData` "update" `{noSiteEm:<agora UTC Z>}`, com o `if_version` da releitura de 6.4. Isso faz o painel mostrar "no site desde…". Se o `if_version` falhar, deixe para a próxima rodada.
-   - Atualize a base de consulta do Claude no painel: `python3 scripts/perguntas_sync.py contexto $W/contexto.json` e `ArtifactData` "set" collection "contexto", doc_id "noticias", `file_path` `$W/contexto.json`. Leia antes o documento (action "get") para obter o `if_version`; se ele não existir, grave sem `if_version`.
+   - Atualize a base de consulta do Claude no painel (só na rotina do radar): `python3 scripts/perguntas_sync.py contexto $W/contexto.json` e `ArtifactData` "set" collection "contexto", doc_id "noticias", `file_path` `$W/contexto.json`. Leia antes o documento (action "get") para obter o `if_version`; se ele não existir, grave sem `if_version`.
+
+**6.6 Rotina "Perguntas: sincronizar painel e site" (execução avulsa).** Essa rotina é acionada pelo receptor a cada pergunta enviada e a cada clique em "Publicar"/"Despublicar" no painel, e também roda de hora em hora. Ela NÃO atualiza o radar de notícias. Ordem, para o painel e o site refletirem as mudanças o quanto antes:
+   1. 6.1 e 6.2 (ler o painel e importar as perguntas novas).
+   2. 6.4 (gerar `perguntas.json`). Se `mudou` for true, faça commit e push só desse arquivo:
+      ```
+      git add perguntas.json
+      git -c user.name="Radar Funcional (Claude)" -c user.email="noreply@anthropic.com" commit -m "Perguntas: <p> publicadas no site"
+      git fetch origin main:refs/remotes/origin/main && git rebase origin/main
+      git push origin HEAD:main
+      git ls-remote origin refs/heads/main   # deve mostrar o hash do seu commit
+      ```
+      Se o rebase der conflito em `perguntas.json` (outra rodada publicou ao mesmo tempo): `git rebase --abort`, `git reset --hard origin/main`, repita 6.1 e 6.4 e faça o commit de novo.
+   3. 6.5, só a parte do `noSiteEm` (a base de notícias fica com a rotina do radar).
+   4. 6.3 (rascunhos), por último.
+   Termine com uma linha: importadas, publicadas no site (e hash do commit, se houve), rascunhadas, erros.
