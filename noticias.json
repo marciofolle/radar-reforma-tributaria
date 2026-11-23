@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T18:54:40-03:00",
+  "atualizado_em": "2026-11-23T19:54:29-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -132,6 +132,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-23-cgibs-comite-harmonizacao",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T19:54:29-03:00",
+      "titulo": "Comitê Gestor indica seus quatro nomes e completa o Comitê de Harmonização do IBS e da CBS",
+      "resumo": "A Portaria CGIBS nº 13/2026 designa dois representantes dos estados e dois dos municípios no colegiado previsto na LC 214/2025, que já tinha os quatro titulares da Receita desde outubro. O órgão uniformiza interpretações e obrigações acessórias comuns ao IBS e à CBS, com resoluções vinculantes.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/iva/comite-gestor-do-ibs-indica-membros-que-farao-harmonizacao-tributaria-com-a-cbs/"
+    },
+    {
+      "id": "contabeis-2026-11-23-credito-cbs-devolucao-2027",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T19:54:29-03:00",
+      "titulo": "Mercadoria vendida em 2026 e devolvida em 2027 gera crédito de CBS no valor do PIS/Cofins pago",
+      "resumo": "Pelo art. 379 da LC 214/2025, repetido no art. 603 do Decreto 12.955/2026, a devolução a partir de 1º/1/2027 de venda feita até 31/12/2026 dá crédito de CBS igual ao PIS/Cofins da operação original, usável só contra a própria CBS, sem ressarcimento.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/"
+    },
     {
       "id": "infomoney-2026-11-23-camara-urgencia-ajuste-fiscal",
       "data": "2026-11-23",
