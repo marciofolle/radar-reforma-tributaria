@@ -15,6 +15,7 @@
  *     clique em Generate token e copie o token. Em Propriedades do script, adicione:
  *       ROTINA_URL   = a Fire URL
  *       ROTINA_TOKEN = o token
+ *       CHAVE_PUBLICAR = a chave do botão "Publicar" do painel (a mesma da constante no painel)
  *     Depois rode a função testarDisparo uma vez pelo editor (autorize o acesso pedido)
  *     e publique uma nova versão da implantação (Gerenciar implantações > lápis > Nova versão).
  *
@@ -36,6 +37,15 @@ function aba_() {
     sh.setFrozenRows(1);
   }
   return sh;
+}
+
+function pagina_(titulo, texto) {
+  const h = '<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' +
+    '<title>' + titulo + '</title><body style="font:16px system-ui,sans-serif;background:#F1F2F2;color:#2B2B2B;margin:0;display:grid;place-items:center;min-height:100vh">' +
+    '<div style="background:#fff;border-radius:14px;padding:28px 32px;max-width:420px;box-shadow:0 6px 20px rgba(20,40,70,.08);border-top:5px solid #64BFB2">' +
+    '<h1 style="font-size:19px;color:#1E3863;margin:0 0 8px">' + titulo + '</h1><p style="margin:0;line-height:1.5">' + texto + '</p></div>' +
+    '<script>setTimeout(function(){try{window.close()}catch(e){}},4000)</script>';
+  return HtmlService.createHtmlOutput(h).setTitle(titulo);
 }
 
 function json_(obj) {
@@ -140,6 +150,17 @@ function testarDisparo() {
 function doGet(e) {
   const chave = PropertiesService.getScriptProperties().getProperty('CHAVE');
   const p = (e && e.parameter) || {};
+
+  // Botão "Publicar" do painel: aciona a rotina para levar a resposta ao site.
+  if (p.acao === 'publicar') {
+    const chavePub = PropertiesService.getScriptProperties().getProperty('CHAVE_PUBLICAR');
+    if (!chavePub || p.chave !== chavePub) return pagina_('Link inválido', 'Este link de publicação não é válido.');
+    const lock = LockService.getScriptLock();
+    lock.waitLock(10000);
+    try { agendarDisparo_('publicacao'); } finally { lock.releaseLock(); }
+    return pagina_('Site sendo atualizado', 'A resposta entra no site em 2 a 4 minutos. Pode fechar esta aba e voltar ao painel.');
+  }
+
   if (!chave || p.chave !== chave) return json_({ ok: false, erro: 'acesso negado' });
 
   const linhas = aba_().getDataRange().getValues().slice(1);
