@@ -10,14 +10,22 @@
  *       Executar como: Eu  |  Quem pode acessar: Qualquer pessoa.
  *     Autorize e copie a URL que termina em /exec.
  *  5. Cole essa URL na constante ENDPOINT do perguntas.html.
+ *  6. (Painel atualizado a cada envio) Em claude.ai/code/routines, abra a rotina
+ *     "Perguntas: importar ao receber" > Editar > Trigger "+" > API. Copie a Fire URL,
+ *     clique em Generate token e copie o token. Em Propriedades do script, adicione:
+ *       ROTINA_URL   = a Fire URL
+ *       ROTINA_TOKEN = o token
+ *     Depois rode a função testarDisparo uma vez pelo editor (autorize o acesso pedido)
+ *     e publique uma nova versão da implantação (Gerenciar implantações > lápis > Nova versão).
  *
- * POST (site público): grava uma linha na aba "Perguntas".
+ * POST (site público): grava uma linha na aba "Perguntas" e aciona a rotina.
  * GET  (rotina do radar, com ?chave=...): devolve as perguntas em JSON.
  */
 
 const ABA = 'Perguntas';
 const CABECALHO = ['id', 'recebida_em', 'pergunta', 'nome', 'email', 'origem'];
 const LIMITE_DIARIO = 300; // trava contra robôs: no máximo 300 envios por dia
+const INTERVALO_DISPARO_MS = 2 * 60 * 1000; // no máximo um disparo da rotina a cada 2 minutos
 
 function aba_() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
@@ -65,10 +73,68 @@ function doPost(e) {
 
     const id = Utilities.formatDate(new Date(), 'America/Sao_Paulo', 'yyyyMMdd-HHmmss') + '-' + Utilities.getUuid().slice(0, 6);
     aba_().appendRow([id, new Date(), pergunta, limpa_(dados.nome, 80), limpa_(dados.email, 120), limpa_(dados.origem, 200)]);
+    try { agendarDisparo_(id); } catch (err) { console.error('Disparo da rotina: ' + err); }
     return json_({ ok: true, id: id });
   } finally {
     lock.releaseLock();
   }
+}
+
+/* ---------- Aciona a rotina "Perguntas: importar ao receber" ---------- */
+
+// Junta os envios: dispara na hora se o último disparo foi há mais de 2 minutos;
+// senão agenda um disparo único para quando o intervalo vencer.
+function agendarDisparo_(id) {
+  const props = PropertiesService.getScriptProperties();
+  if (!props.getProperty('ROTINA_URL') || !props.getProperty('ROTINA_TOKEN')) return;
+  const pend = JSON.parse(props.getProperty('PENDENTES') || '[]');
+  pend.push(id);
+  props.setProperty('PENDENTES', JSON.stringify(pend.slice(-50)));
+  const espera = INTERVALO_DISPARO_MS - (Date.now() - Number(props.getProperty('ULTIMO_DISPARO') || 0));
+  if (espera <= 0) { dispararRotina(); return; }
+  if (!props.getProperty('DISPARO_AGENDADO')) {
+    ScriptApp.newTrigger('dispararRotina').timeBased().after(espera + 5000).create();
+    props.setProperty('DISPARO_AGENDADO', String(Date.now()));
+  }
+}
+
+function dispararRotina() {
+  const props = PropertiesService.getScriptProperties();
+  ScriptApp.getProjectTriggers().forEach(function (t) {
+    if (t.getHandlerFunction() === 'dispararRotina') ScriptApp.deleteTrigger(t);
+  });
+  props.deleteProperty('DISPARO_AGENDADO');
+  const pend = JSON.parse(props.getProperty('PENDENTES') || '[]');
+  const url = props.getProperty('ROTINA_URL'), token = props.getProperty('ROTINA_TOKEN');
+  if (!pend.length || !url || !token) return;
+  const resp = UrlFetchApp.fetch(url, {
+    method: 'post',
+    contentType: 'application/json',
+    headers: {
+      'Authorization': 'Bearer ' + token,
+      'anthropic-beta': 'experimental-cc-routine-2026-04-01',
+      'anthropic-version': '2023-06-01'
+    },
+    payload: JSON.stringify({ text: 'Perguntas recém-enviadas (ids): ' + pend.join(', ') }),
+    muteHttpExceptions: true
+  });
+  const codigo = resp.getResponseCode();
+  props.setProperty('ULTIMO_DISPARO', String(Date.now()));
+  props.setProperty('ULTIMO_RESULTADO', new Date().toISOString() + ' HTTP ' + codigo + ' ' + resp.getContentText().slice(0, 300));
+  if (codigo >= 200 && codigo < 300) props.setProperty('PENDENTES', '[]');
+}
+
+// Rode pelo editor para autorizar e testar o disparo. O resultado aparece no registro de execução.
+function testarDisparo() {
+  const props = PropertiesService.getScriptProperties();
+  if (!props.getProperty('ROTINA_URL') || !props.getProperty('ROTINA_TOKEN')) {
+    console.log('Faltam as propriedades ROTINA_URL e/ou ROTINA_TOKEN.');
+    return;
+  }
+  props.setProperty('PENDENTES', JSON.stringify(['teste-manual']));
+  props.deleteProperty('ULTIMO_DISPARO');
+  dispararRotina();
+  console.log(props.getProperty('ULTIMO_RESULTADO'));
 }
 
 function doGet(e) {
