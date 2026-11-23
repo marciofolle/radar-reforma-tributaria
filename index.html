@@ -180,6 +180,16 @@
     .wrap{padding:0 16px}
   }
   @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+
+  /* ---------- Acesso a Perguntas e respostas ---------- */
+  .hero-cta{display:inline-flex;align-items:center;gap:8px;margin-top:16px;background:var(--teal);color:var(--navy3);font:700 14px Montserrat,sans-serif;padding:10px 18px;border-radius:999px;text-decoration:none;transition:background .2s}
+  .hero-cta:hover{background:#7FCDC2}
+  .hero-cta:focus-visible{outline:2px solid #fff;outline-offset:2px}
+  .hero-cta svg{flex:0 0 auto}
+  aside .box.ask{background:var(--teal-soft);box-shadow:inset 4px 0 0 var(--teal),var(--shadow)}
+  aside .ask p{font-size:14px;margin:0 0 14px;color:var(--text)}
+  aside .ask a.btn{display:inline-block;background:var(--navy);color:#fff;text-decoration:none;font:700 13px Montserrat,sans-serif;padding:9px 16px;border-radius:999px}
+  aside .ask a.btn:hover{background:var(--navy2)}
 </style>
 
 </head>
@@ -195,6 +205,7 @@
       <h1>Radar da<b>Reforma Tributária</b></h1>
       <p class="lead">Atualizações da Receita Federal, Comitê Gestor do IBS, portais da NF-e e do CT-e, Fazenda e Congresso, somadas à imprensa especializada, aos conselhos de contabilidade e às entidades do transporte.</p>
       <div class="updated" id="updated"></div>
+      <a class="hero-cta" href="perguntas.html"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/><path d="M9.8 9.5a2.3 2.3 0 0 1 4.4.8c0 1.5-2.2 2-2.2 3.2"/><path d="M12 16.3h.01"/></svg>Perguntas e respostas: envie sua dúvida</a>
     </div>
     <div class="kpis" id="kpis"></div>
   </div>
@@ -227,6 +238,11 @@
     </section>
 
     <aside>
+      <div class="box ask">
+        <h3>Tem uma dúvida sobre a reforma?</h3>
+        <p>Envie sua pergunta sobre IBS, CBS, Imposto Seletivo ou documentos fiscais. A equipe da Funcional pesquisa, revisa e publica a resposta.</p>
+        <a class="btn" href="perguntas.html">Ver perguntas e respostas</a>
+      </div>
       <div class="box">
         <h3>Fontes oficiais monitoradas</h3>
         <ul id="sources"></ul>
