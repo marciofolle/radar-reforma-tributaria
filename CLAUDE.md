@@ -79,7 +79,7 @@ Se uma página não abrir, use WebSearch com `allowed_domains` do domínio.
 ## 6. Perguntas e respostas
 O site tem `perguntas.html`, que lista as respostas de `perguntas.json` e envia perguntas novas a um receptor no Google Apps Script. A equipe revisa e publica as respostas no **Painel de Perguntas**, um artifact com banco de dados: `https://claude.ai/artifact/EBhjK27ztZ1VRmWZshdcGS` (abaixo, PAINEL). O banco do PAINEL é lido e gravado com a ferramenta `ArtifactData` (carregue com ToolSearch `select:ArtifactData`). Se `ArtifactData` não existir nesta sessão, pule a seção inteira e diga isso no resumo.
 
-Documento `perguntas/<id>`: `texto` (original), `pergunta` (versão para publicar), `nome`, `email`, `origem`, `recebidaEm`, `status` ("nova" | "rascunho" | "publicada" | "arquivada"), `resposta`, `fontes` [{titulo,url}], `temas`, `rascunho` {origem, em, pontos[]}, `editadoEm`, `editadoPor`, `publicadaEm`, `noSiteEm`. Datas gravadas pela rotina em ISO **UTC com Z** (ex.: `2026-11-23T12:30:00Z`), o mesmo formato que o painel usa, porque o painel compara essas datas como texto.
+Documento `perguntas/<id>`: `texto` (original), `pergunta` (versão para publicar), `nome`, `email`, `origem`, `recebidaEm`, `status` ("nova" | "rascunho" | "publicada" | "arquivada"), `resposta`, `fontes` [{titulo,url,trecho}], `temas`, `rascunho` {origem, em, pontos[]}, `editadoEm`, `editadoPor`, `publicadaEm`, `noSiteEm`. Datas gravadas pela rotina em ISO **UTC com Z** (ex.: `2026-11-23T12:30:00Z`), o mesmo formato que o painel usa, porque o painel compara essas datas como texto.
 
 Pasta de trabalho: `$W` = o scratchpad da sessão (nunca dentro do repositório). Nunca grave `nome` ou `email` em arquivo do repositório nem no resumo.
 
@@ -96,7 +96,8 @@ Pasta de trabalho: `$W` = o scratchpad da sessão (nunca dentro do repositório)
    - Pesquise com WebSearch/WebFetch, priorizando fontes oficiais (Planalto, Receita Federal, CGIBS, CGSN, portais NF-e/CT-e) e depois as notícias de `noticias.json`. Toda URL citada precisa ter vindo de um resultado de ferramenta. Nunca invente URL, artigo, alíquota ou data.
    - Escreva a `resposta`: português do Brasil, 120 a 350 palavras, parágrafos de texto puro separados por linha em branco, sem markdown. Comece respondendo em uma ou duas frases. Cite dispositivos legais (ex.: "art. 169 da LC 214/2025") só quando tiver confirmado. Se depender de detalhes do caso, diga quais. Feche com "Situação em <data de hoje por extenso>."
    - `pergunta`: reescreva o texto sem nomes de pessoas ou empresas, CNPJ ou dados pessoais, mantendo o sentido.
-   - `fontes`: 1 a 4 links usados. `temas`: 1 a 3 da lista da seção 3 (frete/CT-e/TAC ⇒ "Transporte").
+   - `fontes`: 1 a 4 links usados, cada um `{titulo, url, trecho}`. O `trecho` (até ~1.500 caracteres) traz o conteúdo da fonte que sustenta a resposta: o dispositivo legal transcrito, no caso de lei, ato ou nota técnica, ou um resumo fiel dos pontos usados, com no máximo uma citação curta, no caso de imprensa ou entidade. Ele fica só no painel (o site publica apenas título e link) e serve de base quando a equipe pede "Refazer com Claude".
+   - `temas`: 1 a 3 da lista da seção 3 (frete/CT-e/TAC ⇒ "Transporte").
    - Se a pergunta for spam, ofensiva ou fora do tema, não rascunhe: deixe `resposta` vazia e ponha em `rascunho.pontos` a sugestão de arquivar.
    - Grave com `ArtifactData` "update" e `if_version` igual à versão lida: `{pergunta, resposta, fontes, temas, rascunho:{origem:"pesquisa-rotina", em:<agora UTC Z>, pontos:[o que o revisor deve conferir]}}`. **Não mude `status`**: a pergunta continua "nova" até alguém da equipe revisar. Se o `if_version` falhar, alguém editou: deixe como está.
 
