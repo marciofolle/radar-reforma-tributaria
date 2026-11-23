@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T10:55:08-03:00",
+  "atualizado_em": "2026-11-23T11:54:08-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -170,6 +170,20 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
+    },
+    {
+      "id": "reformatributaria-2026-11-23-plp-299-art-6f-camara",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T11:54:08-03:00",
+      "titulo": "Artigo: Câmara pode derrubar artigo do ajuste fiscal que deixa o governo travar compensações e o caixa das empresas",
+      "resumo": "Advogados defendem que os deputados rejeitem o art. 6º-F do PLP 299/2026, que permite ao Executivo limitar a compensação de créditos federais sem piso nem prazo. O Senado manteve o trecho por 49 a 31; o ganho estimado, de R$ 12,8 bi a R$ 18,3 bi, sairia do capital de giro dos contribuintes.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/opiniao/deputados-rejeitar-proposta-governo-trava-caixa-empresas/"
     },
     {
       "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
