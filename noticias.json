@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T07:53:59-03:00",
+  "atualizado_em": "2026-11-24T08:53:28-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -77,6 +77,12 @@
       "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355"
     },
     {
+      "data": "2026-12-31",
+      "titulo": "Simples Nacional — fim do regime de caixa (Res. CGSN 196/2026)",
+      "detalhe": "Valores de operações de 2026 ainda não recebidos em 31/12 devem entrar na apuração de dezembro de 2026; a partir de 2027 a receita é reconhecida pelo faturamento",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
+    },
+    {
       "data": "2027-01-01",
       "titulo": "Início da cobrança da CBS",
       "detalhe": "CBS substitui PIS/Cofins; IBS a 0,1%",
@@ -141,6 +147,22 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+    },
+    {
+      "id": "receita-2026-11-24-cgsn-196-simples-transicao",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T08:53:28-03:00",
+      "titulo": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+      "resumo": "A Resolução CGSN 196/2026 atualiza as tabelas do Simples com a entrada gradual de CBS e IBS a partir de 2027, adota a receita pelo faturamento (emissão do documento fiscal) e exige identificar vendas a órgãos públicos; valores de 2026 não recebidos até 31/12 entram na apuração de dezembro.",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal / CGSN",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "Legislação",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
