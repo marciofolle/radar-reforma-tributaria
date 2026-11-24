@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T22:53:41-03:00",
+  "atualizado_em": "2026-11-23T23:54:16-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -185,6 +185,20 @@
       "url": "https://www.contabeis.com.br/noticias/81066/devolucao-em-2027-garante-credito-de-cbs-sobre-venda-de-2026/"
     },
     {
+      "id": "dgabc-2026-11-23-galipolo-bc-reforma-aliquota",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T13:55:02-03:00",
+      "titulo": "Galípolo diz que o BC só vai medir o efeito da reforma nos preços depois que a alíquota da CBS for definida",
+      "resumo": "O presidente do Banco Central afirmou que a reforma tributária só entrará nas projeções do BC quando a alíquota da CBS estiver aprovada de forma definitiva, porque o impacto depende de quanto do tributo será repassado aos preços e em que momento do ciclo.",
+      "fonte": "Diário do Grande ABC",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.dgabc.com.br/Noticia/4370245/galipolo-reforma-tributaria-so-entrara-na-avaliacao-do-bc-quando-houver-aliquota"
+    },
+    {
       "id": "infomoney-2026-11-23-camara-urgencia-ajuste-fiscal",
       "data": "2026-11-23",
       "adicionado_em": "2026-11-23T12:54:22-03:00",
@@ -256,20 +270,6 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes"
-    },
-    {
-      "id": "dgabc-2026-11-23-galipolo-bc-reforma-aliquota",
-      "data": "2026-11-23",
-      "adicionado_em": "2026-11-23T13:55:02-03:00",
-      "titulo": "Galípolo diz que o BC só vai medir o efeito da reforma nos preços depois que a alíquota da CBS for definida",
-      "resumo": "O presidente do Banco Central afirmou que a reforma tributária só entrará nas projeções do BC quando a alíquota da CBS estiver aprovada de forma definitiva, porque o impacto depende de quanto do tributo será repassado aos preços e em que momento do ciclo.",
-      "fonte": "Diário do Grande ABC",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.dgabc.com.br/Noticia/4370245/galipolo-reforma-tributaria-so-entrara-na-avaliacao-do-bc-quando-houver-aliquota"
     },
     {
       "id": "contabeis-2026-11-21-rotina-escritorios-contabeis-2027",
