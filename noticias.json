@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T23:54:16-03:00",
+  "atualizado_em": "2026-11-24T00:54:03-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -30,9 +30,9 @@
   "prazos": [
     {
       "data": "2026-11-24",
-      "titulo": "PLP 299/2026 (ajuste fiscal) — votação na Câmara",
-      "detalhe": "Câmara aprovou o texto-base na noite de 23/11, por 353 a 128, mantendo o texto do Senado (trava à compensação cruzada; créditos de PIS/Cofins preservados para a CBS; corte de benefícios fiscais a 20% e crédito presumido limitado a 80%). Faltam os destaques; sem mudanças, segue à sanção",
-      "url": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe"
+      "titulo": "PLP 299/2026 (ajuste fiscal) — aprovado, segue à sanção",
+      "detalhe": "Câmara concluiu a votação na madrugada de 24/11 sem alterar o texto do Senado (trava à compensação cruzada; créditos de PIS/Cofins utilizáveis na CBS; corte de benefícios fiscais a 20%). Vai à sanção presidencial",
+      "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
     },
     {
       "data": "2026-11-24",
@@ -126,6 +126,36 @@
     }
   ],
   "itens": [
+    {
+      "id": "camara-2026-11-24-ajuste-fiscal-aprovado-sem-alteracoes-sancao",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T00:54:03-03:00",
+      "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
+      "resumo": "A Câmara concluiu a votação do PLP 299/26 sem mudar o texto do Senado. O governo poderá limitar por decreto a compensação de créditos, mas créditos de PIS/Cofins poderão ser usados para pagar a CBS; o corte de benefícios fiscais sobe para 20%.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Créditos",
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+    },
+    {
+      "id": "reformatributaria-2026-11-23-piloto-cbs-dere-todas-empresas",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-24T00:54:03-03:00",
+      "titulo": "Piloto da CBS aberto a todas as empresas passa a incluir a DeRE, com procuração digital específica",
+      "resumo": "O ambiente de produção restrita do piloto da CBS, agora sem indicação de entidades, inclui a DeRE, declaração dos regimes específicos. Para usar a API e a DeRE, a empresa precisa outorgar procuração digital com poderes próprios a cada ferramenta.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.reformatributaria.com/iva/receita-libera-para-todas-as-empresas-ambiente-piloto-da-cbs-com-inclusao-da-dere-acesse"
+    },
     {
       "id": "camara-2026-11-23-texto-base-ajuste-fiscal-aprovado",
       "data": "2026-11-23",
