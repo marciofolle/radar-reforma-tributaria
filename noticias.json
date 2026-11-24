@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T13:54:04-03:00",
+  "atualizado_em": "2026-11-24T14:59:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -139,11 +139,41 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-24-simples-cancelar-regime-hibrido-ate-20-12",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T14:59:00-03:00",
+      "titulo": "Optante do Simples que aderiu ao regime híbrido tem até 20/12 para desistir e voltar a pagar IBS e CBS no DAS",
+      "resumo": "Pela Resolução CGSN 194/2026, a desistência é feita no Portal do Simples, vale de janeiro a junho de 2027 e não tira a empresa do regime; quem não cancelar fica no híbrido. Nova troca só em março de 2027, com efeito a partir de julho.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81104/empresas-do-simples-podem-cancelar-regime-hibrido-ate-dezembro/"
+    },
+    {
+      "id": "contabeis-2026-11-24-cgsn-196-defis-caixa",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T10:54:03-03:00",
+      "titulo": "Resolução CGSN 196 detalha transição do Simples: valores a receber em 2026 vão para dezembro e Defis sai até 31/03/2027",
+      "resumo": "Segundo o Contábeis, a Resolução CGSN 196/2026 manda incluir na base de dezembro de 2026 os valores ainda a receber em 31/12, sem nova tributação ao serem recebidos em 2027; documentos fiscais terão de indicar o regime da empresa, e a Defis 2026 vai até 31/03/2027 pelo PGDAS-D 2018.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81103/simples-nacional-cgsn-atualiza-regras-para-adaptacao-a-reforma"
+    },
+    {
       "id": "camara-2026-11-24-comissao-mei-limite-faturamento",
       "data": "2026-11-24",
       "adicionado_em": "2026-11-24T09:55:24-03:00",
-      "titulo": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
-      "resumo": "A comissão especial do PLP 108/21 se reúne nesta terça (24), às 15h30, para votar o parecer do relator Jorge Goetten. O projeto, já aprovado pelo Senado, eleva o teto de receita do MEI de R$ 81 mil para R$ 130 mil e permite dois empregados.",
+      "titulo": "Adiada votação de parecer sobre ampliação do limite de faturamento para o MEI",
+      "resumo": "A comissão especial do PLP 108/21, já aprovado pelo Senado, adiou para quarta-feira (25/11), às 14h30, a votação do parecer do relator Jorge Goetten. O texto eleva o teto do MEI de R$ 81 mil para R$ 130 mil anuais e permite até dois empregados.",
       "fonte": "Agência Câmara",
       "orgao": "Câmara dos Deputados",
       "tipo": "oficial",
@@ -151,23 +181,7 @@
         "Simples Nacional",
         "Legislação"
       ],
-      "url": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei"
-    },
-    {
-      "id": "camara-2026-11-24-ajuste-fiscal-aprovado-sem-alteracoes-sancao",
-      "data": "2026-11-24",
-      "adicionado_em": "2026-11-24T00:54:03-03:00",
-      "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
-      "resumo": "A Câmara concluiu a votação do PLP 299/26 sem mudar o texto do Senado. O governo poderá limitar por decreto a compensação de créditos, mas créditos de PIS/Cofins poderão ser usados para pagar a CBS; o corte de benefícios fiscais sobe para 20%.",
-      "fonte": "Agência Câmara",
-      "orgao": "Câmara dos Deputados",
-      "tipo": "oficial",
-      "temas": [
-        "Créditos",
-        "CBS",
-        "Legislação"
-      ],
-      "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+      "url": "https://www.camara.leg.br/noticias/1321031-adiada-votacao-de-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei"
     },
     {
       "id": "receita-2026-11-24-cgsn-196-simples-transicao",
@@ -186,19 +200,20 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
     },
     {
-      "id": "contabeis-2026-11-24-cgsn-196-defis-caixa",
+      "id": "camara-2026-11-24-ajuste-fiscal-aprovado-sem-alteracoes-sancao",
       "data": "2026-11-24",
-      "adicionado_em": "2026-11-24T10:54:03-03:00",
-      "titulo": "Resolução CGSN 196 detalha transição do Simples: valores a receber em 2026 vão para dezembro e Defis sai até 31/03/2027",
-      "resumo": "Segundo o Contábeis, a Resolução CGSN 196/2026 manda incluir na base de dezembro de 2026 os valores ainda a receber em 31/12, sem nova tributação ao serem recebidos em 2027; documentos fiscais terão de indicar o regime da empresa, e a Defis 2026 vai até 31/03/2027 pelo PGDAS-D 2018.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
+      "adicionado_em": "2026-11-24T00:54:03-03:00",
+      "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
+      "resumo": "A Câmara concluiu a votação do PLP 299/26 sem mudar o texto do Senado. O governo poderá limitar por decreto a compensação de créditos, mas créditos de PIS/Cofins poderão ser usados para pagar a CBS; o corte de benefícios fiscais sobe para 20%.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
       "temas": [
-        "Simples Nacional",
-        "Obrigações acessórias",
-        "Documentos fiscais"
+        "Créditos",
+        "CBS",
+        "Legislação"
       ],
-      "url": "https://www.contabeis.com.br/noticias/81103/simples-nacional-cgsn-atualiza-regras-para-adaptacao-a-reforma"
+      "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
