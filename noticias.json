@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T08:53:28-03:00",
+  "atualizado_em": "2026-11-24T09:55:24-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -132,6 +132,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "camara-2026-11-24-comissao-mei-limite-faturamento",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T09:55:24-03:00",
+      "titulo": "Comissão especial pode votar parecer sobre ampliação do limite de faturamento para o MEI",
+      "resumo": "A comissão especial do PLP 108/21 se reúne nesta terça (24), às 15h30, para votar o parecer do relator Jorge Goetten. O projeto, já aprovado pelo Senado, eleva o teto de receita do MEI de R$ 81 mil para R$ 130 mil e permite dois empregados.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Simples Nacional",
+        "Legislação"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1321031-comissao-especial-pode-votar-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei"
+    },
     {
       "id": "camara-2026-11-24-ajuste-fiscal-aprovado-sem-alteracoes-sancao",
       "data": "2026-11-24",
