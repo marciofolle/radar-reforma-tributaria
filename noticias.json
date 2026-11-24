@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T14:59:00-03:00",
+  "atualizado_em": "2026-11-24T16:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,49 @@
     }
   ],
   "itens": [
+    {
+      "id": "exame-2026-11-24-simples-cgsn-196",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T16:05:00-03:00",
+      "titulo": "Resolução CGSN 196 obriga empresas do Simples a separar receitas de contratos públicos e limita crédito do comprador ao valor devido",
+      "resumo": "A norma adapta o Simples à CBS e ao IBS: receitas de contratos com órgãos públicos devem ser identificadas, o crédito do comprador fica limitado ao que o fornecedor do Simples efetivamente deve e a Defis de 2026 vai até 31/03/2027.",
+      "fonte": "Exame",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://exame.com/economia/simples-nacional-veja-o-que-muda-com-as-novas-regras-da-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-24-descontos-cbs-nota",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T16:05:00-03:00",
+      "titulo": "Só o desconto incondicional registrado na nota reduz a base da CBS; abatimento condicionado continua tributado",
+      "resumo": "Com base no art. 12 da LC 214/2025 e no art. 13 do Decreto 12.955/2026, o abatimento só sai da base da CBS se constar no documento fiscal e não depender de evento posterior; exemplo: R$ 3 mil com desconto de R$ 300 tributa R$ 2,7 mil.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81099/descontos-na-cbs-o-que-informar-na-nota-fiscal/"
+    },
+    {
+      "id": "contabeis-2026-11-24-cbs-bens-capital",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T16:05:00-03:00",
+      "titulo": "Crédito de CBS sobre máquinas e equipamentos não segue o ritmo da depreciação contábil",
+      "resumo": "Pelo art. 108 da LC 214/2025 e o art. 195 do Decreto 12.955/2026, o crédito da CBS na compra de bens de capital não é fracionado pela vida útil: uma máquina de R$ 120 mil depreciada em dez anos não gera crédito em 120 parcelas, se cumpridos os requisitos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81091/cbs-credito-de-bens-de-capital-difere-da-depreciacao/"
+    },
     {
       "id": "contabeis-2026-11-24-simples-cancelar-regime-hibrido-ate-20-12",
       "data": "2026-11-24",
