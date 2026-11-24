@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T18:53:49-03:00",
+  "atualizado_em": "2026-11-24T19:54:11-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-24-reforma-pode-pressionar-inflacao-2027",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T19:54:11-03:00",
+      "titulo": "Troca do PIS/Cofins pela CBS pode pressionar a inflação no início de 2027, com efeito desigual entre setores",
+      "resumo": "Estimativas citadas vão de 0,15 a mais de 1 ponto percentual a mais no IPCA, conforme o repasse; serviços do lucro presumido, que hoje pagam 3,65% de PIS/Cofins, são os mais expostos à CBS de 11,3%, enquanto alimentos e aluguéis podem ficar mais baratos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/"
+    },
     {
       "id": "exame-2026-11-24-simples-cgsn-196",
       "data": "2026-11-24",
