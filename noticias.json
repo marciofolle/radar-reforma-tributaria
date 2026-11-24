@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T06:53:31-03:00",
+  "atualizado_em": "2026-11-24T07:53:59-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -141,6 +141,20 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+    },
+    {
+      "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-24T07:53:59-03:00",
+      "titulo": "Ajuste fiscal passa na Câmara por 353 a 128, sem mudanças, e vai à sanção com aval para limitar uso de créditos tributários",
+      "resumo": "A Câmara aprovou o PLP 299/2026 por 353 votos a 128 e rejeitou os sete destaques. O texto permite ao governo restringir o uso de créditos tributários pelas empresas, dobra o corte linear de benefícios para 20% e prevê economia de até R$ 70 bilhões em 2027.",
+      "fonte": "InfoMoney",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula"
     },
     {
       "id": "reformatributaria-2026-11-23-piloto-cbs-dere-todas-empresas",
