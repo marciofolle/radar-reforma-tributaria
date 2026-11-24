@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T09:55:24-03:00",
+  "atualizado_em": "2026-11-24T10:54:03-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -125,6 +125,12 @@
       "url": "https://www.contabeis.com.br/noticias/80815/nf-e-e-nfc-e-veja-o-que-muda-em-16-de-novembro"
     },
     {
+      "data": "2027-03-31",
+      "titulo": "Simples Nacional — entrega da Defis 2026 (Res. CGSN 196/2026)",
+      "detalhe": "Declaração relativa a 2026 entregue até 31/03/2027 pelo PGDAS-D 2018",
+      "url": "https://www.contabeis.com.br/noticias/81103/simples-nacional-cgsn-atualiza-regras-para-adaptacao-a-reforma"
+    },
+    {
       "data": "2027-06-30",
       "titulo": "EFD-Contribuições: estoque de abertura (F150) de créditos da CBS",
       "detalhe": "Transmissão do levantamento de 31/12/2026; créditos liberados em 12 parcelas mensais",
@@ -178,6 +184,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria"
+    },
+    {
+      "id": "contabeis-2026-11-24-cgsn-196-defis-caixa",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T10:54:03-03:00",
+      "titulo": "Resolução CGSN 196 detalha transição do Simples: valores a receber em 2026 vão para dezembro e Defis sai até 31/03/2027",
+      "resumo": "Segundo o Contábeis, a Resolução CGSN 196/2026 manda incluir na base de dezembro de 2026 os valores ainda a receber em 31/12, sem nova tributação ao serem recebidos em 2027; documentos fiscais terão de indicar o regime da empresa, e a Defis 2026 vai até 31/03/2027 pelo PGDAS-D 2018.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81103/simples-nacional-cgsn-atualiza-regras-para-adaptacao-a-reforma"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
