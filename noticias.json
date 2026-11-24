@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T17:53:53-03:00",
+  "atualizado_em": "2026-11-24T18:53:49-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -30,9 +30,9 @@
   "prazos": [
     {
       "data": "2026-11-24",
-      "titulo": "PLP 299/2026 (ajuste fiscal) — aprovado, segue à sanção",
-      "detalhe": "Câmara concluiu a votação na madrugada de 24/11 sem alterar o texto do Senado (trava à compensação cruzada; créditos de PIS/Cofins utilizáveis na CBS; corte de benefícios fiscais a 20%). Vai à sanção presidencial",
-      "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+      "titulo": "LC 239/2026 (ajuste fiscal) — sancionada e publicada",
+      "detalhe": "PLP 299/2026 sancionado sem vetos e publicado em edição extra do DOU de 24/11; já em vigor (trava à compensação de créditos; créditos de PIS/Cofins utilizáveis na CBS; corte de benefícios fiscais)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
     },
     {
       "data": "2026-11-24",
@@ -257,6 +257,22 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+    },
+    {
+      "id": "senado-2026-11-24-lei-ajuste-fiscal-publicada",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T18:53:49-03:00",
+      "titulo": "Lei do ajuste fiscal é publicada e já está valendo",
+      "resumo": "Sancionada sem vetos e publicada em edição extra do DOU, a LC 239/2026 (PLP 299) permite usar créditos de PIS/Cofins remanescentes para pagar a CBS, restringe a compensação de créditos, sobretudo judiciais, e corta benefícios fiscais em 10 pontos percentuais.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
