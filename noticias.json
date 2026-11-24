@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-23T21:53:09-03:00",
+  "atualizado_em": "2026-11-23T22:53:41-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -29,16 +29,10 @@
   ],
   "prazos": [
     {
-      "data": "2026-11-20",
-      "titulo": "Simples Nacional 2027 — situação definitiva das opções",
-      "detalhe": "Receita divulga o resultado final dos pedidos de ingresso no Simples para 2027",
-      "url": "https://www.contabeis.com.br/noticias/80895/simples-nacional-2027-processamento-final-dos-pedidos-sai-nesta-sexta-20/"
-    },
-    {
       "data": "2026-11-24",
       "titulo": "PLP 299/2026 (ajuste fiscal) — votação na Câmara",
-      "detalhe": "Câmara aprovou a urgência na noite de segunda (23), por 318 a 135, e começou a analisar o mérito; relator Mauro Benevides Filho mantém o texto do Senado (trava à compensação cruzada; créditos de PIS/Cofins preservados para a CBS). Sem mudanças, segue à sanção",
-      "url": "https://www.camara.leg.br/noticias/1322102-relator-defende-ajuste-fiscal-e-garante-protecao-a-beneficios-sociais-acompanhe"
+      "detalhe": "Câmara aprovou o texto-base na noite de 23/11, por 353 a 128, mantendo o texto do Senado (trava à compensação cruzada; créditos de PIS/Cofins preservados para a CBS; corte de benefícios fiscais a 20% e crédito presumido limitado a 80%). Faltam os destaques; sem mudanças, segue à sanção",
+      "url": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe"
     },
     {
       "data": "2026-11-24",
@@ -132,6 +126,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "camara-2026-11-23-texto-base-ajuste-fiscal-aprovado",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T22:53:41-03:00",
+      "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal; acompanhe",
+      "resumo": "Deputados aprovaram por 353 a 128 (5 abstenções) o texto-base do PLP 299/26, que permite ao Executivo limitar despesas para cumprir metas de superávit a partir de 2027. O relator manteve o texto do Senado; faltam os destaques, e sem mudanças o projeto segue à sanção.",
+      "fonte": "Agência Câmara",
+      "orgao": "Câmara dos Deputados",
+      "tipo": "oficial",
+      "temas": [
+        "Legislação",
+        "Créditos"
+      ],
+      "url": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe"
+    },
+    {
+      "id": "cnnbrasil-2026-11-23-camara-aprova-texto-base-ajuste-fiscal",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-23T22:53:41-03:00",
+      "titulo": "Câmara aprova o texto-base do ajuste fiscal sem mexer na versão do Senado; corte de benefícios fiscais chega a 20%",
+      "resumo": "Por 353 votos a 128, a Câmara aprovou o PLP do ajuste fiscal, que amplia o corte de benefícios tributários para 20% e limita créditos presumidos a 80% do valor original. Governo estima ganho de R$ 45,1 bi a R$ 50,1 bi em 2027; destaques ainda serão votados.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www.cnnbrasil.com.br/politica/camara-aprova-ajuste-fiscal/"
+    },
     {
       "id": "reformatributaria-2026-11-23-cgibs-comite-harmonizacao",
       "data": "2026-11-23",
