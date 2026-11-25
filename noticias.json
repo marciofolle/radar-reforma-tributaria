@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T17:54:11-03:00",
+  "atualizado_em": "2026-11-25T19:00:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -139,6 +139,37 @@
   ],
   "itens": [
     {
+      "id": "migalhas-2026-11-25-produtor-rural-nao-contribuinte",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-25T19:00:00-03:00",
+      "titulo": "Artigo: produtor rural que fica fora do IBS e da CBS pode perder preço na negociação com compradores do regime regular",
+      "resumo": "Advogada lembra que o produtor com receita anual abaixo de R$ 3,6 milhões (corrigida pelo IPCA) não é contribuinte, mas pode optar pelo regime regular; como o comprador valoriza o crédito, a escolha deve considerar a margem final, não só o tributo evitado.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Setores"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/469268/reforma-tributaria-no-campo-nao-ser-contribuinte-pode-custar-mais"
+    },
+    {
+      "id": "setcesp-2026-11-25-camara-aprova-pacote-fiscal-transporte",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-25T17:54:11-03:00",
+      "titulo": "Câmara aprova pacote fiscal e mantém conquistas do transporte",
+      "resumo": "Para o SETCESP, a LC do ajuste fiscal preservou a desoneração da folha (CPRB) do transporte rodoviário de cargas e de passageiros e a compensação de créditos de PIS/Cofins com débitos da CBS; o Reidi passa a ter teto de benefícios.",
+      "fonte": "SETCESP",
+      "orgao": "SETCESP",
+      "tipo": "entidade",
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://setcesp.org.br/noticias/camara-aprova-pacote-fiscal-e-mantem-conquistas-do-transporte/"
+    },
+    {
       "id": "contabeis-2026-11-25-nfe-recusa-parcial-sp",
       "data": "2026-11-25",
       "adicionado_em": "2026-11-25T16:53:58-03:00",
@@ -180,22 +211,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
-    },
-    {
-      "id": "setcesp-2026-11-25-camara-aprova-pacote-fiscal-transporte",
-      "data": "2026-11-25",
-      "adicionado_em": "2026-11-25T17:54:11-03:00",
-      "titulo": "Câmara aprova pacote fiscal e mantém conquistas do transporte",
-      "resumo": "Para o SETCESP, a LC do ajuste fiscal preservou a desoneração da folha (CPRB) do transporte rodoviário de cargas e de passageiros e a compensação de créditos de PIS/Cofins com débitos da CBS; o Reidi passa a ter teto de benefícios.",
-      "fonte": "SETCESP",
-      "orgao": "SETCESP",
-      "tipo": "entidade",
-      "temas": [
-        "Transporte",
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "https://setcesp.org.br/noticias/camara-aprova-pacote-fiscal-e-mantem-conquistas-do-transporte/"
     },
     {
       "id": "ndmais-2026-11-24-camara-cft-audiencia-aliquota-cbs",
@@ -4495,22 +4510,6 @@
         "Transporte"
       ],
       "url": "https://www.in.gov.br/web/dou/-/portaria-mf-n-3.074-de-9-de-outubro-de-2026-737756370"
-    },
-    {
-      "id": "planalto-2026-10-09-decreto-13133-aliquotas-cbs-combustiveis",
-      "data": "2026-10-09",
-      "adicionado_em": "2026-11-23T12:18:16-03:00",
-      "titulo": "Decreto nº 13.133, de 9 de outubro de 2026: delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre os combustíveis que especifica",
-      "resumo": "O ministro da Fazenda passa a divulgar, a partir de 2027, as alíquotas da CBS sobre gasolina, etanol, diesel, biodiesel, GLP, querosene de aviação e óleo combustível, nos limites dos arts. 174 e 175 da LC 214/2025. O decreto altera o Decreto 12.955/2026: biocombustíveis terão de 40% a 90% da alíquota do fóssil.",
-      "fonte": "Planalto",
-      "orgao": "Presidência da República",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Legislação"
-      ],
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13133.htm"
     }
   ]
 }
