@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T00:55:02-03:00",
+  "atualizado_em": "2026-11-25T01:54:53-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "fenacon-2026-11-25-novas-regras-simples-nacional-transicao",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-25T01:54:53-03:00",
+      "titulo": "Publicadas as novas regras para o Simples Nacional e a transição da Reforma Tributária",
+      "resumo": "A Fenacon detalha a Resolução CGSN 196/2026: a receita passa a ser reconhecida na emissão do documento fiscal em 2027, valores de 2026 ainda não recebidos entram na apuração de dezembro, a Defis 2026 vai até 31/03/2027 e vendas a órgãos públicos devem ser segregadas.",
+      "fonte": "Fenacon",
+      "orgao": "Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "Simples Nacional",
+        "Obrigações acessórias"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
     {
       "id": "reformatributaria-2026-11-24-lc-239-lucro-presumido",
       "data": "2026-11-24",
@@ -4491,21 +4506,6 @@
         "Documentos fiscais"
       ],
       "url": "https://www.reformatributaria.com/documentos-fiscais/nfe-e-nfce-publicado-pacote-com-5-notas-tecnicas-sobre-ibs-cbs/"
-    },
-    {
-      "id": "crcsp-2026-09-29-cgsn194",
-      "data": "2026-09-29",
-      "titulo": "CGSN altera prazos para opção pelo Simples Nacional e pelo regime regular do IBS e da CBS para 2027",
-      "resumo": "Resolução CGSN 194/2026: opção pelo regime regular até 30/10 e cancelamento, irretratável, de 3/11 a 20/12/2026.",
-      "fonte": "CRC-SP",
-      "orgao": "CRC-SP",
-      "tipo": "entidade",
-      "temas": [
-        "Simples Nacional",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355"
     }
   ]
 }
