@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-24T20:54:06-03:00",
+  "atualizado_em": "2026-11-24T21:55:02-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -138,6 +138,33 @@
     }
   ],
   "itens": [
+    {
+      "id": "reformatributaria-2026-11-24-lc-239-lucro-presumido",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T21:55:02-03:00",
+      "titulo": "LC 239 sobe em 20% a presunção do Lucro Presumido acima de R$ 5 milhões e corta 20% de benefícios fiscais",
+      "resumo": "Sancionada em 24/11, a lei eleva a presunção de serviços de 32% para 38,4% até 2027, limita créditos financeiros a 80% e deixa o Executivo travar compensações, exceto o uso de créditos de PIS/Cofins contra a CBS.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Legislação",
+        "Créditos"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/camara-aprova-projeto-de-lula-que-aumenta-custo-do-lucro-presumido-texto-vai-a-sancao/"
+    },
+    {
+      "id": "reformatributaria-2026-11-24-split-payment-pix-santander",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T21:55:02-03:00",
+      "titulo": "Santander vê no prazo do Pix o maior desafio do split payment: consulta e retenção terão de caber em 10 segundos",
+      "resumo": "Executivo do banco diz que a instituição só consultará a plataforma pública, separará IBS e CBS e repassará o líquido; a primeira etapa abrange boleto, Pix, TED e TEF, sem cartões.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment"
+      ],
+      "url": "https://www.reformatributaria.com/tecnologia/desafio-do-split-payment-sera-processar-pix-no-prazo-correto-diz-diretor-de-pagamentos-do-santander/"
+    },
     {
       "id": "contabeis-2026-11-24-reforma-pode-pressionar-inflacao-2027",
       "data": "2026-11-24",
@@ -4479,36 +4506,6 @@
         "CBS"
       ],
       "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355"
-    },
-    {
-      "id": "ntc-2026-09-21-masterclass",
-      "data": "2026-09-21",
-      "titulo": "Sistema Transporte esclarece impactos da Reforma Tributária sobre o setor",
-      "resumo": "Masterclass da CNT detalhou passageiros (isenção no urbano, alíquota reduzida no intermunicipal) e cargas no regime regular com créditos amplos; lançado curso EaD gratuito do SEST SENAT.",
-      "fonte": "NTC&Logística",
-      "orgao": "NTC&Logística / CNT",
-      "tipo": "entidade",
-      "temas": [
-        "Transporte",
-        "Créditos",
-        "Split payment"
-      ],
-      "url": "https://www.portalntc.org.br/sistema-transporte-esclarece-impactos-da-reforma-tributaria-sobre-o-setor/"
-    },
-    {
-      "id": "fenacon-2026-07-29-ot-cfc",
-      "data": "2026-07-29",
-      "titulo": "CFC publica Orientação Técnica nº 1/2026 sobre contabilização de IBS e CBS",
-      "resumo": "Diretrizes de reconhecimento, mensuração, apresentação e divulgação dos novos tributos, com capítulo próprio para o período de testes de 2026.",
-      "fonte": "Fenacon",
-      "orgao": "CFC / Fenacon",
-      "tipo": "entidade",
-      "temas": [
-        "IBS",
-        "CBS",
-        "Créditos"
-      ],
-      "url": "https://fenacon.org.br/reforma-tributaria/cfc-publica-orientacao-tecnica-sobre-tratamento-contabil-do-ibs-e-da-cbs-na-reforma-tributaria/"
     }
   ]
 }
