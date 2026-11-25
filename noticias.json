@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T08:54:50-03:00",
+  "atualizado_em": "2026-11-25T09:55:13-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -139,6 +139,20 @@
   ],
   "itens": [
     {
+      "id": "reformatributaria-2026-11-25-clp-imposto-seletivo-saude",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-25T09:55:13-03:00",
+      "titulo": "CLP propõe Imposto Seletivo proporcional ao açúcar, ao álcool e ao preço do cigarro",
+      "resumo": "Nota técnica do Centro de Liderança Pública sugere cobrar o Imposto Seletivo conforme o teor de açúcar adicionado (isenção até 5 g/100 ml), R$ 30 por litro de etanol mais 5% a 8% sobre o valor e R$ 3,50 por maço de cigarros mais cerca de 10% do preço, com correção pelo IPCA.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Imposto Seletivo",
+        "Setores"
+      ],
+      "url": "https://www.reformatributaria.com/impostoseletivo/clp-mudancas-imposto-seletivo-saude-publica/"
+    },
+    {
       "id": "fenacon-2026-11-25-novas-regras-simples-nacional-transicao",
       "data": "2026-11-25",
       "adicionado_em": "2026-11-25T01:54:53-03:00",
@@ -152,6 +166,20 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "ndmais-2026-11-24-camara-cft-audiencia-aliquota-cbs",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-25T08:54:50-03:00",
+      "titulo": "Na Câmara, TCU defende os 11,3% da CBS e CNI, CNA e CNC apontam distorções no cálculo",
+      "resumo": "Em audiência na Comissão de Finanças e Tributação, a CNI disse que usar a média de 2024 e 2025 levaria a CBS a cerca de 10%; a CNA estimou 0,38 ponto a mais pela inclusão de produtores rurais acima de R$ 3,6 milhões; a CNC alertou para serviços no Lucro Presumido.",
+      "fonte": "ND+",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
     },
     {
       "id": "reformatributaria-2026-11-24-lc-239-lucro-presumido",
@@ -193,6 +221,22 @@
         "Alíquotas"
       ],
       "url": "https://www.contabeis.com.br/noticias/81117/reforma-tributaria-pode-pressionar-inflacao-em-2027/"
+    },
+    {
+      "id": "senado-2026-11-24-lei-ajuste-fiscal-publicada",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-24T18:53:49-03:00",
+      "titulo": "Lei do ajuste fiscal é publicada e já está valendo",
+      "resumo": "Sancionada sem vetos e publicada em edição extra do DOU, a LC 239/2026 (PLP 299) permite usar créditos de PIS/Cofins remanescentes para pagar a CBS, restringe a compensação de créditos, sobretudo judiciais, e corta benefícios fiscais em 10 pontos percentuais.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Créditos",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
     },
     {
       "id": "exame-2026-11-24-simples-cgsn-196",
@@ -313,36 +357,6 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
-    },
-    {
-      "id": "senado-2026-11-24-lei-ajuste-fiscal-publicada",
-      "data": "2026-11-24",
-      "adicionado_em": "2026-11-24T18:53:49-03:00",
-      "titulo": "Lei do ajuste fiscal é publicada e já está valendo",
-      "resumo": "Sancionada sem vetos e publicada em edição extra do DOU, a LC 239/2026 (PLP 299) permite usar créditos de PIS/Cofins remanescentes para pagar a CBS, restringe a compensação de créditos, sobretudo judiciais, e corta benefícios fiscais em 10 pontos percentuais.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Créditos",
-        "Legislação"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
-    },
-    {
-      "id": "ndmais-2026-11-24-camara-cft-audiencia-aliquota-cbs",
-      "data": "2026-11-24",
-      "adicionado_em": "2026-11-25T08:54:50-03:00",
-      "titulo": "Na Câmara, TCU defende os 11,3% da CBS e CNI, CNA e CNC apontam distorções no cálculo",
-      "resumo": "Em audiência na Comissão de Finanças e Tributação, a CNI disse que usar a média de 2024 e 2025 levaria a CBS a cerca de 10%; a CNA estimou 0,38 ponto a mais pela inclusão de produtores rurais acima de R$ 3,6 milhões; a CNC alertou para serviços no Lucro Presumido.",
-      "fonte": "ND+",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
@@ -4493,21 +4507,6 @@
         "Créditos"
       ],
       "url": "https://amdjus.com.br/reforma-tributaria-muda-regras-de-credito-em-frete-terceirizado/"
-    },
-    {
-      "id": "reformatributaria-2026-10-05-portaria-conjunta-14-metodologia-combustiveis",
-      "data": "2026-10-05",
-      "adicionado_em": "2026-11-23T13:52:31-03:00",
-      "titulo": "Portaria conjunta MF/CGIBS define a metodologia das alíquotas específicas de IBS e CBS sobre combustíveis",
-      "resumo": "A Portaria Conjunta MF/CGIBS nº 14/2026 fixa o cálculo da carga de referência para as alíquotas por unidade de medida (CBS a partir de 2027, IBS a partir de 2029), com critérios conforme o ICMS seja específico, ad valorem ou por ST; gasolina A e diesel A servem de referência para etanol anidro e B100.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "IBS",
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.reformatributaria.com/iva/combustiveis-terao-ibs-e-cbs-com-aliquotas-especificas-por-unidade-de-medida/"
     }
   ]
 }
