@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T07:54:16-03:00",
+  "atualizado_em": "2026-11-25T08:54:50-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -37,8 +37,8 @@
     {
       "data": "2026-11-24",
       "titulo": "Câmara (CFT) — audiência pública sobre a alíquota de 11,3% da CBS",
-      "detalhe": "Comissão de Finanças e Tributação, 14h; pedido do dep. Hildo Rocha para examinar estudos e projeções do cálculo",
-      "url": "https://www.camara.leg.br/noticias/1320994-comissao-debate-aliquota-base-da-contribuicao-sobre-bens-e-servicos"
+      "detalhe": "Realizada em 24/11: TCU defendeu o cálculo; CNI, CNA e CNC apontaram distorções; secretário da Receita deve ir a sessão posterior",
+      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
     },
     {
       "data": "2026-11-30",
@@ -329,6 +329,20 @@
         "Legislação"
       ],
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
+    },
+    {
+      "id": "ndmais-2026-11-24-camara-cft-audiencia-aliquota-cbs",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-25T08:54:50-03:00",
+      "titulo": "Na Câmara, TCU defende os 11,3% da CBS e CNI, CNA e CNC apontam distorções no cálculo",
+      "resumo": "Em audiência na Comissão de Finanças e Tributação, a CNI disse que usar a média de 2024 e 2025 levaria a CBS a cerca de 10%; a CNA estimou 0,38 ponto a mais pela inclusão de produtores rurais acima de R$ 3,6 milhões; a CNC alertou para serviços no Lucro Presumido.",
+      "fonte": "ND+",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
     },
     {
       "id": "infomoney-2026-11-23-camara-aprova-ajuste-fiscal-353-votos",
@@ -4494,18 +4508,6 @@
         "Alíquotas"
       ],
       "url": "https://www.reformatributaria.com/iva/combustiveis-terao-ibs-e-cbs-com-aliquotas-especificas-por-unidade-de-medida/"
-    },
-    {
-      "id": "rt-2026-10-01-atc8",
-      "data": "2026-10-01",
-      "titulo": "Ato Técnico Conjunto nº 8/2026 aprova pacote de cinco NTs da NF-e",
-      "resumo": "Inclui a NT 2026.008 (IBS, CBS e IS passam a compor o valor total da nota a partir de 2027) e a NT 2026.010 (novo DANFE com totais de IBS, CBS e IS).",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Documentos fiscais"
-      ],
-      "url": "https://www.reformatributaria.com/documentos-fiscais/nfe-e-nfce-publicado-pacote-com-5-notas-tecnicas-sobre-ibs-cbs/"
     }
   ]
 }
