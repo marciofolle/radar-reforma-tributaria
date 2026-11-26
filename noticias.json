@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T20:53:53-03:00",
+  "atualizado_em": "2026-11-25T21:54:21-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -211,6 +211,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-24-mei-simples-mudancas-2027",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-25T21:54:21-03:00",
+      "titulo": "MEI passa a R$ 110 mil em 2027 e nanoempreendedor fica dispensado de IBS e CBS: o que muda para os pequenos",
+      "resumo": "Guia reúne as mudanças de 2027: limite do MEI sobe de R$ 81 mil para R$ 110 mil (R$ 140 mil em 2028), nanoempreendedor com receita até R$ 55 mil fica fora de IBS e CBS e o Simples deixa o regime de caixa; quem não optou até 30/10 segue com IBS/CBS no DAS.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81109/mei-e-simples-veja-as-mudancas-previstas-para-2027/"
     },
     {
       "id": "ndmais-2026-11-24-camara-cft-audiencia-aliquota-cbs",
@@ -4494,22 +4509,6 @@
         "Transporte"
       ],
       "url": "https://www.reformatributaria.com/iva/governo-define-cbs-de-r-079-por-litro-de-gasolina-leia-a-portaria/"
-    },
-    {
-      "id": "dou-2026-10-09-portaria-mf-3074-cbs-combustiveis",
-      "data": "2026-10-09",
-      "adicionado_em": "2026-11-23T13:52:31-03:00",
-      "titulo": "Portaria MF nº 3.074, de 9 de outubro de 2026: divulga as alíquotas da CBS incidentes sobre operações com combustíveis, ainda que iniciadas no exterior",
-      "resumo": "Alíquotas ad rem da CBS por unidade: gasolina R$ 0,7925/l; diesel R$ 0,3515/l; etanol anidro e hidratado R$ 0,1922/l; biodiesel B100 R$ 0,1480/l; GLP/GLGN R$ 0,1677/kg; QAV R$ 0,0712/l; óleo combustível R$ 0,3403/kg. Volume a 20 °C; efeitos a partir do 91º dia da publicação (jan/2027).",
-      "fonte": "Diário Oficial da União",
-      "orgao": "Ministério da Fazenda",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Transporte"
-      ],
-      "url": "https://www.in.gov.br/web/dou/-/portaria-mf-n-3.074-de-9-de-outubro-de-2026-737756370"
     }
   ]
 }
