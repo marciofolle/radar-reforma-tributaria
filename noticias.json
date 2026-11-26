@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T16:05:00-03:00",
+  "atualizado_em": "2026-11-26T16:55:29-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -467,6 +467,20 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "migalhas-2026-11-24-misabel-indefinicoes-reforma",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-26T16:55:29-03:00",
+      "titulo": "Misabel Derzi vê insegurança na falta de alíquotas finais da CBS e do IBS e de definição sobre qual Justiça julgará os litígios",
+      "resumo": "Na Conferência Nacional da Advocacia, em Salvador, a conselheira federal da OAB apontou que ainda não há alíquotas finais de CBS e IBS nem regras processuais para o contencioso, e questionou se ações e mandados de segurança irão à Justiça Federal ou à Estadual.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Alíquotas"
+      ],
+      "url": "https://www.migalhas.com.br/quentes/469195/misabel-critica-indefinicoes-na-reforma-tributaria--inseguranca"
     },
     {
       "id": "reformatributaria-2026-11-24-filmes-publicitarios-aliquota-reduzida",
@@ -4530,19 +4544,6 @@
         "Alíquotas"
       ],
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
-    },
-    {
-      "id": "tagd-2026-11-03-alerta-senado",
-      "data": "2026-11-03",
-      "titulo": "Alíquota de 11,3% encontra resistência no Senado",
-      "resumo": "Eduardo Braga (MDB-AM), relator da reforma, disse que o percentual veio acima do esperado; a Frente Parlamentar do Empreendedorismo anunciou que defenderá a rejeição.",
-      "fonte": "TAGD Law",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://tagdlaw.com.br/?p=16930"
     }
   ]
 }
