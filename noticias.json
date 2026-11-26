@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T14:53:47-03:00",
+  "atualizado_em": "2026-11-26T16:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -57,6 +57,12 @@
       "titulo": "Senado (CAE) — parecer de Eduardo Braga sobre a alíquota de referência da CBS",
       "detalhe": "Relator deve apresentar o parecer à CAE até 8/12; prazo final para o Senado fixar a alíquota de 2027 é 15/12. Na Câmara, a CFT retoma o debate com o secretário da Receita, Robinson Barreirinhas",
       "url": "https://fenacon.org.br/reforma-tributaria/cnc-alerta-para-impactos-da-aliquota-de-113-da-cbs-no-setor-de-servicos/"
+    },
+    {
+      "data": "2026-12-09",
+      "titulo": "Senado — votação da alíquota de referência da CBS prevista pelo relator",
+      "detalhe": "Eduardo Braga espera votar a resolução até 9/12 e propõe medição trimestral do hiato de conformidade; prazo legal 15/12, prorrogável a 22/12",
+      "url": "https://www.reformatributaria.com/iva/relator-espera-votar-cbs-ate-9-de-dezembro-e-defende-medicao-trimestral-do-hiato-de-conformidade/"
     },
     {
       "data": "2026-12-14",
@@ -151,6 +157,20 @@
   ],
   "itens": [
     {
+      "id": "reformatributaria-2026-11-26-braga-votar-cbs-9-dezembro-hiato",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T16:05:00-03:00",
+      "titulo": "Eduardo Braga quer votar a alíquota da CBS até 9/12 e propõe medir o hiato de conformidade a cada trimestre",
+      "resumo": "Relator na CAE, Braga prevê votar até 9 de dezembro a resolução da CBS de 2027 e quer incluir nela a medição trimestral do hiato de conformidade, informada ao Senado; o TCU usou hiato de 15,9% no cálculo dos 11,3%. Prazo vai a 15/12, prorrogável a 22/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/iva/relator-espera-votar-cbs-ate-9-de-dezembro-e-defende-medicao-trimestral-do-hiato-de-conformidade/"
+    },
+    {
       "id": "senado-2026-11-26-ifi-estudo-aliquota-cbs-braga",
       "data": "2026-11-26",
       "adicionado_em": "2026-11-26T14:53:47-03:00",
@@ -178,6 +198,21 @@
         "Créditos"
       ],
       "url": "https://www.contabeis.com.br/noticias/81196/split-payment-empresas-revisam-contratos-para-garantir-creditos"
+    },
+    {
+      "id": "contabeis-2026-11-26-exportacao-servicos-ibs-cbs",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T13:10:00-03:00",
+      "titulo": "Cliente no exterior não basta: serviço só é exportação no IBS e na CBS se for consumido fora do país",
+      "resumo": "Pelos arts. 79 e 80 da LC 214/2025, alterados pela LC 227/2026, adquirente e destinatário precisam estar no exterior; filial brasileira como destinatária descaracteriza a exportação. Se o consumo for parcial no Brasil, só a parcela consumida fora é desonerada, com manutenção dos créditos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/"
     },
     {
       "id": "gazetadopovo-2026-11-26-confederacoes-stf-anterioridade-cbs-ibs",
@@ -253,21 +288,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
-    },
-    {
-      "id": "contabeis-2026-11-26-exportacao-servicos-ibs-cbs",
-      "data": "2026-11-26",
-      "adicionado_em": "2026-11-26T13:10:00-03:00",
-      "titulo": "Cliente no exterior não basta: serviço só é exportação no IBS e na CBS se for consumido fora do país",
-      "resumo": "Pelos arts. 79 e 80 da LC 214/2025, alterados pela LC 227/2026, adquirente e destinatário precisam estar no exterior; filial brasileira como destinatária descaracteriza a exportação. Se o consumo for parcial no Brasil, só a parcela consumida fora é desonerada, com manutenção dos créditos.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "IBS",
-        "CBS",
-        "Créditos"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/"
     },
     {
       "id": "metropoles-2026-11-25-frentes-comissao-fiscalizar-reforma",
@@ -4523,18 +4543,6 @@
         "Alíquotas"
       ],
       "url": "https://tagdlaw.com.br/?p=16930"
-    },
-    {
-      "id": "times-2026-11-03-is-fevereiro",
-      "data": "2026-11-03",
-      "titulo": "Imposto Seletivo começa em fevereiro; governo estuda PEC para manter IPI em janeiro",
-      "resumo": "Durigan explicou que as alíquotas foram calibradas para preservar em 2027 a carga hoje associada ao IPI nos setores alcançados.",
-      "fonte": "Times Brasil",
-      "tipo": "imprensa",
-      "temas": [
-        "Imposto Seletivo"
-      ],
-      "url": "https://timesbrasil.com.br/brasil/imposto-seletivo-deve-comecar-em-fevereiro-de-2027-governo-preve-manter-ipi-na-transicao/"
     }
   ]
 }
