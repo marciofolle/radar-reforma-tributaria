@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T12:05:00-03:00",
+  "atualizado_em": "2026-11-26T13:10:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -224,6 +224,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-26-exportacao-servicos-ibs-cbs",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T13:10:00-03:00",
+      "titulo": "Cliente no exterior não basta: serviço só é exportação no IBS e na CBS se for consumido fora do país",
+      "resumo": "Pelos arts. 79 e 80 da LC 214/2025, alterados pela LC 227/2026, adquirente e destinatário precisam estar no exterior; filial brasileira como destinatária descaracteriza a exportação. Se o consumo for parcial no Brasil, só a parcela consumida fora é desonerada, com manutenção dos créditos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "IBS",
+        "CBS",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81190/cliente-estrangeiro-nao-garante-exportacao-para-ibs-e-cbs/"
     },
     {
       "id": "metropoles-2026-11-25-frentes-comissao-fiscalizar-reforma",
@@ -4518,20 +4533,6 @@
         "Alíquotas"
       ],
       "url": "https://mundologistica.com.br/noticias/cbs-de-11-3-pode-pressionar-precos-de-servicos-e-fretes-em-2027"
-    },
-    {
-      "id": "migalhas-2026-11-03-noventena",
-      "data": "2026-11-03",
-      "titulo": "CBS em 2027: a cobrança começa mesmo em 1º de janeiro?",
-      "resumo": "Artigo discute o conflito entre a noventena constitucional e o prazo da LC 214/2025 para fixar a alíquota; recomenda não tratar 1º/01/2027 como data certa, reservar caixa e revisar contratos longos.",
-      "fonte": "Migalhas",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Judiciário",
-        "Legislação"
-      ],
-      "url": "https://www.migalhas.com.br/depeso/467608/cbs-em-2027-cobranca-em-janeiro-ou-nao-risco-calculavel"
     }
   ]
 }
