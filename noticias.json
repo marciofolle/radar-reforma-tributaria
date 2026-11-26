@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T13:54:40-03:00",
+  "atualizado_em": "2026-11-26T14:53:47-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "senado-2026-11-26-ifi-estudo-aliquota-cbs-braga",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T14:53:47-03:00",
+      "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+      "resumo": "Nota técnica da IFI entregue ao relator parte do cálculo do TCU (11,35%) sem propor alternativa: sem exceções a CBS seria de 7%, com o efeito da Tese do Século cairia para 10,78% e sem o redutor das compras públicas ficaria em 10,84%. Senado tem até 15/12 para fixar a alíquota.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga"
+    },
+    {
+      "id": "contabeis-2026-11-26-split-payment-contratos-creditos",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T14:53:47-03:00",
+      "titulo": "Empresas incluem cláusula de split payment em contratos para não perder crédito de IBS e CBS",
+      "resumo": "Contratos com fornecedores passam a prever adesão ao split payment e regras para o recolhimento pelo adquirente (art. 36 da LC 214/2025); escritórios relatam alta de 50% na procura. Estimativa privada aponta impacto de até R$ 180 bilhões por ano no capital de giro.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "Créditos"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81196/split-payment-empresas-revisam-contratos-para-garantir-creditos"
+    },
     {
       "id": "gazetadopovo-2026-11-26-confederacoes-stf-anterioridade-cbs-ibs",
       "data": "2026-11-26",
@@ -4506,33 +4535,6 @@
         "Imposto Seletivo"
       ],
       "url": "https://timesbrasil.com.br/brasil/imposto-seletivo-deve-comecar-em-fevereiro-de-2027-governo-preve-manter-ipi-na-transicao/"
-    },
-    {
-      "id": "amdjus-2026-11-03-beneficios",
-      "data": "2026-11-03",
-      "titulo": "Fazenda quer rever benefícios fiscais da reforma em 2027 para baixar a CBS",
-      "resumo": "O ministro pretende abrir discussão com o Congresso ao longo de 2027 sobre os tratamentos favorecidos, que pressionam a alíquota de referência.",
-      "fonte": "AmdJus",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://amdjus.com.br/durigan-planeja-revisar-beneficios-fiscais-em-2027-para-reduzir-aliquota-da-cbs/"
-    },
-    {
-      "id": "mundolog-2026-11-03-fretes",
-      "data": "2026-11-03",
-      "titulo": "CBS de 11,3% deve pressionar fretes e exigir revisão de contratos de transporte",
-      "resumo": "Transportadoras rodoviárias somam a nova CBS a diesel, folha e seguros; contratos de longo prazo precificados com alíquotas menores podem precisar ser renegociados.",
-      "fonte": "Mundo Logística",
-      "tipo": "imprensa",
-      "temas": [
-        "Transporte",
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://mundologistica.com.br/noticias/cbs-de-11-3-pode-pressionar-precos-de-servicos-e-fretes-em-2027"
     }
   ]
 }
