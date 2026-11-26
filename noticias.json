@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T03:54:27-03:00",
+  "atualizado_em": "2026-11-26T04:55:19-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -51,6 +51,12 @@
       "titulo": "NFS-e Nacional: releases 1 a 3 do leiaute da reforma em produção",
       "detalhe": "Release 2 em produção restrita desde 24/11 (verCalcIBSCBS, ajuste de base no comércio exterior); release 4, do Simples Nacional, previsto para 24/12",
       "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-libera-novas-funcoes-para-testes-de-adequacao-a-reforma-tributaria/"
+    },
+    {
+      "data": "2026-12-08",
+      "titulo": "Senado (CAE) — parecer de Eduardo Braga sobre a alíquota de referência da CBS",
+      "detalhe": "Relator deve apresentar o parecer à CAE até 8/12; prazo final para o Senado fixar a alíquota de 2027 é 15/12. Na Câmara, a CFT retoma o debate com o secretário da Receita, Robinson Barreirinhas",
+      "url": "https://fenacon.org.br/reforma-tributaria/cnc-alerta-para-impactos-da-aliquota-de-113-da-cbs-no-setor-de-servicos/"
     },
     {
       "data": "2026-12-14",
@@ -144,6 +150,37 @@
     }
   ],
   "itens": [
+    {
+      "id": "fenacon-2026-11-26-susep-orientacoes-reforma-tributaria",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T04:55:19-03:00",
+      "titulo": "Susep apresenta orientações ao mercado sobre impactos da Reforma Tributária",
+      "resumo": "Relatório final do grupo de trabalho da Susep orienta seguradoras a registrar IBS e CBS como passivo tributário, fora de receitas e despesas, e prevê que atrasos ou erros ligados às novas exigências nas competências de janeiro a março de 2027 não gerem multas nem sanções.",
+      "fonte": "Fenacon",
+      "orgao": "Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "Setores",
+        "Obrigações acessórias"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
+    },
+    {
+      "id": "fenacon-2026-11-25-parlamentares-fazenda-impasses-reforma",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T04:55:19-03:00",
+      "titulo": "Parlamentares vão à Fazenda na quinta-feira destravar impasses da reforma tributária",
+      "resumo": "Frentes do empreendedorismo e de comércio e serviços se reúnem com Dario Durigan nesta quinta (26/11) levando 16 pontos pendentes, como a base de cálculo da CBS; há proposta de adiar a vigência por 90 a 120 dias e tributaristas defendem CBS de no máximo 10%.",
+      "fonte": "Fenacon",
+      "orgao": "Fenacon",
+      "tipo": "entidade",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Legislação"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/"
+    },
     {
       "id": "reformatributaria-2026-11-25-nfse-release-2-producao-restrita",
       "data": "2026-11-25",
@@ -4489,34 +4526,6 @@
         "CBS"
       ],
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
-    },
-    {
-      "id": "rfb-2026-10-29-cooperativas",
-      "data": "2026-10-29",
-      "titulo": "Receita e CGIBS discutem ampliar até 30/11 o prazo de opção das cooperativas pelo regime específico",
-      "resumo": "Possível extensão do prazo para cooperativas aderirem ao regime específico da CBS e do IBS.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Setores",
-        "CBS",
-        "IBS"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-cgibs-discutem-ampliacao-do-prazo-de-opcao-pelo-regime-especifico-da-cbs-e-do-ibs-para-as-cooperativas-ate-30-de-novembro"
-    },
-    {
-      "id": "iob-2026-10-29-tcu-cbs",
-      "data": "2026-10-29",
-      "titulo": "TCU: CBS de 11,3468% e redutor de 44,2% para compras públicas",
-      "resumo": "Cronograma até a vigência: Senado fixa por resolução até 15/12; se não deliberar, vale o cálculo do TCU a partir de 1º/01/2027.",
-      "fonte": "IOB Notícias",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://noticias.iob.com.br/?p=90385"
     }
   ]
 }
