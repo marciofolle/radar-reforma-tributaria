@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T01:53:57-03:00",
+  "atualizado_em": "2026-11-26T02:55:14-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -276,6 +276,22 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "senado-2026-11-25-relatorio-receita-2027",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T02:55:14-03:00",
+      "titulo": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+      "resumo": "Relator da receita do Orçamento de 2027 diz que será o primeiro com a CBS no lugar de PIS/Cofins e com o Imposto Seletivo, com estimativa que mantém a carga; corte adicional de 20% em benefícios da LC 239/2026 tem impacto de R$ 15,4 bilhões.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027"
     },
     {
       "id": "reformatributaria-2026-11-24-filmes-publicitarios-aliquota-reduzida",
@@ -4501,20 +4517,6 @@
         "Alíquotas"
       ],
       "url": "https://noticias.iob.com.br/?p=90385"
-    },
-    {
-      "id": "mundolog-2026-10-29-simples-transp",
-      "data": "2026-10-29",
-      "titulo": "Transportadoras do Simples: escolha entre modelo puro e híbrido afeta o preço do frete",
-      "resumo": "O regime do prestador define o crédito que o embarcador aproveita. O prazo de opção terminou em 30/10; o cancelamento pode ser feito de 3/11 a 20/12.",
-      "fonte": "Mundo Logística",
-      "tipo": "imprensa",
-      "temas": [
-        "Transporte",
-        "Simples Nacional",
-        "Créditos"
-      ],
-      "url": "https://mundologistica.com.br/noticias/transportadoras-simples-nacional-30-de-outubro-ibs-cbs"
     }
   ]
 }
