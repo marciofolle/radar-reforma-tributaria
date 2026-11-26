@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-25T23:55:25-03:00",
+  "atualizado_em": "2026-11-26T00:54:06-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -211,6 +211,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "conjur-2026-11-25-contratos-intragrupo-ibs-cbs",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T00:54:06-03:00",
+      "titulo": "Artigo: com IBS e CBS, contratos entre empresas do mesmo grupo terão de refletir a operação real",
+      "resumo": "Advogadas defendem que contratos intragrupo, como rateio de despesas e licenças de tecnologia, sejam revistos para descrever a operação efetiva, porque a natureza da prestação, e não o nome do contrato, definirá a incidência e o crédito de IBS e CBS a partir de 2027.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-25/reforma-tributaria-e-contratos-intragrupo-aderencia-contratual-a-realidade-operacional/"
     },
     {
       "id": "contabeis-2026-11-24-mei-simples-mudancas-2027",
@@ -4494,21 +4509,6 @@
         "Setores"
       ],
       "url": "https://www.fecombustiveis.org.br/noticia/divulgacao-de-aliquotas-da-cbs-para-combustiveis-atende-a-demanda-da-cnc-por-previisibilidade/266085"
-    },
-    {
-      "id": "reformatributaria-2026-10-13-cbs-gasolina-079-diesel-035",
-      "data": "2026-10-13",
-      "adicionado_em": "2026-11-23T13:52:31-03:00",
-      "titulo": "Fazenda fixa CBS de R$ 0,79 por litro na gasolina e R$ 0,35 no diesel a partir de 2027",
-      "resumo": "A portaria define alíquotas específicas para oito combustíveis; o Decreto 13.133/2026 delegou ao ministro da Fazenda a divulgação das alíquotas de 2027 e dos reajustes anuais, e a SPE monitorará preços até o fim de 2026 para propor subvenções se houver choques.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Transporte"
-      ],
-      "url": "https://www.reformatributaria.com/iva/governo-define-cbs-de-r-079-por-litro-de-gasolina-leia-a-portaria/"
     }
   ]
 }
