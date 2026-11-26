@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T07:54:32-03:00",
+  "atualizado_em": "2026-11-26T08:56:16-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,22 @@
     }
   ],
   "itens": [
+    {
+      "id": "fenacon-2026-11-26-cnc-alerta-aliquota-cbs-servicos",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T08:56:16-03:00",
+      "titulo": "CNC alerta para impactos da alíquota de 11,3% da CBS no setor de serviços",
+      "resumo": "Na audiência da CFT da Câmara em 24/11, a CNC apontou risco de alta de carga para empresas hoje no PIS/Cofins cumulativo; o deputado Luiz Carlos Hauly vê espaço para 11%. Braga deve apresentar parecer no Senado até 8/12, e a CFT ouvirá Barreirinhas.",
+      "fonte": "Fenacon",
+      "orgao": "CNC",
+      "tipo": "entidade",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Setores"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/cnc-alerta-para-impactos-da-aliquota-de-113-da-cbs-no-setor-de-servicos/"
+    },
     {
       "id": "fenacon-2026-11-26-susep-orientacoes-reforma-tributaria",
       "data": "2026-11-26",
@@ -549,6 +565,35 @@
         "Legislação"
       ],
       "url": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+    },
+    {
+      "id": "fenacon-2026-11-23-escritorios-contabeis-apagao-mao-de-obra",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-26T08:56:16-03:00",
+      "titulo": "Às vésperas da reforma tributária, escritórios contábeis têm apagão de mão de obra",
+      "resumo": "Sondagem de RH contábil do Sescon-SP com a Omie mostra que 87% dos escritórios paulistas têm dificuldade para contratar diante das demandas da reforma; a falta de qualificação técnica é o principal obstáculo, citado por 74%.",
+      "fonte": "Fenacon",
+      "orgao": "Sescon-SP",
+      "tipo": "entidade",
+      "temas": [
+        "Setores"
+      ],
+      "url": "https://fenacon.org.br/reforma-tributaria/as-vesperas-da-reforma-tributaria-escritorios-contabeis-tem-apagao-de-mao-de-obra/"
+    },
+    {
+      "id": "setcesp-2026-11-23-piloto-cbs-disponivel",
+      "data": "2026-11-23",
+      "adicionado_em": "2026-11-26T08:56:16-03:00",
+      "titulo": "Piloto de acesso à CBS está disponível",
+      "resumo": "Assessoria jurídica do SETCESP orienta transportadoras sobre a Portaria RFB 763/2026: qualquer empresa com CNPJ pode testar o piloto da CBS, sem custo, desde que tenha procuração eletrônica específica e cumpra a habilitação; o teste não altera obrigações tributárias.",
+      "fonte": "SETCESP",
+      "orgao": "SETCESP",
+      "tipo": "entidade",
+      "temas": [
+        "CBS",
+        "Obrigações acessórias"
+      ],
+      "url": "https://setcesp.org.br/noticias/piloto-de-acesso-a-cbs-esta-disponivel/"
     },
     {
       "id": "contabeis-2026-11-23-orientacao-25-mil-contadores-cbs-ibs",
@@ -4484,48 +4529,6 @@
         "Documentos fiscais"
       ],
       "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY="
-    },
-    {
-      "id": "spedbrasil-2026-10-30-nfcom",
-      "data": "2026-10-30",
-      "titulo": "NFCom NT 2026.005: Simples Nacional passa a alimentar a apuração assistida",
-      "resumo": "Define o preenchimento de IBS e CBS na NFCom por optantes do Simples e cria evento de tributação específico para o regime.",
-      "fonte": "Portal SPED Brasil",
-      "tipo": "imprensa",
-      "temas": [
-        "Documentos fiscais",
-        "Simples Nacional"
-      ],
-      "url": "https://portalspedbrasil.com.br/forum/nfcom-nota-tecnica-2026-005-v1-00-simples-nacional-passa-a-alimentar-apuracao-assistida-do-ibs-e-da-cbs/"
-    },
-    {
-      "id": "bpmoney-2026-10-30-cargas-aviacao",
-      "data": "2026-10-30",
-      "titulo": "Transporte de cargas, portos e aviação: setores sem redução sentem a CBS de 11,3%",
-      "resumo": "Sem alíquota reduzida, esses segmentos tendem a ter custo maior; o efeito final depende dos créditos aproveitados e do repasse ao preço, segundo tributarista ouvida.",
-      "fonte": "BP Money",
-      "tipo": "imprensa",
-      "temas": [
-        "Transporte",
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://bpmoney.com.br/economia/cbs-de-113-pode-encarecer-transporte-de-cargas-e-aviacao/"
-    },
-    {
-      "id": "rfb-2026-10-29-1milhao",
-      "data": "2026-10-29",
-      "titulo": "Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
-      "resumo": "Balanço da Receita Federal sobre as opções feitas no Portal do Simples Nacional para o regime regular em 2027.",
-      "fonte": "Receita Federal",
-      "orgao": "Receita Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Simples Nacional",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs"
     }
   ]
 }
