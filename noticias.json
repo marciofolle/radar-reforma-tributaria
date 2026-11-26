@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T08:56:16-03:00",
+  "atualizado_em": "2026-11-26T09:55:32-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -150,6 +150,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "contabeis-2026-11-26-confederacoes-stf-adiar-cobranca",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T09:55:32-03:00",
+      "titulo": "CNA, CNC e CNT vão ao STF para adiar em 12 meses a cobrança efetiva da CBS e do IBS",
+      "resumo": "As três confederações pediram ao Supremo, em 25/11, que 2027 siga como ano de testes, com PIS/Cofins mantidos, alegando regras de crédito indefinidas e desrespeito à antecedência de 90 dias. Estudo da CNC estima R$ 42,7 bilhões mensais de capital de giro retidos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "CBS",
+        "Transporte"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81184/entidades-pedem-adiamento-da-cobranca-da-reforma-tributaria-em-2027/"
+    },
+    {
+      "id": "contabeis-2026-11-26-estudos-contestam-cbs-tcu",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T09:55:32-03:00",
+      "titulo": "Três estudos levados às frentes parlamentares apontam CBS entre 9,1% e 9,84%, abaixo dos 11,3% do TCU",
+      "resumo": "Apresentados em 24/11 à Frente do Empreendedorismo e à de Comércio e Serviços, os cálculos de Loria Advogados/Fábio Goto (9,1%), FGV EESP (cenário central de 9,7%) e Eduardo Fleury (9,84%) embasam a pressão sobre o Senado, que fixa a alíquota até 15/12.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81180/aliquota-da-cbs-estudos-contestam-11-3-do-tcu-para-2027/"
+    },
     {
       "id": "fenacon-2026-11-26-cnc-alerta-aliquota-cbs-servicos",
       "data": "2026-11-26",
@@ -4501,34 +4530,6 @@
         "Simples Nacional"
       ],
       "url": "https://inventti.com.br/?p=25281"
-    },
-    {
-      "id": "fenacon-2026-11-02-cnc-cbs",
-      "data": "2026-11-02",
-      "titulo": "CNC critica CBS de 11,3% e alerta para aumento da carga",
-      "resumo": "A confederação do comércio aponta que prestadores hoje no PIS/Cofins cumulativo (3,65%) e empresas intensivas em mão de obra, cuja folha não gera crédito, são os mais expostos; pede transparência no cálculo.",
-      "fonte": "Fenacon",
-      "orgao": "CNC / Fenacon",
-      "tipo": "entidade",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Setores"
-      ],
-      "url": "https://fenacon.org.br/reforma-tributaria/cnc-critica-aliquota-da-cbs-acima-das-expectativas-e-alerta-para-risco-de-aumento-da-carga-tributaria/"
-    },
-    {
-      "id": "nfe-2026-10-30-nt2026007",
-      "data": "2026-10-30",
-      "titulo": "NT 2026.007 v1.11 — Emissão de NF-e por contribuinte exclusivo do IBS/CBS",
-      "resumo": "Consolida validações para emitentes sem Inscrição Estadual, com consulta à LCC-RFB e ao CCC e autorização centralizada na SVRS. Produção a partir de 03/11/2026.",
-      "fonte": "Portal Nacional da NF-e",
-      "orgao": "Portal NF-e",
-      "tipo": "oficial",
-      "temas": [
-        "Documentos fiscais"
-      ],
-      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY="
     }
   ]
 }
