@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T10:54:33-03:00",
+  "atualizado_em": "2026-11-26T12:05:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -151,6 +151,21 @@
   ],
   "itens": [
     {
+      "id": "gazetadopovo-2026-11-26-confederacoes-stf-anterioridade-cbs-ibs",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T12:05:00-03:00",
+      "titulo": "Confederações pedem ao STF que a cobrança de CBS e IBS só comece 90 dias após a regulamentação e a alíquota",
+      "resumo": "Na petição assinada em 24/11 e ainda sem número nem relator, CNA, CNC e CNT pedem que a noventena conte só após os atos pendentes e a fixação da CBS; com o prazo do Senado em 15/12, as empresas teriam 17 dias de antecedência.",
+      "fonte": "Gazeta do Povo",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "CBS",
+        "Transporte"
+      ],
+      "url": "https://www.gazetadopovo.com.br/economia/entidades-do-setor-produtivo-pedem-ao-stf-adiamento-da-reforma-tributaria/"
+    },
+    {
       "id": "contabeis-2026-11-26-confederacoes-stf-adiar-cobranca",
       "data": "2026-11-26",
       "adicionado_em": "2026-11-26T09:55:32-03:00",
@@ -211,6 +226,20 @@
       "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
     },
     {
+      "id": "metropoles-2026-11-25-frentes-comissao-fiscalizar-reforma",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T12:05:00-03:00",
+      "titulo": "Frentes do Empreendedorismo e do Comércio vão pedir a Hugo Motta comissão para fiscalizar a implantação da reforma",
+      "resumo": "Reunidas em 24/11, FPE e FCS querem uma comissão temporária na Câmara, nos moldes do Reino Unido, para acompanhar a transição; a alíquota da CBS é a principal preocupação, e as frentes levam o tema a Durigan nesta quinta (26/11).",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://metropoles.com/colunas/igor-gadelha/deputados-pedirao-a-motta-comissao-para-fiscalizar-reforma-tributaria"
+    },
+    {
       "id": "fenacon-2026-11-25-parlamentares-fazenda-impasses-reforma",
       "data": "2026-11-25",
       "adicionado_em": "2026-11-26T04:55:19-03:00",
@@ -225,6 +254,22 @@
         "Legislação"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/parlamentares-vao-a-fazenda-na-quinta-feira-destravar-impasses-da-reforma-tributaria/"
+    },
+    {
+      "id": "senado-2026-11-25-relatorio-receita-2027",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T02:55:14-03:00",
+      "titulo": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+      "resumo": "Relator da receita do Orçamento de 2027 diz que será o primeiro com a CBS no lugar de PIS/Cofins e com o Imposto Seletivo, com estimativa que mantém a carga; corte adicional de 20% em benefícios da LC 239/2026 tem impacto de R$ 15,4 bilhões.",
+      "fonte": "Agência Senado",
+      "orgao": "Senado Federal",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Imposto Seletivo",
+        "Legislação"
+      ],
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027"
     },
     {
       "id": "reformatributaria-2026-11-25-nfse-release-2-producao-restrita",
@@ -358,22 +403,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
-    },
-    {
-      "id": "senado-2026-11-25-relatorio-receita-2027",
-      "data": "2026-11-25",
-      "adicionado_em": "2026-11-26T02:55:14-03:00",
-      "titulo": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
-      "resumo": "Relator da receita do Orçamento de 2027 diz que será o primeiro com a CBS no lugar de PIS/Cofins e com o Imposto Seletivo, com estimativa que mantém a carga; corte adicional de 20% em benefícios da LC 239/2026 tem impacto de R$ 15,4 bilhões.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027"
     },
     {
       "id": "reformatributaria-2026-11-24-filmes-publicitarios-aliquota-reduzida",
@@ -4503,33 +4532,6 @@
         "Legislação"
       ],
       "url": "https://www.migalhas.com.br/depeso/467608/cbs-em-2027-cobranca-em-janeiro-ou-nao-risco-calculavel"
-    },
-    {
-      "id": "barbieri-2026-11-02-ribs",
-      "data": "2026-11-02",
-      "titulo": "Guia do Regulamento do IBS (Resolução CGIBS 6/2026)",
-      "resumo": "Análise do regulamento divulgado pelo CGIBS em 30/4, já alterado pela Resolução CGIBS 13/2026, e comparação com o regulamento da CBS (Decreto 12.955/2026 e alterações).",
-      "fonte": "Barbieri Advogados",
-      "tipo": "imprensa",
-      "temas": [
-        "IBS",
-        "Legislação"
-      ],
-      "url": "https://www.barbieriadvogados.com/?p=14956"
-    },
-    {
-      "id": "inventti-2026-11-02-cte-nt2026005",
-      "data": "2026-11-02",
-      "titulo": "CT-e NT 2026.005: regras de IBS e CBS para transportadoras do Simples Nacional",
-      "resumo": "Cria o campo tpRegimeIBSCBS e o grupo gTribSN no CT-e, CT-e OS e CT-e Simplificado. Novos campos entram em produção em 16/11/2026 e as regras de validação em 14/12/2026.",
-      "fonte": "Inventti",
-      "tipo": "imprensa",
-      "temas": [
-        "Transporte",
-        "Documentos fiscais",
-        "Simples Nacional"
-      ],
-      "url": "https://inventti.com.br/?p=25281"
     }
   ]
 }
