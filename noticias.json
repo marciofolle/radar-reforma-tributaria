@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T00:54:06-03:00",
+  "atualizado_em": "2026-11-26T01:53:57-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -45,6 +45,12 @@
       "titulo": "Cooperativas — opção pelo regime específico (prazo em discussão / suspenso por liminar)",
       "detalhe": "Receita e CGIBS discutem ampliar o prazo até 30/11; liminar da Justiça do DF (OCB) suspendeu o prazo para as cooperativas do sistema OCB até a publicação dos atos pendentes",
       "url": "https://www.reformatributaria.com/iva/justica-do-df-suspende-prazo-de-opcao-das-cooperativas-pelo-regime-do-ibs/"
+    },
+    {
+      "data": "2026-12-07",
+      "titulo": "NFS-e Nacional: releases 1 a 3 do leiaute da reforma em produção",
+      "detalhe": "Release 2 em produção restrita desde 24/11 (verCalcIBSCBS, ajuste de base no comércio exterior); release 4, do Simples Nacional, previsto para 24/12",
+      "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-libera-novas-funcoes-para-testes-de-adequacao-a-reforma-tributaria/"
     },
     {
       "data": "2026-12-14",
@@ -139,6 +145,65 @@
   ],
   "itens": [
     {
+      "id": "reformatributaria-2026-11-25-nfse-release-2-producao-restrita",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T01:53:57-03:00",
+      "titulo": "NFS-e Nacional libera release 2 em produção restrita, com versão da calculadora e ajuste de base no comércio exterior",
+      "resumo": "O Comitê Gestor da NFS-e abriu em 24/11 o release 2 para testes, com campos como verCalcIBSCBS e vAjusteBCIBSCBSComExt e nota do tomador na importação de serviços. Releases 1 a 3 vão à produção em 7/12; o do Simples, em 24/12.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Documentos fiscais",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/documentos-fiscais/nfse-libera-novas-funcoes-para-testes-de-adequacao-a-reforma-tributaria/"
+    },
+    {
+      "id": "reformatributaria-2026-11-25-mandado-de-seguranca-cbs",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T01:53:57-03:00",
+      "titulo": "Artigo: Eurico Santi vê pouca utilidade no mandado de segurança individual contra glosa de créditos de CBS",
+      "resumo": "Para o professor da FGV, como o ônus da CBS e do IBS recai sobre o consumidor final, restrições a créditos em operações B2B não geram prejuízo econômico às empresas, e a defesa da não cumulatividade deve migrar para ações coletivas e concentradas.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Créditos",
+        "CBS"
+      ],
+      "url": "https://www.reformatributaria.com/opiniao/quem-e-como-sera-o-mandado-de-seguranca-em-face-da-cbs/"
+    },
+    {
+      "id": "reformatributaria-2026-11-25-split-payment-esse-desconhecido",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T01:53:57-03:00",
+      "titulo": "Artigo: split payment é só uma das cinco formas de quitar IBS e CBS e não elimina o risco de caixa",
+      "resumo": "O advogado Matheus Bueno lembra que o split não é condição única para o crédito do comprador e aponta o descasamento entre créditos e débitos, com ressarcimento demorado e vendas parceladas sem diferimento, como o principal risco para empresas de giro rápido.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Split payment",
+        "Créditos"
+      ],
+      "url": "https://www.reformatributaria.com/opiniao/split-payment-esse-desconhecido/"
+    },
+    {
+      "id": "conjur-2026-11-25-contratos-intragrupo-ibs-cbs",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T00:54:06-03:00",
+      "titulo": "Artigo: com IBS e CBS, contratos entre empresas do mesmo grupo terão de refletir a operação real",
+      "resumo": "Advogadas defendem que contratos intragrupo, como rateio de despesas e licenças de tecnologia, sejam revistos para descrever a operação efetiva, porque a natureza da prestação, e não o nome do contrato, definirá a incidência e o crédito de IBS e CBS a partir de 2027.",
+      "fonte": "ConJur",
+      "tipo": "imprensa",
+      "temas": [
+        "Créditos",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://conjur.com.br/2026-nov-25/reforma-tributaria-e-contratos-intragrupo-aderencia-contratual-a-realidade-operacional/"
+    },
+    {
       "id": "migalhas-2026-11-25-produtor-rural-nao-contribuinte",
       "data": "2026-11-25",
       "adicionado_em": "2026-11-25T19:00:00-03:00",
@@ -213,19 +278,18 @@
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
     },
     {
-      "id": "conjur-2026-11-25-contratos-intragrupo-ibs-cbs",
-      "data": "2026-11-25",
-      "adicionado_em": "2026-11-26T00:54:06-03:00",
-      "titulo": "Artigo: com IBS e CBS, contratos entre empresas do mesmo grupo terão de refletir a operação real",
-      "resumo": "Advogadas defendem que contratos intragrupo, como rateio de despesas e licenças de tecnologia, sejam revistos para descrever a operação efetiva, porque a natureza da prestação, e não o nome do contrato, definirá a incidência e o crédito de IBS e CBS a partir de 2027.",
-      "fonte": "ConJur",
+      "id": "reformatributaria-2026-11-24-filmes-publicitarios-aliquota-reduzida",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-26T01:53:57-03:00",
+      "titulo": "Artigo: filmes publicitários nacionais podem ter redução de 60% no IBS e na CBS, defende tributarista",
+      "resumo": "Paulo Andrade (Madrona) sustenta que obras publicitárias se enquadram como produção audiovisual do Anexo X da LC 214/2025 e, cumpridos os requisitos de obra brasileira da MP 2.228-1, teriam alíquota reduzida em 60%, tese ainda não pacificada.",
+      "fonte": "Portal da Reforma Tributária",
       "tipo": "imprensa",
       "temas": [
-        "Créditos",
-        "IBS",
-        "CBS"
+        "Setores",
+        "Alíquotas"
       ],
-      "url": "https://conjur.com.br/2026-nov-25/reforma-tributaria-e-contratos-intragrupo-aderencia-contratual-a-realidade-operacional/"
+      "url": "https://www.reformatributaria.com/opiniao/filmes-publicitarios-sao-elegiveis-a-aliquota-reduzida-de-ibs-cbs/"
     },
     {
       "id": "contabeis-2026-11-24-mei-simples-mudancas-2027",
@@ -4451,64 +4515,6 @@
         "Créditos"
       ],
       "url": "https://mundologistica.com.br/noticias/transportadoras-simples-nacional-30-de-outubro-ibs-cbs"
-    },
-    {
-      "id": "senado-2026-10-28-tcu",
-      "data": "2026-10-28",
-      "titulo": "Reforma tributária: TCU calcula alíquota da CBS em 11,3% para 2027",
-      "resumo": "Cobertura oficial da sessão do TCU que aprovou a alíquota de referência e o encaminhamento ao Senado.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027"
-    },
-    {
-      "id": "jota-2026-10-28-tcu",
-      "data": "2026-10-28",
-      "titulo": "JOTA: com CBS de 11,3%, IVA brasileiro pode chegar a 29%",
-      "resumo": "Cobertura da aprovação pelo TCU da alíquota de referência e do redutor de 44,2% para compras públicas, com avaliação de especialistas sobre o efeito na alíquota total.",
-      "fonte": "JOTA",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://jota.info/tributos/tcu-aprova-aliquota-de-referencia-de-113-para-cbs-e-redutor-de-442"
-    },
-    {
-      "id": "senado-2026-10-26-avanca",
-      "data": "2026-10-26",
-      "titulo": "Reforma tributária: alíquota da CBS avança nesta semana",
-      "resumo": "Explica o rito de fixação, as estimativas anteriores (CBS 9,21% e IBS 18,7%) e as travas legais de revisão em 2029 e 2035.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "IBS",
-        "Alíquotas"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana"
-    },
-    {
-      "id": "fecombustiveis-2026-10-15-aliquotas-cbs-combustiveis-cnc",
-      "data": "2026-10-15",
-      "adicionado_em": "2026-11-23T13:52:31-03:00",
-      "titulo": "Divulgação de alíquotas da CBS para combustíveis atende à demanda da CNC por previsibilidade",
-      "resumo": "A Fecombustíveis registra que a Portaria MF 3.074/2026 atende ao pedido da CNC por definição antecipada da tributação; na avaliação da federação, os valores equivalem em linhas gerais ao PIS/Cofins atual dos combustíveis, sem alterar a carga do setor.",
-      "fonte": "Fecombustíveis",
-      "orgao": "Federação Nacional do Comércio de Combustíveis e de Lubrificantes",
-      "tipo": "entidade",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Setores"
-      ],
-      "url": "https://www.fecombustiveis.org.br/noticia/divulgacao-de-aliquotas-da-cbs-para-combustiveis-atende-a-demanda-da-cnc-por-previisibilidade/266085"
     }
   ]
 }
