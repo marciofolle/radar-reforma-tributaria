@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T16:55:29-03:00",
+  "atualizado_em": "2026-11-26T17:55:04-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,34 @@
     }
   ],
   "itens": [
+    {
+      "id": "metropoles-2026-11-26-ifi-cbs-7-sem-excecoes",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T17:55:04-03:00",
+      "titulo": "IFI calcula que exceções da reforma tiram 36,9% da base e somam 4,3 pontos à alíquota da CBS",
+      "resumo": "Segundo nota técnica da Instituição Fiscal Independente, regimes favorecidos retiram cerca de R$ 2,1 trilhões de uma base de R$ 5,7 trilhões; sem eles, a CBS de 11,3% validada pelo TCU cairia para 7%. O Senado tem até 15/12 para deliberar.",
+      "fonte": "Metrópoles",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.metropoles.com/brasil/reforma-tributaria-aliquota-de-novo-imposto-seria-de-7-diz-ifi"
+    },
+    {
+      "id": "reformatributaria-2026-11-26-artigo-cbs-margem-pequeno-empresario",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T17:55:04-03:00",
+      "titulo": "Artigo: com a CBS de 11,3%, pequeno empresário precisa recalcular margem por produto e canal antes de janeiro",
+      "resumo": "Colunista do Portal argumenta que a alíquota é a parte fácil: comissões de marketplace, frete e taxas de cartão raramente entram no preço revisado. Recomenda refazer a margem dos 20 a 30 principais produtos por canal de venda antes da troca do PIS/Cofins pela CBS.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.reformatributaria.com/reforma-tributaria-brasil/cbs-de-113-onde-esta-a-margem-do-pequeno-empresario/"
+    },
     {
       "id": "reformatributaria-2026-11-26-braga-votar-cbs-9-dezembro-hiato",
       "data": "2026-11-26",
@@ -4516,34 +4544,6 @@
         "Setores"
       ],
       "url": "https://mundologistica.com.br/noticias/transportadoras-de-minas-estudam-reajuste-no-frete-a-partir-de-janeiro"
-    },
-    {
-      "id": "infomoney-2026-11-03-relator-cbs-surpresa",
-      "data": "2026-11-03",
-      "adicionado_em": "2026-11-06T18:45:33-03:00",
-      "titulo": "Relator da CBS no Senado diz que todos foram pegos de surpresa com alíquota de 11,3%",
-      "resumo": "Eduardo Braga, relator no Senado, afirmou que o cálculo do TCU (11,3468%) surpreendeu os parlamentares, acima dos 8,8% projetados pela Fazenda em 2024 e dos 9,21% estimados em julho. Sem resolução até 15/12, vale o valor do TCU.",
-      "fonte": "InfoMoney",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
-    },
-    {
-      "id": "senado-2026-11-03-calculo-cbs",
-      "data": "2026-11-03",
-      "titulo": "Senado deve receber cálculo da CBS na próxima terça para definir alíquota",
-      "resumo": "O TCU envia o estudo em 10/11; a CAE elabora o projeto de resolução. Senadores pediram que o debate também considere o IBS e cobraram da Fazenda os dados usados no cálculo.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota"
     }
   ]
 }
