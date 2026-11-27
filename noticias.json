@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T00:54:12-03:00",
+  "atualizado_em": "2026-11-27T01:54:17-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,21 @@
     }
   ],
   "itens": [
+    {
+      "id": "cnn-2026-11-26-deputados-fazenda-cbs-abaixo-11",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-27T01:54:17-03:00",
+      "titulo": "Na Fazenda, deputados pedem CBS abaixo de 11% e cálculo só com a arrecadação de 2024",
+      "resumo": "Frentes do Empreendedorismo e do Comércio levaram à equipe da Fazenda a proposta de excluir 2023 da base do cálculo do TCU, rever ganhos de formalização e dar em 2027 um ano de adaptação sem multas por erro de boa-fé; sugestões irão a Eduardo Braga na próxima semana.",
+      "fonte": "CNN Brasil",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Obrigações acessórias"
+      ],
+      "url": "https://www.cnnbrasil.com.br/politica/deputados-defendem-aliquota-da-cbs-abaixo-de-11-em-reuniao-na-fazenda/"
+    },
     {
       "id": "exame-2026-11-26-trabuco-fazenda-reforma-consumo",
       "data": "2026-11-26",
@@ -4537,18 +4552,6 @@
         "Alíquotas"
       ],
       "url": "https://www12.senado.leg.br/noticias/audios/2026/11/comissao-vai-debater-aliquota-da-cbs"
-    },
-    {
-      "id": "contabeis-2026-11-04-adiamento-2028",
-      "data": "2026-11-04",
-      "titulo": "Entidades tributárias pedem adiar a cobrança da CBS para 2028",
-      "resumo": "Carta aberta cita indefinição da alíquota e pouco tempo para adaptar sistemas. O pedido não altera o calendário legal: CBS cheia e extinção de PIS/Cofins seguem previstas para 2027.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/80576/reforma-tributaria-entidades-pedem-adiamento-da-cbs-para-2028/"
     }
   ]
 }
