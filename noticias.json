@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T20:54:01-03:00",
+  "atualizado_em": "2026-11-26T21:54:16-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,20 @@
     }
   ],
   "itens": [
+    {
+      "id": "exame-2026-11-26-trabuco-fazenda-reforma-consumo",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T21:54:16-03:00",
+      "titulo": "Trabuco, escolhido por Lula para a Fazenda em 2027, defende reforma tributária centrada no consumo",
+      "resumo": "Presidente do conselho do Bradesco, Luiz Carlos Trabuco assume a Fazenda em janeiro, mês de estreia da CBS. Em declarações ainda no setor privado, apoiou a tributação focada no consumo e disse que o modelo atual penaliza a indústria.",
+      "fonte": "Exame",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Legislação"
+      ],
+      "url": "https://exame.com/brasil/ajuste-fiscal-crescimento-e-programas-sociais-o-que-pensa-trabuco-sobre-a-economia/"
+    },
     {
       "id": "metropoles-2026-11-26-ifi-cbs-7-sem-excecoes",
       "data": "2026-11-26",
@@ -4532,19 +4546,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://massa.com.br/servicos-informacoes-uteis/receita-federal-nova-obrigacao-15-novembro-2026"
-    },
-    {
-      "id": "rtcom-2026-11-04-cae-audiencia",
-      "data": "2026-11-04",
-      "titulo": "CAE aprova audiência pública sobre a alíquota da CBS",
-      "resumo": "A pedido do senador Izalci Lucas, a comissão vai ouvir o presidente do TCU, o secretário da Receita Federal e o presidente do Comitê Gestor do IBS antes de elaborar a resolução; relator é Eduardo Braga.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.reformatributaria.com/reforma-tributaria-congresso-nacional/comissao-do-senado-fara-audiencia-publica-sobre-aliquota-da-cbs"
     }
   ]
 }
