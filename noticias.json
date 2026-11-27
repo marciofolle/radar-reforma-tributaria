@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T10:53:55-03:00",
+  "atualizado_em": "2026-11-27T11:55:52-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -157,6 +157,35 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-27-ifi-cbs-7-sem-beneficios",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T11:55:52-03:00",
+      "titulo": "Sem os benefícios fiscais, a CBS de 2027 caberia em 7%, calcula a IFI",
+      "resumo": "Pelo estudo da IFI, as exceções aprovadas pelo Congresso somam 4,3 pontos à alíquota da CBS e retiram cerca de 37% da base; só os alimentos pesam 1,9 ponto, sendo 1,4 da cesta básica. A Receita estimava 8,5% de alíquota efetiva, ante os 11,3% do TCU.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81227/cbs-poderia-ser-de-7-sem-beneficios-fiscais-estima-ifi/"
+    },
+    {
+      "id": "contabeis-2026-11-27-adi-8053-toffoli",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T10:53:55-03:00",
+      "titulo": "ADI 8.053 das confederações contra o início da CBS e do IBS em 2027 é distribuída a Dias Toffoli",
+      "resumo": "A ação de CNA, CNC e CNT foi distribuída em 26/11 e está conclusa ao relator, sem decisão. O pedido alternativo é tratar 2027 como período de conformidade, sem multas por obrigações acessórias. A OAB aprovou atuar no STF pelo adiamento.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81225/cbs-em-2027-cna-cnc-e-cnt-pedem-adiamento-ao-stf/"
+    },
+    {
       "id": "contabeis-2026-11-27-cgsn-198-mei-teto-110-mil",
       "data": "2026-11-27",
       "adicionado_em": "2026-11-27T09:55:56-03:00",
@@ -199,21 +228,6 @@
         "IBS"
       ],
       "url": "https://francesnews.com.br/post/2026/11/27/47525-conta-de-agua-no-agreste-e-no-sertao-muda-de-composicao-em-janeiro-com-a-reforma-tributaria"
-    },
-    {
-      "id": "contabeis-2026-11-27-adi-8053-toffoli",
-      "data": "2026-11-27",
-      "adicionado_em": "2026-11-27T10:53:55-03:00",
-      "titulo": "ADI 8.053 das confederações contra o início da CBS e do IBS em 2027 é distribuída a Dias Toffoli",
-      "resumo": "A ação de CNA, CNC e CNT foi distribuída em 26/11 e está conclusa ao relator, sem decisão. O pedido alternativo é tratar 2027 como período de conformidade, sem multas por obrigações acessórias. A OAB aprovou atuar no STF pelo adiamento.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Judiciário",
-        "CBS",
-        "IBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/81225/cbs-em-2027-cna-cnc-e-cnt-pedem-adiamento-ao-stf/"
     },
     {
       "id": "contabeis-2026-11-26-mei-cancelada-reuniao-teto",
@@ -4543,20 +4557,6 @@
         "Legislação"
       ],
       "url": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027"
-    },
-    {
-      "id": "cnn-2026-11-05-mp1399",
-      "data": "2026-11-05",
-      "titulo": "MP 1.399/2026: cigarros a 66,7%, destilados a 24% e cerveja a 4,2%",
-      "resumo": "Publicada em edição extra do DOU na noite de 4/11, a MP converte a carga atual de IPI em alíquotas do Seletivo. Bebidas açucaradas pagam 2,6%, vinhos 8% e cigarros têm parcela fixa adicional de R$ 3,50; a cobrança começa em fevereiro de 2027.",
-      "fonte": "CNN Brasil",
-      "tipo": "imprensa",
-      "temas": [
-        "Imposto Seletivo",
-        "Alíquotas",
-        "Legislação"
-      ],
-      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/imposto-do-pecado-destilados-terao-aliquota-de-ate-66-veja-as-taxas/"
     }
   ]
 }
