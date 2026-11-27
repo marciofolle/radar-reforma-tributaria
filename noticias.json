@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T08:54:45-03:00",
+  "atualizado_em": "2026-11-27T09:55:56-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -157,6 +157,20 @@
   ],
   "itens": [
     {
+      "id": "contabeis-2026-11-27-cgsn-198-mei-teto-110-mil",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T09:55:56-03:00",
+      "titulo": "Resolução CGSN 198 oficializa teto de R$ 110 mil e até dois empregados para o MEI a partir de 2027",
+      "resumo": "Publicada em edição extra do DOU de 25/11, a Resolução CGSN 198 aplica a LC 238/2026: o limite do MEI sobe de R$ 81 mil para R$ 110 mil (R$ 9.166,67 por mês para quem abre a empresa), com até dois empregados; quem excedeu até 20% do teto de 2026 segue no Simei.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Simples Nacional",
+        "Legislação"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81223/mei-cgsn-oficializa-teto-de-r-110-mil-e-novas-regras-para-janeiro-de-2027/"
+    },
+    {
       "id": "conjur-2026-11-27-safra-contratos-2026-entregas-2027-cbs-produtor-rural",
       "data": "2026-11-27",
       "adicionado_em": "2026-11-27T08:54:45-03:00",
@@ -215,6 +229,21 @@
         "Legislação"
       ],
       "url": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1"
+    },
+    {
+      "id": "contabeis-2026-11-26-cbs-2027-varejistas-gestao",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-27T04:54:48-03:00",
+      "titulo": "Artigo: varejo deve recalcular margem por produto e revisar cadastro fiscal antes da CBS de 2027",
+      "resumo": "Maurício Galhardo (F360) recomenda usar a alíquota-teste de 0,9% para achar erros de classificação, rever royalties e repasses em franquias e projetar o caixa com o split payment; lembra que o optante do Simples tem até 20/12 para decidir pelo regime regular.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Split payment",
+        "Simples Nacional"
+      ],
+      "url": "https://www.contabeis.com.br/artigos/81200/cbs-em-2027-como-varejistas-podem-preparar-a-gestao"
     },
     {
       "id": "setcesp-2026-11-26-cnt-vai-ao-stf-por-mais-prazo",
@@ -450,21 +479,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
-    },
-    {
-      "id": "contabeis-2026-11-26-cbs-2027-varejistas-gestao",
-      "data": "2026-11-26",
-      "adicionado_em": "2026-11-27T04:54:48-03:00",
-      "titulo": "Artigo: varejo deve recalcular margem por produto e revisar cadastro fiscal antes da CBS de 2027",
-      "resumo": "Maurício Galhardo (F360) recomenda usar a alíquota-teste de 0,9% para achar erros de classificação, rever royalties e repasses em franquias e projetar o caixa com o split payment; lembra que o optante do Simples tem até 20/12 para decidir pelo regime regular.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Split payment",
-        "Simples Nacional"
-      ],
-      "url": "https://www.contabeis.com.br/artigos/81200/cbs-em-2027-como-varejistas-podem-preparar-a-gestao"
     },
     {
       "id": "contabeis-2026-11-25-lc-239-preserva-beneficio-veiculos-pcd-tea",
@@ -4541,20 +4555,6 @@
         "Imposto Seletivo"
       ],
       "url": "https://exame.com/economia/reforma-tributaria-nao-sera-adiada-e-comeca-em-2027-diz-ministro-da-fazenda/"
-    },
-    {
-      "id": "omie-2026-11-05-simples-cancelamento",
-      "data": "2026-11-05",
-      "titulo": "Simples Nacional: aberta a janela para cancelar a opção pelo regime regular do IBS/CBS",
-      "resumo": "De 3/11 a 20/12/2026, optantes podem desistir do modelo híbrido e voltar a recolher IBS e CBS no DAS. O cancelamento é irretratável; o MEI não tem essa opção.",
-      "fonte": "Omie",
-      "tipo": "imprensa",
-      "temas": [
-        "Simples Nacional",
-        "IBS",
-        "CBS"
-      ],
-      "url": "https://www.omie.com.br/blog/modelo-hibrido-ibs-cbs-simples-nacional-reversao/"
     }
   ]
 }
