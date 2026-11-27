@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T12:56:58-03:00",
+  "atualizado_em": "2026-11-27T13:54:30-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,22 @@
     }
   ],
   "itens": [
+    {
+      "id": "receita-2026-11-27-condominios-documento-fiscal",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T13:54:30-03:00",
+      "titulo": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios",
+      "resumo": "Cotas condominiais não são atividade econômica e não geram IBS nem CBS. Só emitirá NFS-e nacional, em processo simplificado, o condomínio que optar pelo regime regular ou cujas cotas fiquem abaixo de 80% da receita, como no aluguel de antenas e lojas (art. 26, §2º, da LC 214/2025).",
+      "fonte": "Receita Federal",
+      "orgao": "Receita Federal / CGIBS",
+      "tipo": "oficial",
+      "temas": [
+        "Documentos fiscais",
+        "Setores",
+        "IBS"
+      ],
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios"
+    },
     {
       "id": "contabeis-2026-11-27-ifi-cbs-7-sem-beneficios",
       "data": "2026-11-27",
@@ -4543,20 +4559,6 @@
         "Alíquotas"
       ],
       "url": "https://www.brasil247.com/economia/ni-pede-ao-senado-revisao-da-aliquota-de-113-da-cbs-por-risco-de-maior-carga-tributaria/"
-    },
-    {
-      "id": "senado-2026-11-05-mp-is",
-      "data": "2026-11-05",
-      "titulo": "MP define as alíquotas do Imposto Seletivo para 2027",
-      "resumo": "Agência Senado repercute a MP 1.399/2026, que fixa as alíquotas transitórias do Imposto Seletivo e passa a tramitar no Congresso.",
-      "fonte": "Agência Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027"
     }
   ]
 }
