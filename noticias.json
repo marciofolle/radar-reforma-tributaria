@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-26T22:54:27-03:00",
+  "atualizado_em": "2026-11-26T23:54:07-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -344,6 +344,21 @@
         "Legislação"
       ],
       "url": "https://www.reformatributaria.com/justica/stj-cria-observatorio-para-acompanhar-disputas-judiciais-da-reforma-tributaria/"
+    },
+    {
+      "id": "contabeis-2026-11-26-cbs-12-3-sem-reducao-sonegacao",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T23:54:07-03:00",
+      "titulo": "Sem contar com queda da sonegação, CBS chegaria a cerca de 12,3%, mostram números do Comitê Gestor ao Senado",
+      "resumo": "Apresentação do CGIBS ao Senado em 18/11 indica que a expectativa de recuperar em média R$ 41,7 bilhões por ano em perdas tributárias tirou cerca de 1 ponto da CBS; sem ela, a alíquota iria a 12,3%, ante 11,3% do TCU. O split payment pleno poderia cortar até 3 pontos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Split payment"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81175/cbs-pode-ter-aliquota-de-12-3-sem-reduzir-sonegacao"
     },
     {
       "id": "metropoles-2026-11-25-frentes-comissao-fiscalizar-reforma",
@@ -4534,18 +4549,6 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/80576/reforma-tributaria-entidades-pedem-adiamento-da-cbs-para-2028/"
-    },
-    {
-      "id": "massa-2026-11-04-dere",
-      "data": "2026-11-04",
-      "titulo": "DeRE entra na 2ª fase em 15 de novembro",
-      "resumo": "Contribuintes sujeitos a regimes específicos passam a enviar informações periódicas na Declaração de Regimes Específicos; a 1ª fase (eventos de tabela) começou em 1º/10.",
-      "fonte": "Massa News",
-      "tipo": "imprensa",
-      "temas": [
-        "Obrigações acessórias"
-      ],
-      "url": "https://massa.com.br/servicos-informacoes-uteis/receita-federal-nova-obrigacao-15-novembro-2026"
     }
   ]
 }
