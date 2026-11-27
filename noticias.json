@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T18:53:33-03:00",
+  "atualizado_em": "2026-11-27T19:54:09-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,35 @@
     }
   ],
   "itens": [
+    {
+      "id": "migalhas-2026-11-27-cerealistas-cooperativas-diferimento",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T19:54:09-03:00",
+      "titulo": "Artigo: cerealista paga IBS e CBS na compra do grão e fica com o crédito preso, ao contrário da cooperativa",
+      "resumo": "A advogada Bruna Brites (Andrade Maia) aponta tratamento desigual: a cooperativa recebe o grão do produtor sem IBS e CBS, enquanto a cerealista paga o tributo na compra e só o recupera na revenda. Ela defende o PLP 300/26, que permitiria ao fornecedor optar pelo diferimento.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "Créditos",
+        "IBS"
+      ],
+      "url": "https://www.migalhas.com.br/depeso/469392/duas-portas-para-o-mesmo-grao"
+    },
+    {
+      "id": "contabeis-2026-11-27-eventos-corporativos-reembolsos",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T19:54:09-03:00",
+      "titulo": "Artigo: em eventos corporativos, reembolso só fica fora da base do IBS e da CBS com nota em nome do cliente",
+      "resumo": "O texto mostra que a forma de contratar fornecedores de eventos, em nome próprio ou por conta e ordem do cliente, muda a tributação no IBS e na CBS; reembolsos só saem da base de cálculo se a documentação fiscal estiver em nome do terceiro.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "Documentos fiscais"
+      ],
+      "url": "https://www.contabeis.com.br/artigos/81217/reforma-tributaria-impactos-para-eventos-corporativos"
+    },
     {
       "id": "receita-2026-11-27-condominios-documento-fiscal",
       "data": "2026-11-27",
@@ -4531,34 +4560,6 @@
         "Setores"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/"
-    },
-    {
-      "id": "reformatributaria-2026-11-05-pec-22-ipi-imposto-seletivo",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-06T21:44:56-03:00",
-      "titulo": "Governo envia PEC 22/2026 para manter o IPI até o início do Imposto Seletivo",
-      "resumo": "A PEC 22/2026, enviada em 4/11, mantém o IPI sobre cigarros e bebidas alcoólicas até o Imposto Seletivo valer, em 2/2/2027 pela MP 1.399/2026. Sem aprovação neste ano, haveria lacuna de tributação extrafiscal e risco de estoques antecipados.",
-      "fonte": "Portal Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www.reformatributaria.com/impostoseletivo/lula-envia-pec-para-manter-ipi-nos-produtos-do-imposto-seletivo-no-inicio-de-2027/"
-    },
-    {
-      "id": "brasil247-2026-11-05-cni-revisao-aliquota-cbs",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-06T14:50:35-03:00",
-      "titulo": "CNI pede ao Senado que revise a CBS de 11,3%",
-      "resumo": "A CNI questiona a base de 2012–2021 usada pelo TCU, que ignora o ganho de arrecadação após a exclusão do ICMS/ISS da base do PIS/Cofins, e pede ao Senado, que decide até 15/12, uma alíquota menor para 2027.",
-      "fonte": "brasil247.com",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www.brasil247.com/economia/ni-pede-ao-senado-revisao-da-aliquota-de-113-da-cbs-por-risco-de-maior-carga-tributaria/"
     }
   ]
 }
