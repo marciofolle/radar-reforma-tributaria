@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T06:53:49-03:00",
+  "atualizado_em": "2026-11-27T07:54:01-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -156,6 +156,37 @@
     }
   ],
   "itens": [
+    {
+      "id": "francesnews-2026-11-27-conta-agua-alagoas-cbs-ibs",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T07:54:01-03:00",
+      "titulo": "Arsal homologa tarifas de água do Sertão alagoano com CBS e IBS no lugar de PIS e Cofins a partir de janeiro",
+      "resumo": "Novas tabelas da Conasa Águas do Sertão, válidas para 30 municípios desde 1º/1/2027, trocam PIS/Cofins por CBS e IBS. Na faixa residencial até 10 m³ a tarifa principal fica em R$ 7,76/m³, contra R$ 7,36 na tabela desonerada; o valor final da conta não foi informado.",
+      "fonte": "Francês News",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://francesnews.com.br/post/2026/11/27/47525-conta-de-agua-no-agreste-e-no-sertao-muda-de-composicao-em-janeiro-com-a-reforma-tributaria"
+    },
+    {
+      "id": "agenciagov-2026-11-26-regras-2027",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-27T07:54:01-03:00",
+      "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
+      "resumo": "Guia da Secom lista o que começa em 1º de janeiro: fim de PIS e Cofins, IPI zerado para a maioria dos produtos, cashback integral da CBS em contas de luz, gás, água e celular para famílias do CadÚnico e 1,1 milhão de empresas no Simples Híbrido, com desistência até 20/12.",
+      "fonte": "Agência Gov",
+      "orgao": "Secom/Presidência da República",
+      "tipo": "oficial",
+      "temas": [
+        "CBS",
+        "Simples Nacional",
+        "Legislação"
+      ],
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1"
+    },
     {
       "id": "setcesp-2026-11-26-cnt-vai-ao-stf-por-mais-prazo",
       "data": "2026-11-26",
@@ -4524,36 +4555,6 @@
         "Créditos"
       ],
       "url": "https://mundologistica.com.br/artigos/piso-minimo-de-frete-os-desafios-que-a-reforma-tributaria-traz-para-2027"
-    },
-    {
-      "id": "migalhas-2026-11-04-oab-adiamento-2028",
-      "data": "2026-11-04",
-      "titulo": "OAB e as 27 seccionais pedem adiar para 2028 as etapas de 2027 da reforma",
-      "resumo": "Em manifesto, o Conselho Federal e as seccionais da OAB pedem que a troca de PIS/Cofins pela CBS e a criação do Imposto Seletivo passem para 1º/1/2028, alegando incertezas regulatórias, operacionais e econômicas.",
-      "fonte": "Migalhas",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://www.migalhas.com.br/quentes/467893/oab-pede-adiamento-da-reforma-tributaria-para-2028",
-      "adicionado_em": "2026-11-07T18:00:00-03:00"
-    },
-    {
-      "id": "setcesp-2026-11-04-cte-adiado",
-      "data": "2026-11-04",
-      "titulo": "CT-e adaptado à Reforma Tributária é adiado",
-      "resumo": "A Nota Técnica 2026.004 v1.01 do CT-e, que entraria em vigor em 16/11/2026, foi prorrogada para 14/12/2026, segundo o Setcesp.",
-      "fonte": "Setcesp",
-      "orgao": "Setcesp",
-      "tipo": "entidade",
-      "temas": [
-        "Transporte",
-        "Documentos fiscais"
-      ],
-      "url": "http://setcesp.org.br/noticias/ct-e-adaptado-a-reforma-tributaria-e-adiado/",
-      "adicionado_em": "2026-11-07T18:00:00-03:00"
     }
   ]
 }
