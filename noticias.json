@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T09:55:56-03:00",
+  "atualizado_em": "2026-11-27T10:53:55-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -199,6 +199,21 @@
         "IBS"
       ],
       "url": "https://francesnews.com.br/post/2026/11/27/47525-conta-de-agua-no-agreste-e-no-sertao-muda-de-composicao-em-janeiro-com-a-reforma-tributaria"
+    },
+    {
+      "id": "contabeis-2026-11-27-adi-8053-toffoli",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-27T10:53:55-03:00",
+      "titulo": "ADI 8.053 das confederações contra o início da CBS e do IBS em 2027 é distribuída a Dias Toffoli",
+      "resumo": "A ação de CNA, CNC e CNT foi distribuída em 26/11 e está conclusa ao relator, sem decisão. O pedido alternativo é tratar 2027 como período de conformidade, sem multas por obrigações acessórias. A OAB aprovou atuar no STF pelo adiamento.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "CBS",
+        "IBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81225/cbs-em-2027-cna-cnc-e-cnt-pedem-adiamento-ao-stf/"
     },
     {
       "id": "contabeis-2026-11-26-mei-cancelada-reuniao-teto",
@@ -4542,19 +4557,6 @@
         "Legislação"
       ],
       "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/imposto-do-pecado-destilados-terao-aliquota-de-ate-66-veja-as-taxas/"
-    },
-    {
-      "id": "exame-2026-11-05-durigan-sem-adiamento",
-      "data": "2026-11-05",
-      "titulo": "Durigan descarta adiar a reforma e mantém início em janeiro de 2027",
-      "resumo": "O ministro da Fazenda sinalizou que o governo pode flexibilizar prazos e penalidades para empresas que demonstrarem boa-fé na adaptação às novas obrigações.",
-      "fonte": "Exame",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Imposto Seletivo"
-      ],
-      "url": "https://exame.com/economia/reforma-tributaria-nao-sera-adiada-e-comeca-em-2027-diz-ministro-da-fazenda/"
     }
   ]
 }
