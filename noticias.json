@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T01:54:17-03:00",
+  "atualizado_em": "2026-11-27T02:54:46-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -157,6 +157,22 @@
   ],
   "itens": [
     {
+      "id": "setcesp-2026-11-26-cnt-vai-ao-stf-por-mais-prazo",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-27T02:54:46-03:00",
+      "titulo": "CNT vai ao STF por mais prazo na Reforma Tributária",
+      "resumo": "A CNT, com CNA e CNC, protocolou em 25/11 ação no STF com pedido de liminar para suspender a cobrança efetiva da CBS e das alíquotas do IBS a partir de janeiro de 2027 e prorrogar por 12 meses o regime de testes, mantendo PIS e Cofins.",
+      "fonte": "SETCESP",
+      "orgao": "SETCESP / CNT",
+      "tipo": "entidade",
+      "temas": [
+        "Judiciário",
+        "Transporte",
+        "CBS"
+      ],
+      "url": "http://setcesp.org.br/entidade/cnt-vai-ao-stf-por-mais-prazo-na-reforma-tributaria/"
+    },
+    {
       "id": "cnn-2026-11-26-deputados-fazenda-cbs-abaixo-11",
       "data": "2026-11-26",
       "adicionado_em": "2026-11-27T01:54:17-03:00",
@@ -172,6 +188,21 @@
       "url": "https://www.cnnbrasil.com.br/politica/deputados-defendem-aliquota-da-cbs-abaixo-de-11-em-reuniao-na-fazenda/"
     },
     {
+      "id": "contabeis-2026-11-26-cbs-12-3-sem-reducao-sonegacao",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T23:54:07-03:00",
+      "titulo": "Sem contar com queda da sonegação, CBS chegaria a cerca de 12,3%, mostram números do Comitê Gestor ao Senado",
+      "resumo": "Apresentação do CGIBS ao Senado em 18/11 indica que a expectativa de recuperar em média R$ 41,7 bilhões por ano em perdas tributárias tirou cerca de 1 ponto da CBS; sem ela, a alíquota iria a 12,3%, ante 11,3% do TCU. O split payment pleno poderia cortar até 3 pontos.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas",
+        "Split payment"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81175/cbs-pode-ter-aliquota-de-12-3-sem-reduzir-sonegacao"
+    },
+    {
       "id": "exame-2026-11-26-trabuco-fazenda-reforma-consumo",
       "data": "2026-11-26",
       "adicionado_em": "2026-11-26T21:54:16-03:00",
@@ -184,6 +215,20 @@
         "Legislação"
       ],
       "url": "https://exame.com/brasil/ajuste-fiscal-crescimento-e-programas-sociais-o-que-pensa-trabuco-sobre-a-economia/"
+    },
+    {
+      "id": "portaldareforma-2026-11-26-stj-institui-observatorio",
+      "data": "2026-11-26",
+      "adicionado_em": "2026-11-26T19:54:28-03:00",
+      "titulo": "STJ formaliza observatório da reforma tributária para monitorar normas e disputas sobre IBS, CBS e IS",
+      "resumo": "A Instrução Normativa STJ/GP 59/2026, assinada por Luis Felipe Salomão em 25/11, cria órgão consultivo da Presidência com dois eixos (efeitos setoriais e contencioso). Ele vai acompanhar a produção normativa, divergências de interpretação entre tribunais e entes e o volume de processos na transição.",
+      "fonte": "Portal da Reforma Tributária",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "Legislação"
+      ],
+      "url": "https://www.reformatributaria.com/justica/stj-cria-observatorio-para-acompanhar-disputas-judiciais-da-reforma-tributaria/"
     },
     {
       "id": "metropoles-2026-11-26-ifi-cbs-7-sem-excecoes",
@@ -347,33 +392,19 @@
       "url": "https://fenacon.org.br/reforma-tributaria/susep-apresenta-orientacoes-ao-mercado-sobre-impactos-da-reforma-tributaria/"
     },
     {
-      "id": "portaldareforma-2026-11-26-stj-institui-observatorio",
-      "data": "2026-11-26",
-      "adicionado_em": "2026-11-26T19:54:28-03:00",
-      "titulo": "STJ formaliza observatório da reforma tributária para monitorar normas e disputas sobre IBS, CBS e IS",
-      "resumo": "A Instrução Normativa STJ/GP 59/2026, assinada por Luis Felipe Salomão em 25/11, cria órgão consultivo da Presidência com dois eixos (efeitos setoriais e contencioso). Ele vai acompanhar a produção normativa, divergências de interpretação entre tribunais e entes e o volume de processos na transição.",
-      "fonte": "Portal da Reforma Tributária",
-      "tipo": "imprensa",
-      "temas": [
-        "Judiciário",
-        "Legislação"
-      ],
-      "url": "https://www.reformatributaria.com/justica/stj-cria-observatorio-para-acompanhar-disputas-judiciais-da-reforma-tributaria/"
-    },
-    {
-      "id": "contabeis-2026-11-26-cbs-12-3-sem-reducao-sonegacao",
-      "data": "2026-11-26",
-      "adicionado_em": "2026-11-26T23:54:07-03:00",
-      "titulo": "Sem contar com queda da sonegação, CBS chegaria a cerca de 12,3%, mostram números do Comitê Gestor ao Senado",
-      "resumo": "Apresentação do CGIBS ao Senado em 18/11 indica que a expectativa de recuperar em média R$ 41,7 bilhões por ano em perdas tributárias tirou cerca de 1 ponto da CBS; sem ela, a alíquota iria a 12,3%, ante 11,3% do TCU. O split payment pleno poderia cortar até 3 pontos.",
+      "id": "contabeis-2026-11-25-lc-239-preserva-beneficio-veiculos-pcd-tea",
+      "data": "2026-11-25",
+      "adicionado_em": "2026-11-26T18:53:57-03:00",
+      "titulo": "LC 239 deixa compra de veículos por pessoas com deficiência e com TEA fora do corte de 20% nos benefícios federais",
+      "resumo": "A lei do ajuste fiscal, que ampliou de 10% para 20% a redução linear de benefícios federais, excetua os incentivos à compra de carros por PcD e autistas. A alíquota zero de IBS e CBS prevista na LC 214 é regra distinta; a isenção de IPI segue até 31/12/2026.",
       "fonte": "Contábeis",
       "tipo": "imprensa",
       "temas": [
+        "Legislação",
         "CBS",
-        "Alíquotas",
-        "Split payment"
+        "IBS"
       ],
-      "url": "https://www.contabeis.com.br/noticias/81175/cbs-pode-ter-aliquota-de-12-3-sem-reduzir-sonegacao"
+      "url": "https://www.contabeis.com.br/noticias/81140/carros-para-pcd-e-autistas-ficam-fora-de-corte-fiscal"
     },
     {
       "id": "metropoles-2026-11-25-frentes-comissao-fiscalizar-reforma",
@@ -553,21 +584,6 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
-    },
-    {
-      "id": "contabeis-2026-11-25-lc-239-preserva-beneficio-veiculos-pcd-tea",
-      "data": "2026-11-25",
-      "adicionado_em": "2026-11-26T18:53:57-03:00",
-      "titulo": "LC 239 deixa compra de veículos por pessoas com deficiência e com TEA fora do corte de 20% nos benefícios federais",
-      "resumo": "A lei do ajuste fiscal, que ampliou de 10% para 20% a redução linear de benefícios federais, excetua os incentivos à compra de carros por PcD e autistas. A alíquota zero de IBS e CBS prevista na LC 214 é regra distinta; a isenção de IPI segue até 31/12/2026.",
-      "fonte": "Contábeis",
-      "tipo": "imprensa",
-      "temas": [
-        "Legislação",
-        "CBS",
-        "IBS"
-      ],
-      "url": "https://www.contabeis.com.br/noticias/81140/carros-para-pcd-e-autistas-ficam-fora-de-corte-fiscal"
     },
     {
       "id": "migalhas-2026-11-24-misabel-indefinicoes-reforma",
@@ -4538,20 +4554,6 @@
         "Legislação"
       ],
       "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
-    },
-    {
-      "id": "senado-2026-11-04-cae-debate",
-      "data": "2026-11-04",
-      "titulo": "Comissão vai debater alíquota da CBS",
-      "resumo": "Boletim da Rádio Senado sobre a audiência da CAE para discutir a alíquota de referência calculada pelo TCU.",
-      "fonte": "Rádio Senado",
-      "orgao": "Senado Federal",
-      "tipo": "oficial",
-      "temas": [
-        "CBS",
-        "Alíquotas"
-      ],
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/11/comissao-vai-debater-aliquota-da-cbs"
     }
   ]
 }
