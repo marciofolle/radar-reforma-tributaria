@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T02:54:46-03:00",
+  "atualizado_em": "2026-11-27T03:55:04-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -584,6 +584,21 @@
         "Obrigações acessórias"
       ],
       "url": "https://fenacon.org.br/reforma-tributaria/publicadas-as-novas-regras-para-o-simples-nacional-e-a-transicao-da-reforma-tributaria/"
+    },
+    {
+      "id": "nacaotruck-2026-11-24-sindicamp-credito-diesel-cbs",
+      "data": "2026-11-24",
+      "adicionado_em": "2026-11-27T03:55:04-03:00",
+      "titulo": "Sindicamp calcula que crédito de CBS sobre o diesel cai cerca de 52% e prevê revisão de fretes em 2027",
+      "resumo": "Pela simulação do sindicato de Campinas, com o S10 a R$ 7,30/l o crédito passa de cerca de R$ 0,68/l (PIS/Cofins) para R$ 0,32/l no regime de valores fixos da Portaria MF 3.074/2026; a entidade também acompanha o crédito presumido na contratação de TACs.",
+      "fonte": "Nação Truck",
+      "tipo": "imprensa",
+      "temas": [
+        "Transporte",
+        "Créditos",
+        "CBS"
+      ],
+      "url": "https://www.nacaotruck.com.br/noticia/sindicamp-alerta-para-a-pressao-de-custos-no-transporte-rodoviario-de-cargas-em-2027"
     },
     {
       "id": "migalhas-2026-11-24-misabel-indefinicoes-reforma",
@@ -4539,21 +4554,6 @@
         "CBS"
       ],
       "url": "https://www.reformatributaria.com/justica/justica-de-sp-concede-liminar-a-roit-para-excluir-ibs-e-cbs-do-calculo-do-iss-a-partir-de-2027"
-    },
-    {
-      "id": "conjur-2026-11-04-pec-any-ortiz-2028",
-      "data": "2026-11-04",
-      "adicionado_em": "2026-11-07T12:00:00-03:00",
-      "titulo": "Deputada protocola PEC para adiar cobranças da reforma para 2028",
-      "resumo": "Any Ortiz (PP-RS) apresentou PEC que estende a adaptação até 2027 e adia para 2028 a cobrança definitiva de CBS e Imposto Seletivo; precisa de 171 assinaturas para tramitar.",
-      "fonte": "Conjur",
-      "tipo": "imprensa",
-      "temas": [
-        "CBS",
-        "Imposto Seletivo",
-        "Legislação"
-      ],
-      "url": "https://conjur.com.br/2026-nov-04/deputada-protocola-pec-para-adiar-cobrancas-da-reforma-tributaria-para-2028/"
     }
   ]
 }
