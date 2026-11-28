@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-28T05:55:00-03:00",
+  "atualizado_em": "2026-11-28T06:58:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -291,6 +291,20 @@
         "CBS"
       ],
       "url": "https://www.contabeis.com.br/noticias/81179/safs-e-associacoes-diferencas-na-tributacao-dos-clubes/"
+    },
+    {
+      "id": "contabeis-2026-11-27-braga-recalculo-cbs-votacao-14-12",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-28T06:58:00-03:00",
+      "titulo": "Consultores do Senado e técnicos do TCU refazem testes da CBS de 11,3%; votação deve sair até 14/12",
+      "resumo": "Relator Eduardo Braga avalia recalcular a alíquota antes do relatório na CAE (até 9/12), com foco na estimativa de sonegação de PIS/Cofins; quer revisão trimestral a partir de 2027, mas admite que a anualidade pode limitar ajustes no mesmo exercício.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "CBS",
+        "Alíquotas"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81234/aliquota-da-cbs-relator-preve-recalculo-e-relatorio-ate-9-de-dezembro/"
     },
     {
       "id": "contabeis-2026-11-26-mei-cancelada-reuniao-teto",
@@ -4531,21 +4545,6 @@
         "Legislação"
       ],
       "url": "https://www.migalhas.com.br/depeso/467901/a-mp-do-pecado--questoes-legais-e-polemicas"
-    },
-    {
-      "id": "fazenda-2026-11-05-mp-imposto-seletivo",
-      "data": "2026-11-05",
-      "titulo": "Governo Federal define alíquotas do Imposto Seletivo para 2027 por meio de medida provisória",
-      "resumo": "Lula assinou a MP 1.399/2026 com as alíquotas do IS. A cobrança começa em 2/2/2027 em regime transitório até 31/12/2027; bens minerais ficam com alíquota zero, concursos de prognósticos pagam 0,5%, e eventual variação de receita é compensada na CBS.",
-      "fonte": "Ministério da Fazenda",
-      "orgao": "Ministério da Fazenda",
-      "tipo": "oficial",
-      "temas": [
-        "Imposto Seletivo",
-        "Alíquotas"
-      ],
-      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
-      "adicionado_em": "2026-11-07T18:00:00-03:00"
     }
   ]
 }
