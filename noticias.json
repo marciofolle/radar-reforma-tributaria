@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-28T04:54:08-03:00",
+  "atualizado_em": "2026-11-28T05:55:00-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -261,6 +261,36 @@
         "IBS"
       ],
       "url": "https://francesnews.com.br/post/2026/11/27/47525-conta-de-agua-no-agreste-e-no-sertao-muda-de-composicao-em-janeiro-com-a-reforma-tributaria"
+    },
+    {
+      "id": "migalhas-2026-11-27-stj-observatorio-reforma",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-28T05:55:00-03:00",
+      "titulo": "Observatório do STJ sobre IBS, CBS e IS terá Regina Helena Costa na presidência e primeira reunião em 17/12",
+      "resumo": "Criado por instrução normativa, o colegiado vai mapear divergências na transição, conflitos entre entes e com o Comitê Gestor e temas aptos a precedentes qualificados, sem orientar casos concretos. Nota técnica associada propõe o modelo de litigante único para evitar processos paralelos.",
+      "fonte": "Migalhas",
+      "tipo": "imprensa",
+      "temas": [
+        "Judiciário",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.migalhas.com.br/quentes/469421/stj-cria-observatorio-para-monitorar-efeitos-da-reforma-tributaria"
+    },
+    {
+      "id": "contabeis-2026-11-27-safs-associacoes-clubes",
+      "data": "2026-11-27",
+      "adicionado_em": "2026-11-28T05:55:00-03:00",
+      "titulo": "SAF ou associação: clubes comparam redução de 60% no IBS e na CBS com a alíquota única de 6% do regime da SAF",
+      "resumo": "Associações desportivas terão redução de 60% nas alíquotas de IBS e CBS em certas operações e poderão tomar créditos; a SAF chega a 6% em 2033 (4% federal, 1% CBS, 1% IBS), pelo regime de caixa e com crédito restrito à compra de direitos de atletas.",
+      "fonte": "Contábeis",
+      "tipo": "imprensa",
+      "temas": [
+        "Setores",
+        "IBS",
+        "CBS"
+      ],
+      "url": "https://www.contabeis.com.br/noticias/81179/safs-e-associacoes-diferencas-na-tributacao-dos-clubes/"
     },
     {
       "id": "contabeis-2026-11-26-mei-cancelada-reuniao-teto",
@@ -4516,38 +4546,6 @@
       ],
       "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-federal-define-aliquotas-do-imposto-seletivo-para-2027-por-meio-de-medida-provisoria",
       "adicionado_em": "2026-11-07T18:00:00-03:00"
-    },
-    {
-      "id": "camara-2026-11-05-mp-1399-imposto-seletivo",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-07T17:00:00-03:00",
-      "titulo": "Medida provisória regulamenta o Imposto Seletivo para 2027",
-      "resumo": "A MP 1.399/2026 fixa as alíquotas do Imposto Seletivo, que passa a valer em 2 de fevereiro de 2027 e substitui parte do IPI. Segundo o governo, a carga atual é mantida em 2027, com aumentos a partir de 2028.",
-      "fonte": "Agência Câmara",
-      "orgao": "Câmara dos Deputados",
-      "tipo": "oficial",
-      "temas": [
-        "Imposto Seletivo",
-        "Alíquotas",
-        "Legislação"
-      ],
-      "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
-    },
-    {
-      "id": "fenacon-2026-11-05-cnc-cbs-servicos-543",
-      "data": "2026-11-05",
-      "adicionado_em": "2026-11-07T12:30:00-03:00",
-      "titulo": "CBS em 11,3% pode gerar aumento da carga do setor de serviços em até 54,3%, alerta CNC",
-      "resumo": "Segundo a CNC, a alíquota de 11,3% calculada pelo TCU pode elevar em até 54,3% a carga de segmentos de serviços do Lucro Presumido, atingindo 758.946 empresas e 3,2 milhões de empregos. A entidade pede ao Senado e ao Executivo rever as premissas do cálculo.",
-      "fonte": "Fenacon",
-      "orgao": "CNC / Fenacon",
-      "tipo": "entidade",
-      "temas": [
-        "CBS",
-        "Alíquotas",
-        "Setores"
-      ],
-      "url": "https://fenacon.org.br/reforma-tributaria/cbs-em-113-pode-gerar-aumento-da-carga-do-setor-de-servicos-em-ate-543-alerta-cnc/"
     }
   ]
 }
