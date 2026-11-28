@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-11-27T23:54:02-03:00",
+  "atualizado_em": "2026-11-28T00:53:59-03:00",
   "indicadores": [
     {
       "rotulo": "CBS 2027 — alíquota de referência (TCU)",
@@ -28,18 +28,6 @@
     }
   ],
   "prazos": [
-    {
-      "data": "2026-11-24",
-      "titulo": "LC 239/2026 (ajuste fiscal) — sancionada e publicada",
-      "detalhe": "PLP 299/2026 sancionado sem vetos e publicado em edição extra do DOU de 24/11; já em vigor (trava à compensação de créditos; créditos de PIS/Cofins utilizáveis na CBS; corte de benefícios fiscais)",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/11/24/lei-do-ajuste-fiscal-e-publicada-e-ja-esta-valendo"
-    },
-    {
-      "data": "2026-11-24",
-      "titulo": "Câmara (CFT) — audiência pública sobre a alíquota de 11,3% da CBS",
-      "detalhe": "Realizada em 24/11: TCU defendeu o cálculo; CNI, CNA e CNC apontaram distorções; secretário da Receita deve ir a sessão posterior",
-      "url": "https://ndmais.com.br/politica/reforma-tributaria-camara-debate-aliquota-da-cbs/"
-    },
     {
       "data": "2026-11-30",
       "titulo": "Cooperativas — opção pelo regime específico (prazo em discussão / suspenso por liminar)",
